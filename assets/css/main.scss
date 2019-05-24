@@ -1,0 +1,78 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* type scale */
+html {
+  font-size: 15px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 15px; // change to whatever
+  }
+}
+
+/* dark syntax highlighting (base16) */
+$base00: #ffffff;
+$base01: #e0e0e0;
+$base02: #d0d0d0;
+$base03: #b0b0b0;
+$base04: #000000;
+$base05: #101010;
+$base06: #151515;
+$base07: #202020;
+$base08: #ff0086;
+$base09: #fd8900;
+$base0a: #aba800;
+$base0b: #00c918;
+$base0c: #1faaaa;
+$base0d: #3777e6;
+$base0e: #ad00a1;
+$base0f: #cc6633;
+
+/* custom elements */
+
+.masthead__menu-item {
+  font-size: $type-size-5;
+}
+
+.archive__item-title {
+    font-size: $type-size-5;
+    font-weight: normal;
+}
+
+section.page__content__tool {
+    margin-top: 27px;
+}
+
+footer.page__meta {
+    margin-top: 10px;
+}
+
+p.page__link {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: $type-size-4;
+}
+
+p.page__meta__misc {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p.page__excerpt {
+    font-size: $type-size-4;
+    margin-bottom: 10px;
+}
