@@ -1,4 +1,4 @@
-# VQEG STL Website
+# QUALINET Databases Website
 
 Author: Werner Robitza
 
