@@ -1,7 +1,5 @@
 # QUALINET Databases Website
 
-Author: Werner Robitza
-
 Go to [https://qualinet.github.io/database/](https://qualinet.github.io/databases/) to view the site.
 
 ## Development
@@ -26,9 +24,15 @@ bundle update
 
 This will install, among others, security updates. After updating,  Then, commit and push the `Gemfile` and `Gemfile.lock`.
 
+## Authors and Contact
+
+- Karel Fliegel
+- Lukáš Krasula
+- Werner Robitza
+
 ## License
 
-Copyright 2018 Werner Robitza
+Copyright 2019 QUALINET
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
