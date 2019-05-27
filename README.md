@@ -1,6 +1,6 @@
 # QUALINET Databases Website
 
-Go to [https://qualinet.github.io/database/](https://qualinet.github.io/databases/) to view the site.
+Go to [https://qualinet.github.io/databases/](https://qualinet.github.io/databases/) to view the site.
 
 ## Development
 
