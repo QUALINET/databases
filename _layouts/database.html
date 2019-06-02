@@ -41,8 +41,14 @@ layout: default
           <p class="page__meta__misc"><strong><i class="fas fa-fw fa-user" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].author_label | default: "Author:" }}</strong> {{ page.author }}
           </p>
         {% endif %}
-        {% if page.license %}
-          <p class="page__meta__misc"><strong><i class="fas fa-fw fa-balance-scale" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].license_label | default: "License:" }}</strong> {{ page.license }}
+        {% if page.contact_name or page.contact_email %}
+          <p class="page__meta__misc"><strong><i class="fas fa-fw fa-user" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].contact_label | default: "contact:" }}</strong>
+          {% if page.contact_name %}
+            {{ page.contact_name }}
+          {% endif %}
+          {% if page.contact_email %}
+            <code>{{ page.contact_email }}</code>
+          {% endif %}
           </p>
         {% endif %}
         {% include page__taxonomy.html %}
@@ -53,12 +59,7 @@ layout: default
         {% endif %}
         {% if page.external_link %}
           <p class="page__link">
-          <a href="{{ page.external_link }}" class="btn btn--primary"><i class="fas fa-fw fa-globe" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].ext_link_label | default: "Website" }}</a>
-          </p>
-        {% endif %}
-        {% if page.direct_download_link %}
-          <p class="page__link">
-          <a href="{{ page.direct_download_link }}" class="btn btn--success"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].direct_download_label | default: "Direct Download" }}</a>
+          <a href="{{ page.external_link }}" class="btn btn--info"><i class="fas fa-fw fa-globe" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].ext_link_label | default: "Website" }}</a>
           </p>
         {% endif %}
       </footer>
@@ -75,6 +76,29 @@ layout: default
         {{ content }}
       </section>
 
+      {% if page.license %}
+      <section class="page__content">
+        <h3><i class="fas fa-fw fa-balance-scale" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].license_label | default: "License" }}</h3>
+        {{ page.license }}
+      </section>
+      {% endif %}
+
+      {% if page.references %}
+      <section class="page__content" itemprop="text">
+        <h3>References and Citation</h3>
+        <p>{{ page.citation }}</p>
+        {% if page.references %}
+          {% if page.citation %}
+          <h4>References</h4>
+          {% endif %}
+          <ul>
+            {% for reference in page.references %}
+              <li><code>{{ reference[0] }}</code>: {{ reference[1] }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </section>
+      {% endif %}
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
@@ -89,7 +113,7 @@ layout: default
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "Related" }}</h4>
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}
           {% include archive-single.html type="grid" %}
@@ -99,7 +123,7 @@ layout: default
   {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
   {% elsif page.id and page.related %}
     <div class="page__related">
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "Related" }}</h4>
       <div class="grid__wrapper">
         {% for post in site.posts limit:4 %}
           {% include archive-single.html type="grid" %}

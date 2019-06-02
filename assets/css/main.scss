@@ -7,9 +7,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$baseFontSize: 15px;
+
 /* type scale */
 html {
-  font-size: 15px; // change to whatever
+  font-size: $baseFontSize; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 16px; // change to whatever
@@ -59,6 +61,7 @@ section.page__content__tool {
 
 footer.page__meta {
     margin-top: 10px;
+    font-size: $baseFontSize;
 }
 
 p.page__link {

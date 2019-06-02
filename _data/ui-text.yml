@@ -45,7 +45,8 @@ en: &DEFAULT_EN
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
   author_label               : "Author:"
-  license_label              : "License:"
+  contact_label              : "Contact:"
+  license_label              : "License"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
