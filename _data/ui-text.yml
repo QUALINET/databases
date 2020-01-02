@@ -47,6 +47,7 @@ en: &DEFAULT_EN
   author_label               : "Author:"
   contact_label              : "Contact:"
   license_label              : "License"
+  access_label               : "Access"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

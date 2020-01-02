@@ -1,25 +1,31 @@
-If you want to add a new tool, please add the following information:
+*If you want to add a new database, please edit this template and fill out the following info:*
 
-- **Title:** the name of the tool
-- **Excerpt:** a short description, not more than one line
-- **Author:** a list of authors or organization
-- **License:** a license name or general description, e.g. "non-commercial"
-- **Tags:** a list of tags, examples:
-    - operating systems (`linux`, `macos`, `windows`)
-    - programming languages (`python`, `c++`, …)
-    - licensing (`open-source`)
-- **Category:** one of the following
-    - Quality Analysis
-    - Stream Analyzers
-    - Encoders
-    - Simulators
-    - Subjective Test Software
-    - Helper Tools
-- **External Link:** the link to the website where the tool is hosted
-- **Direct Download Link:** a link to directly download the tool (if available)
+- `title`: The title of the database
+- `categories`: Any of `Image`, `Video`, `Audiovisual`, `Audio`
+- `excerpt`: A short description (optional)
+- `author`: The institution/author
+- `partner`: `true` if you are a QUALINET partner (optional)
+- `external_link`: A link to the database
+- `access`: A description of how to access the database
+- `publicly_available`: `true` if the database is publicly accessible
+- `citation`: A short description of how to cite the database (optional)
+- `references`: A list of references (optional), e.g.
+    - `[JD20a] John Doe, A sample reference, 2020`
+    - `[JD20b] John Doe, Another sample reference, 2020`
+- `license`: Any license statements (optional)
+- `contact_name`: A name or description of how to contact the author(s)
+- `contact_email`: A contact email
+- `tags`: Any tags you wish to add (optional)
+- `subjective_scores`: `true` if the database has subjective scores (optional)
+- `total`: Total number of sequences in the database (optional)
+- `src`: The number of SRCs (optional)
+- `hrc`: The number of HRCs (optional)
+- `ratings`: Number of subjective ratings (optional)
+- `resolution`: Resolutions used (optional)
+- `method`: Subjective test method used (optional)
 
-If you want, add a longer description of the tool here:
+*If you want, add a longer description of the database here:*
 
 **(add a longer description here)**
 
-You can use Markdown formatting to highlight text, include external images, create tables, etc. Use the "Preview" function to preview your post.
+*Note: You can use Markdown formatting to highlight text, include external images, create tables, etc. Use the "Preview" function to preview your post.**
