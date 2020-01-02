@@ -12,7 +12,7 @@ contact_name: Information for the database may be obtained by contacting  Werner
   Buchinger (shelley.buchinger@univie.ac.at)  Helmut Hlavacs (helmut.hlavacs@univie.ac.at)
 database: Made for Mobile Database
 excerpt: ''
-external_link: http://www.ani.univie.ac.at/~cacmtv/made-for-mobile/
+external_link: http://entertain.univie.ac.at/~cacmtv/made-for-mobile/
 hrc: ''
 license: 'Copyright: Entertainment Computing Research Group, University of Vienna  The
   contents of the Made for Mobile Database are available free of charge, but only
