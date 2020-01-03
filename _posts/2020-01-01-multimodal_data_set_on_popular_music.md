@@ -4,32 +4,25 @@ access: 'The files are available for download via HTTP. Link: http://traces.cs.u
   Mirrored site: http://www.cp.jku.at/musiclef'
 author: Johannes Kepler University Linz
 categories:
-- Audio
+- audio
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the paper [SOL13] at the MMSys conference (Proceedings of ACM MMSys 13, February
   27 - March 1, 2013, Oslo, Norway).
-contact_email: null
-contact_name: ''
 database: Multimodal Data Set on Popular Music
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Professionally annotated music
 partner: false
 publicly_available: true
-ratings: ''
 references:
   SOL13: Markus Schedl, Nicola Orio, Cynthia C. S. Liem, Geoffroy Peeters, A Professionally
     Annotated and Enriched Multimodal Data Set on Popular Music, Proceedings of the
     4th ACM Multimedia Systems Conferen (MMSys), Oslo, Norway, USA, February 27 -
     March 1, 2013.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Audio
+- audio
 title: Multimodal Data Set on Popular Music
 total: 1355
 ---

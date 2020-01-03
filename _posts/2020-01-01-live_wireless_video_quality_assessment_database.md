@@ -1,26 +1,21 @@
 ---
-access: ''
 author: LIVE - University of Texas
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: LIVE Wireless Video Quality Assessment Database
+deprecated: true
 excerpt: ''
 external_link: No longer available
-hrc: 16.0
-license: ''
+hrc: 16
 method: SSCQE
-other: ''
 partner: false
 publicly_available: true
-ratings: 29.0
+ratings: 29
 resolution: 768x480
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- Video
+- video
 title: LIVE Wireless Video Quality Assessment Database
 total: 160
 ---

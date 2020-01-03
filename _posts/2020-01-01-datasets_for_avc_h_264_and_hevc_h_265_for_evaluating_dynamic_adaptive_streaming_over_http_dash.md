@@ -2,34 +2,29 @@
 access: 'The files are available for download via HTTP. Link: https://www.ucc.ie/en/misl//research/current/ivid_dataset/'
 author: University College Cork
 categories:
-- Video
+- video
 citation: "Use of the datasets in published work should be acknowledged by a full\
   \ citation to the authors\u2019 papers [RFW16] at the MMSys conference: Proceedings\
   \ of ACM MMSys\u201916, Klagenfurt am W\xF6rthersee, Austria, May 10-13, 2016."
-contact_email: null
 contact_name: Jason J. Quinlan (j.quinlan@cs.ucc.ie) Ahmed H. Zahran (a.zahran@cs.ucc.ie)
   Cormac J. Sreenan (cjs@cs.ucc.ie)
 database: Datasets for AVC (H.264) and HEVC (H.265) for Evaluating Dynamic Adaptive
   Streaming over HTTP (DASH)
+deprecated: false
 excerpt: ''
 external_link: https://www.ucc.ie/en/misl//research/current/ivid_dataset/
-hrc: 5.0
-license: ''
-method: ''
-other: ''
+hrc: 5
 partner: false
 publicly_available: true
-ratings: ''
 references:
   QZS16: Quinlan, J.J., Zahran, A.H., Sreenan, C.J. Datasets for AVC (H.264) and HEVC
     (H.265) evaluation of dynamic adaptive streaming over HTTP (DASH), Proceedings
     of the 7th International Conference on Multimedia Systems, MMSys 2016, art. no.
     2938641, pp. 386-391.
-resolution: ''
-src: 6.0
+src: 6
 subjective_scores: false
 tags:
-- Video
+- video
 title: Datasets for AVC (H.264) and HEVC (H.265) for Evaluating Dynamic Adaptive Streaming
   over HTTP (DASH)
 total: 30

@@ -6,32 +6,28 @@ access: 'The size of all 15 sequences (3840x2160) is about 270GB, with both YUV 
   through the following link: Link: http://medialab.sjtu.edu.cn/web4k/index.html'
 author: Shanghai Jiao Tong University
 categories:
-- Video
+- video
 citation: 'This dataset is available for free and academic research only, no commercial
   use. Please cite the paper [STZ13] in any published work if you use those video
   sequences. '
-contact_email: null
 contact_name: 'Institute of Image Communication & Information Processing, Shanghai
   Jiao Tong University, China: Li Song (song_li@sjtu.edu.cn)'
 database: SJTU 4K Video Sequence Dataset
+deprecated: false
 excerpt: ''
 external_link: http://medialab.sjtu.edu.cn/web4k/index.html
-hrc: 1.0
-license: ''
-method: ''
-other: ''
+hrc: 1
 partner: false
 publicly_available: true
-ratings: ''
 references:
   STZ13: L. Song, X. Tang, W. Zhang, X. Yang, P. Xia, The SJTU 4K Video Sequence Dataset,
     the Fifth International Workshop on Quality of Multimedia Experience (QoMEX2013),
     Klagenfurt, Austria, July 3rd-5th, 2013.
 resolution: 3840x2160
-src: 15.0
+src: 15
 subjective_scores: false
 tags:
-- Video
+- video
 title: SJTU 4K Video Sequence Dataset
 total: 15
 ---

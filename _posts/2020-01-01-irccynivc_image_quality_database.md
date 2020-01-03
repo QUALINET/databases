@@ -4,31 +4,26 @@ access: 'ZIP archive (~116MB), no password. Link: http://www2.irccyn.ec-nantes.f
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
-citation: ''
-contact_email: null
-contact_name: ''
+- image
 database: IRCCyN/IVC Image Quality Database
+deprecated: false
 excerpt: ''
 external_link: http://www2.irccyn.ec-nantes.fr/ivcdb/
-hrc: 25.0
-license: ''
+hrc: 25
 method: DSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 15.0
+ratings: 15
 references:
   LA06: Patrick Le Callet, Florent Autrusseau, Subjective quality assessment IRCCyN/IVC
     database, http://www.irccyn.ec-nantes.fr/ivcdb/.
   NLA06: Alexandre Ninassi, Patrick Le Callet, Florent Autrusseau, "Pseudo No Reference
     image quality metric using perceptual data hiding", in SPIE Human Vision and Electronic
     Imaging, vol. 6057-08, San Jose, CA, USA, January 2006.
-resolution: ''
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC Image Quality Database
 total: 235
 ---

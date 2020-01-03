@@ -4,16 +4,15 @@ access: 'You can download all lists of fixation points and fixation density maps
   soon!'
 author: EPFL
 categories:
-- Video
+- video
 citation: If you use the EyeC3D dataset in your research, we kindly ask you to reference
   the following paper [HE14] and URL link of this website (http://mmspg.epfl.ch/eyec3d).
-contact_email: null
 contact_name: In case of any problems or questions, please send an email to Philippe
   Hanhart (philippe.hanhart@epfl.ch).
 database: 'EyeC3D: 3D video eye tracking dataset'
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/eyec3d
-hrc: ''
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -24,21 +23,18 @@ license: "Permission is hereby granted, without written agreement and without li
   \ provided hereunder is on an \"as is\" basis and the Ecole Polytechnique F\xE9\
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 21.0
+ratings: 21
 references:
   HE14: 'P. Hanhart and T. Ebrahimi. EyeC3D: 3D video eye tracking dataset. Sixth
     International Workshop on Quality of Multimedia Experience (QoMEX), Singapore,
     September 2014.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: 'EyeC3D: 3D video eye tracking dataset'
 total: 8
 ---

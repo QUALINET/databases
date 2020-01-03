@@ -4,16 +4,15 @@ access: To get in contact and receive download instructions, please write an inf
   your personal data (name, e-mail address) and affiliation with us.
 author: "Universit\xE4t Wien, Entertainment Computing (EC)"
 categories:
-- Audiovisual
+- audiovisual
 citation: Please cite the two works [BWL12], [RPN12] listed under References.
-contact_email: null
 contact_name: Information for the database may be obtained by contacting  Werner Robitza
   (werner.robitza@univie.ac.at)  Yohann Pitrey (yohann.pitrey@univie.ac.at)  Shelley
   Buchinger (shelley.buchinger@univie.ac.at)  Helmut Hlavacs (helmut.hlavacs@univie.ac.at)
 database: Made for Mobile Database
+deprecated: true
 excerpt: ''
-external_link: http://entertain.univie.ac.at/~cacmtv/made-for-mobile/
-hrc: ''
+external_link: http://www.ani.univie.ac.at/~cacmtv/made-for-mobile/
 license: 'Copyright: Entertainment Computing Research Group, University of Vienna  The
   contents of the Made for Mobile Database are available free of charge, but only
   on personal request. Permission is hereby granted, without written agreement and
@@ -23,11 +22,8 @@ license: 'Copyright: Entertainment Computing Research Group, University of Vienn
   copies of this database, and the original source of this database, Entertainment
   Computing Research Group, University of Vienna  is acknowledged in any publication
   that reports research using this database.'
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   BWL12: 'S. Buchinger, J. Wippersberg, K. Lojka, K. Macher, W. Robitza, M. Nezveda,
     P. Hummelbrunner and H. Hlavacs: Mobile TV Content Design Rules, in: TV Content
@@ -36,10 +32,9 @@ references:
     Mobile: A Video Database Designed for Mobile Television. In VPQM - Sixth International
     Workshop on Video Processing and Quality Metrics for Consumer Electronics, 2012'
 resolution: 1080p and 720p
-src: ''
 subjective_scores: false
 tags:
-- Audiovisual
+- audiovisual
 title: Made for Mobile Database
 total: 22
 ---

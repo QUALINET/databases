@@ -10,32 +10,30 @@ access: 'Database in ZIP archives, password protected, password upon request Lut
   file http://ltslinux18.epfl.ch/~goldmann/3diqa/MosCi.zip'
 author: EPFL
 categories:
-- Image
+- image
 citation: If you use this database in your research we kindly ask you to reference
   this website and the paper below [GDE10].
-contact_email: null
 contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: MMSPG 3D Image Quality Assessment Database
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/3diqa
-hrc: 6.0
-license: ''
+hrc: 6
 method: SS
-other: ''
 partner: true
 publicly_available: true
-ratings: 17.0
+ratings: 17
 references:
   GDE10b: 'Lutz Goldmann, Francesca De Simone, Touradj Ebrahimi: "Impact of Acquisition
     Distortions on the Quality of Stereoscopic Images", 5th International Workshop
     on Video Processing and Quality Metrics for Consumer Electronics (VPQM), Scottsdale,
     USA, 2010.'
 resolution: 1920x1080
-src: 9.0
+src: 9
 subjective_scores: true
 tags:
-- 3D
-- Image
+- 3d
+- image
 title: MMSPG 3D Image Quality Assessment Database
 total: 54
 ---

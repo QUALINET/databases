@@ -5,16 +5,15 @@ access: 'You can download all video files and associated XML-based annotations f
   total size of the dataset is about 825 MB.'
 author: EPFL
 categories:
-- Video
+- video
 citation: You can use PEViD dataset in your research without any conditions, as long
   as you clearly mention and acknowledge the following paper [KE13].
-contact_email: null
 contact_name: In case of any problems or questions, please send an email to Pavel
   Korshunov (pavel.korshunov@epfl.ch).
 database: 'PEViD-HD: Privacy Evaluation Video Dataset'
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/pevid-hd
-hrc: ''
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -25,20 +24,17 @@ license: "Permission is hereby granted, without written agreement and without li
   \ provided hereunder is on an \"as is\" basis and the Ecole Polytechnique F\xE9\
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
-method: ''
 other: Privacy annotation
 partner: true
 publicly_available: true
-ratings: ''
 references:
   KE13: 'P. Korshunov and T. Ebrahimi, PEViD: privacy evaluation video dataset, In
     SPIE Applications of Digital Image Processing XXXVI, volume 8856, San Diego, California,
     USA, Aug. 2013.'
 resolution: HD (1920x1080)
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: 'PEViD-HD: Privacy Evaluation Video Dataset'
 total: 21
 ---

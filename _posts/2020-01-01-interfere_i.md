@@ -3,28 +3,22 @@ access: 'Link: http://www.erc-interfere.eu/downloads.html#INTERFERE-I'
 author: Vrije Universiteit Brussel
 categories: []
 citation: If you use this Database, please cite this reference [BAS15].
-contact_email: null
 contact_name: Peter Schelkens (pschelke@etro.vub.ac.be)
 database: INTERFERE I
+deprecated: false
 excerpt: ''
 external_link: http://www.erc-interfere.eu/downloads.html#INTERFERE-I
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   BAS15,: D.Blinder, A.Ahar, A.Symeonidou, Y.Xing, T.Bruylants, C.Schretter, B. Pesquet-Popescu,
     F. Dufaux, A. Munteanu, P.Schelkens, Open Access Database for Experimental Validations
     of Holographic Compression Engines, 7th International Workshop on Quality of Multimedia
     Experience (QoMEX), Costa Navarino, Greece, May 26-29, 2015.
 resolution: HD (1920x1080)
-src: ''
 subjective_scores: false
 tags:
-- Holographic
+- holographic
 title: INTERFERE I
 total: 5
 ---

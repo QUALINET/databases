@@ -2,25 +2,17 @@
 access: 'List of links is available at Link: http://media.xiph.org/video/derf/'
 author: Xiph.org
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: Xiph.org Test Media
+deprecated: false
 excerpt: ''
 external_link: http://media.xiph.org/video/derf/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 resolution: SD, HD
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: Xiph.org Test Media
 total: 80
 ---

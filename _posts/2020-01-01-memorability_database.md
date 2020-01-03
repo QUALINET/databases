@@ -3,29 +3,24 @@ access: 'The dataset can be downloaded from the webpage: Link: http://www.tcts.f
   Direct link to the ZIP file: Link: http://www.tcts.fpms.ac.be/attention/data/documents/data/memorability.zip'
 author: "Facult\xE9 Polytechnique de Mons"
 categories:
-- Image
+- image
 citation: If you use the database, please cite this reference [ML13].
-contact_email: null
-contact_name: ''
 database: Memorability database
+deprecated: true
 excerpt: ''
 external_link: http://www.tcts.fpms.ac.be/attention/
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 10.0
+ratings: 10
 references:
   ML13: 'M. Mancas, O. Le Meur, Memorability of Natural Scenes: the Role of Attention,
     Proceedings of the International Conference on Image Processing (IEEE ICIP 2013),
     Melbourne, Australia, September 15-18.'
 resolution: 800x600
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: Memorability database
 total: 135
 ---

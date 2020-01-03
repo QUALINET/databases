@@ -2,33 +2,31 @@
 access: 'The files are available for download via HTTP. Link: http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: "Use of the datasets in published work should be acknowledged by a full\
   \ citation to the authors\u2019 papers [VRP16] at the MMSys conference: Proceedings\
   \ of ACM MMSys\u201916, Klagenfurt am W\xF6rthersee, Austria, May 10-13, 2016."
-contact_email: null
 contact_name: Toinon Vigier (toinon.vigier@univnantes.fr) Josselin Rousseau (josselin.rousseau@univnantes.fr)
   Matthieu Perreira Da Silva (matthieu.perreiradasilva@univnantes.fr) Patrick Le Callet
   (patrick.lecallet@univnantes.fr)
 database: A new HD and UHD video eye tracking dataset
+deprecated: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/
-hrc: ''
-license: ''
 method: Custom
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 35.0
+ratings: 35
 references:
   VRP16: Vigier, T., Rousseau, J., Perreira Da Silva, M., Le Callet, P. A new HD and
     UHD video eye tracking dataset, Proceedings of the 7th International Conference
     on Multimedia Systems, MMSys 2016,  pp. 368-373.
 resolution: HD, UHD
-src: 37.0
+src: 37
 subjective_scores: false
 tags:
-- Video
+- video
 title: A new HD and UHD video eye tracking dataset
 total: 37
 ---

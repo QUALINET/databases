@@ -2,25 +2,21 @@
 access: 'Registration required Link: http://www.cdvl.org/'
 author: VQEG
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: VQEG HDTV Database
+deprecated: true
 excerpt: ''
 external_link: www.cdvl.org
-hrc: 15.0
-license: ''
+hrc: 15
 method: ACR
-other: ''
 partner: false
 publicly_available: true
-ratings: 24.0
+ratings: 24
 resolution: 1080i/p
-src: 45.0
+src: 45
 subjective_scores: true
 tags:
-- Video
+- video
 title: VQEG HDTV Database
 total: 675
 ---

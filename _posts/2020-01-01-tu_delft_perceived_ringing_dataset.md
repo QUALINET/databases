@@ -4,22 +4,17 @@ access: 'ZIP archive, password protected, password upon request Hantao Liu (Hant
   Link, Ringing annoyance experiment: http://mmi.tudelft.nl/iqlab/databases/RingingAnnoyanceExperiment.zip'
 author: TU Delft
 categories:
-- Image
+- image
 citation: The database containing subjective data of perceived ringing is publicly
   available to the research community. Please cite the following references if you
   use this database in your research [LKH10]. [LKH10b], [LKH10c].
-contact_email: null
-contact_name: ''
 database: TU Delft Perceived Ringing Dataset
+deprecated: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/ringing.html
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   LKH10: H. Liu, N. Klomp and I. Heynderickx, "A No-Reference Metric for Perceived
     Ringing Artifacts in Images", IEEE Transactions on Circuits and Systems for Video
@@ -29,11 +24,9 @@ references:
     1414-1426, June, 2010.
   LKH10c: 'H. Liu, N. Klomp and I. Heynderickx, "TUD Image Quality Database: Perceived
     Ringing", http://mmi.tudelft.nl/iqlab/ringing.html.'
-resolution: ''
-src: ''
 subjective_scores: true
 tags:
-- Image
+- image
 title: TU Delft Perceived Ringing Dataset
 total: 55
 ---

@@ -5,30 +5,27 @@ access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective q
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [CPA10].
-contact_email: null
 contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC DWTvsDTCWT DB
+deprecated: false
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/MeerwaldDB/
-hrc: 24.0
-license: ''
+hrc: 24
 method: DSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 14.0
+ratings: 14
 references:
   CPA10: M. Carosi, V. Pankajakshan, F. Autrusseau, "Toward a simplified perceptual
     quality metric for watermarking applications", Proceedings of the SPIE Electronic
     Imaging, conf. 7542, January 2010, San Jose, CA, USA.
-resolution: ''
-src: 5.0
+src: 5
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC DWTvsDTCWT DB
 total: 120
 ---

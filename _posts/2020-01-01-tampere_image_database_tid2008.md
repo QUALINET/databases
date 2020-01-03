@@ -2,21 +2,19 @@
 access: 'RAR archive (~550MB), no password. Link: http://www.ponomarenko.info/tid/tid2008.rar'
 author: Tampere University of Technology
 categories:
-- Image
+- image
 citation: In case of publishing results obtained by means of TID2008 please refer
   to one of the following papers [PLZ08], [PBE09].
-contact_email: null
 contact_name: Nikolay Ponomarenko (nikolay@ponomarenko.info)
 database: Tampere Image Database (TID2008)
+deprecated: false
 excerpt: ''
 external_link: http://www.ponomarenko.info/tid2008.htm
-hrc: 68.0
-license: ''
+hrc: 68
 method: Custom
-other: ''
 partner: false
 publicly_available: true
-ratings: 144.0
+ratings: 144
 references:
   PBE09: N. Ponomarenko, F. Battisti, K. Egiazarian, J. Astola, V. Lukin "Metrics
     performance comparison for color image database", Fourth international workshop
@@ -26,10 +24,10 @@ references:
     "TID2008 - A Database for Evaluation of Full-Reference Visual Quality Assessment
     Metrics", Advances of Modern Radioelectronics, Vol. 10, pp. 30-45, 2009.
 resolution: 512x384
-src: 25.0
+src: 25
 subjective_scores: true
 tags:
-- Image
+- image
 title: Tampere Image Database (TID2008)
 total: 1700
 ---

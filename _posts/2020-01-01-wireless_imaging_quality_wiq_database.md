@@ -8,15 +8,13 @@ access: 'ZIP archives, password protected, password upon request Ulrich Engelke 
   WIQ readme file (~3 kB) http://www.bth.se/tek/rcg.nsf/attachments/wiq_readme_zip/$file/wiq_readme.zip'
 author: Blekinge Institute of Technology
 categories:
-- Image
+- image
 citation: If you use the WIQ database for your research, we kindly ask you to refer
   to our paper [EKZ09], and also to this website [EZK10].
-contact_email: null
-contact_name: ''
 database: Wireless Imaging Quality (WIQ) Database
+deprecated: true
 excerpt: ''
 external_link: http://www.bth.se/tek/rcg.nsf/pages/wiq-db
-hrc: ''
 license: Permission is hereby granted, without written agreement and without license
   or royalty fees, to use, copy, modify, and distribute the data provided and its
   documentation for research purpose only. The data provided may not be commercially
@@ -27,10 +25,9 @@ license: Permission is hereby granted, without written agreement and without lic
   and the Blekinge Institute of Technology has no obligation to provide maintenance,
   support, updates, enhancements, or modifications.
 method: DSCQS
-other: ''
 partner: true
 publicly_available: true
-ratings: 30.0
+ratings: 30
 references:
   EKZ09: 'U. Engelke, M. Kusuma, H.-J. Zepernick, M. Caldera, "Reduced-Reference Metric
     Design for Objective Perceptual Quality Assessment in Wireless Imaging," Signal
@@ -38,10 +35,10 @@ references:
   EZK10: U. Engelke, H.-J. Zepernick, and M. Kusuma, "Wireless Imaging Quality Database,"
     http://www.bth.se/tek/rcg.nsf/pages/wiq-db, 2010.
 resolution: 512x512
-src: 7.0
+src: 7
 subjective_scores: true
 tags:
-- Image
+- image
 title: Wireless Imaging Quality (WIQ) Database
 total: 80
 ---

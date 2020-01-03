@@ -4,16 +4,15 @@ access: 'Data is accessible via FTP (Username: videodb, Password: sequence2011) 
   HTTP: Link: http://ivp.ee.cuhk.edu.hk/research/database/subjective/Detailed%20Information%20about%20the%20IVP%20Subjective%20Quality%20Video%20Database.pdf'
 author: Chinese University of Hong Kong
 categories:
-- Video
-citation: ''
-contact_email: null
+- video
 contact_name: Dr. Fan ZHANG (fzhang@ee.cuhk.edu.hk) Mr. Songnan LI (snli@ee.cuhk.edu.hk)
   Mr. Lin MA (lma@ee.cuhk.edu.hk) Mr. Yuk Chung WONG (ycwong@ee.cuhk.edu.hk) Dr. King
   Ngi NGAN (knngan@ee.cuhk.edu.hk)
 database: IVP Subjective Quality Video Database
+deprecated: false
 excerpt: ''
 external_link: http://ivp.ee.cuhk.edu.hk/research/database/subjective/
-hrc: 3.0
+hrc: 3
 license: 2011 The Chinese University of Hong Kong All rights reserved.  Permission
   is hereby granted, without written agreement and without license or royalty fees,
   to use, copy, and distribute this database (the images, the results, and the source
@@ -34,15 +33,14 @@ license: 2011 The Chinese University of Hong Kong All rights reserved.  Permissi
   OF HONG KONG HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS,
   OR MODIFICATIONS.
 method: ACR
-other: ''
 partner: false
 publicly_available: true
-ratings: 42.0
+ratings: 42
 resolution: HD (1920x1080)
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- Video
+- video
 title: IVP Subjective Quality Video Database
 total: 128
 ---

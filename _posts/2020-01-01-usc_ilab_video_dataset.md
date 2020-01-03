@@ -3,31 +3,26 @@ access: '50 HD video clips, raw eye-tracking experiment data and video clips wit
   visualized eye-tracking fixations are available at the following link. Link: http://ilab.usc.edu/vagba/dataset/'
 author: University of Southern California
 categories:
-- Video
+- video
 citation: We have put a lot of effort into making these databases available to you.
   By downloading any of the databases below, you agree to properly cite the associated
   master reference, which typically is the paper where we first described the database
   and used it with our model, and to provide a link to the present web page.
-contact_email: null
 contact_name: Laurent Itti (itti@pollux.usc.edu)
 database: USC iLab Video Dataset
+deprecated: false
 excerpt: ''
 external_link: http://ilab.usc.edu/vagba/dataset/
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 14.0
+ratings: 14
 references:
   LQI11: van Li, Z., Qin, S., Itti, L. Visual attention guided bit allocation in video
     compression, Image and Vision Computing 29 (1), 2011, pp. 1-14.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: USC iLab Video Dataset
 total: 50
 ---

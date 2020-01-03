@@ -46,6 +46,10 @@ $base0f: #cc6633;
 
 /* custom elements */
 
+.notice {
+  font-size: $baseFontSize !important;
+}
+
 .masthead__menu-item {
   font-size: $type-size-5;
 }
@@ -61,7 +65,10 @@ section.page__content__tool {
 
 footer.page__meta {
     margin-top: 10px;
+    padding: 15px;
     font-size: $baseFontSize;
+    background-color: #efefef;
+    border-radius: 5px;
 }
 
 p.page__link {

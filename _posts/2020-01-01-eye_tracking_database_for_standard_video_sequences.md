@@ -2,29 +2,23 @@
 access: 'Data and available in one archive (478MB):  Link: http://www.sfu.ca/~ibajic/datasets/SFU_etdb.rar'
 author: Simon Fraser University
 categories:
-- Video
-citation: ''
-contact_email: null
+- video
 contact_name: "Ivan V. Baji\u0107 (ibajic@ensc.sfu.ca)"
 database: Eye tracking database for standard video sequences
+deprecated: false
 excerpt: ''
 external_link: http://www.sfu.ca/~ibajic/datasets.html
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 15.0
+ratings: 15
 references:
   HEB12: "H. Hadizadeh, M. J. Enriquez, and I. V. Baji\u0107, Eye-tracking database\
     \ for a set of standard video sequences, IEEE Trans. Image Processing, vol. 21,\
     \ no. 2, pp. 898-903, Feb. 2012."
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: Eye tracking database for standard video sequences
 total: 12
 ---

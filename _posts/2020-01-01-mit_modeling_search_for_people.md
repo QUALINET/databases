@@ -6,30 +6,24 @@ access: 'Data set: Image stimuli:  Link: http://cvcl.mit.edu/searchmodels/Datase
   Pre-generated maps: Saliency Maps: http://cvcl.mit.edu/searchmodels/saliencyMaps.zip'
 author: MIT
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: Aude Oliva (oliva@mit.edu)
 database: MIT Modeling search for people
+deprecated: false
 excerpt: ''
 external_link: http://cvcl.mit.edu/searchmodels/
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 14.0
+ratings: 14
 references:
   EHT09: 'Krista A. Ehinger, Barbara Hidalgo-Sotelo, Antonio Torralba, Aude Oliva,
     Modelling search for people in 900 scenes: A combined source model of eye guidance,
     Modelling search for people in 900 scenes: A combined source model of eye guidance,
     VISUAL COGNITION, 2009, 17 (6/7), 945-978.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: MIT Modeling search for people
 total: 912
 ---

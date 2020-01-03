@@ -2,35 +2,31 @@
 access: 'The files are available for download via HTTP. Link: http://geovid.org/dataset/'
 author: University of Southern California
 categories:
-- Video
+- video
 citation: "Use of the datasets in published work should be acknowledged by a full\
   \ citation to the authors\u2019 papers [LTA16] at the MMSys conference: Proceedings\
   \ of ACM MMSys\u201916, Klagenfurt am W\xF6rthersee, Austria, May 10-13, 2016."
-contact_email: null
 contact_name: Ying Lu (ylu720@usc.edu) Hien To(hto@usc.edu) Abdullah Alfarrarjeh (alfarrar@usc.edu)
   Seon Ho Kim (seonkim, shahabi@usc.edu) Yifang Yin (yifang@comp.nus.edu.sg) Roger
   Zimmermann (rogerz@comp.nus.edu.sg) Cyrus Shahabi (shahabi@usc.edu)
 database: 'GeoUGV: User-Generated Mobile Video Dataset with Fine Granularity Spatial
   Metadata'
+deprecated: false
 excerpt: ''
 external_link: http://geovid.org/dataset/
-hrc: ''
-license: ''
-method: ''
 other: Geotags
 partner: false
 publicly_available: true
-ratings: 289.0
+ratings: 289
 references:
   LTA16: 'Lu, Y., To, H., Alfarrarjeh, A., Kim, S.H., Yin, Y., Zimmermann, R., Shahabi,
     C. GeoUGV: User-generated mobile video dataset with fine granularity spatial metadata,
     Proceedings of the 7th International Conference on Multimedia Systems, MMSys 2016,
     pp. 338-343.'
-resolution: ''
-src: 2397.0
+src: 2397
 subjective_scores: false
 tags:
-- Video
+- video
 title: 'GeoUGV: User-Generated Mobile Video Dataset with Fine Granularity Spatial
   Metadata'
 total: 2397

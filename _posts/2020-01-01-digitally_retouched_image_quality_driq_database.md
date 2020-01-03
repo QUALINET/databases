@@ -3,28 +3,23 @@ access: 'ZIP archives, no password. Links: Subjective rating: http://vision.okst
   Images: http://vision.okstate.edu/driq/DRIQ.zip'
 author: Oklahoma State University
 categories:
-- Image
-citation: ''
-contact_email: null
-contact_name: ''
+- image
 database: Digitally Retouched Image Quality (DRIQ) Database
+deprecated: true
 excerpt: ''
 external_link: http://vision.okstate.edu/index.php?loc=driq
-hrc: ''
-license: ''
 method: PC
-other: ''
 partner: false
 publicly_available: true
-ratings: 9.0
+ratings: 9
 references:
   VPC14: Cuong Vu, Thien Phan, and Damon Chandler, Can Current Image Quality Assessment
     Algorithms Predict Visual Quality of Enhanced Images?, preprint, 2014.
 resolution: 512x512
-src: 26.0
+src: 26
 subjective_scores: true
 tags:
-- Image
+- image
 title: Digitally Retouched Image Quality (DRIQ) Database
 total: 106
 ---

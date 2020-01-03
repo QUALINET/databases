@@ -2,31 +2,29 @@
 access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/PairCompTMO/'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [KNF14].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Pair Comparison between TMO images
+deprecated: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/PairCompTMO/
-hrc: 10.0
-license: ''
+hrc: 10
 method: Pair comparison
-other: ''
 partner: true
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   KNF14: L. Krasula, M. Narwaria, K. Fliegel, P. Le Callet, Influence of hdr reference
     on observers preference in tone-mapped images, 7th International Workshop on Quality
     of Multimedia Experience (QoMEX), 26-29 May 2014.
 resolution: 1920x1080
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: IRCCyN/IVC Pair Comparison between TMO images
 total: 100
 ---

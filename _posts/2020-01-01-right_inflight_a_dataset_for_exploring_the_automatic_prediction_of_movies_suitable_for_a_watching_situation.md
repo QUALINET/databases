@@ -2,34 +2,30 @@
 access: 'The files are available for download via Dropbox. Link: https://www.dropbox.com/sh/j7nunecnzfjrp2r/AAC1BAf5JEv-rGUW9h02L2X2a?dl=0'
 author: University of Oslo
 categories:
-- Video
+- video
 citation: "Use of the datasets in published work should be acknowledged by a full\
   \ citation to the authors\u2019 papers [RLS16] at the MMSys conference: Proceedings\
   \ of ACM MMSys\u201916, Klagenfurt am W\xF6rthersee, Austria, May 10-13, 2016."
-contact_email: null
 contact_name: Michael Riegler (michael@simula.no) Martha Larson (m.a.larson@tudelft.nl)
   Concetto Spampinato (cspampin@dieei.unict.it) Mathias Lux (mlux@itec.aau.at)
 database: Right Inflight? A Dataset for Exploring the Automatic Prediction of Movies
   Suitable for a Watching Situation
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Human annotation
 partner: false
 publicly_available: true
-ratings: 584.0
+ratings: 584
 references:
   RLS16: Riegler, M., Larson, M., Spampinato, C., Halvorsen, P., Lux, M., Markussen,
     J., Pogorelov, K., Griwodz, C., Stensland, H. Right Inflight? A dataset for exploring
     the automatic prediction of movies suitable for a watching situation, Proceedings
     of the 7th International Conference on Multimedia Systems, MMSys 2016, pp. 349-355.
-resolution: ''
-src: 318.0
+src: 318
 subjective_scores: false
 tags:
-- Video
+- video
 title: Right Inflight? A Dataset for Exploring the Automatic Prediction of Movies
   Suitable for a Watching Situation
 total: 318

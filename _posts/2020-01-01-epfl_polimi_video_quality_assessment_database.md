@@ -2,15 +2,14 @@
 access: 'ZIP archive, no password Link: http://vqa.como.polimi.it/QAdatabase/online_DB.zip'
 author: EPFL
 categories:
-- Video
+- video
 citation: If you use our data for your own publications please do not forget to reference
   this website and our papers [DNT09], [DNT10].
-contact_email: null
-contact_name: ''
 database: EPFL-PoliMI Video Quality Assessment Database
+deprecated: false
 excerpt: ''
 external_link: http://vqa.como.polimi.it/
-hrc: 9.0
+hrc: 9
 license: Permission is hereby granted, without written agreement and without license
   or royalty fees, to use, copy, modify, and distribute the data provided and its
   documentation for research purpose only. The data provided may not be commercially
@@ -23,10 +22,9 @@ license: Permission is hereby granted, without written agreement and without lic
   di Milano have no obligation to provide maintanance, support, updates, enhancements,
   or modifications.
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 40.0
+ratings: 40
 references:
   DNT09: "Francesca De Simone, Matteo Naccari, Marco Tagliasacchi, Frederic Dufaux,\
     \ Stefano Tubaro, and Touradj Ebrahimi, \"SUBJECTIVE ASSESSMENT OF H.264/AVC VIDEO\
@@ -36,10 +34,10 @@ references:
     \ and Touradj Ebrahimi, \"H.264/AVC VIDEO DATABASE FOR THE EVALUATION OF QUALITY\
     \ METRICS\", (ICASSP 2010), March 14\u201319 2010, Dallas, Texas, U.S.A."
 resolution: CIF/4CIF
-src: 16.0
+src: 16
 subjective_scores: true
 tags:
-- Video
+- video
 title: EPFL-PoliMI Video Quality Assessment Database
 total: 156
 ---

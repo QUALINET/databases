@@ -9,15 +9,13 @@ access: 'ZIP archives, password protected, password upon request Ulrich Engelke 
   VAIQ readme file (~4 kB) http://www.sea-mist.se/tek/rcg.nsf/attachments/vaiq_readme_3_zip/$file/vaiq_readme_3.zip'
 author: Blekinge Institute of Technology
 categories:
-- Image
+- image
 citation: If you use the VAIQ database for your research, we kindly ask you to refer
   to our paper [EMZ09] and to this website [EMZ09b].
-contact_email: null
-contact_name: ''
 database: Visual Attention for Image Quality Database (VAIQ)
+deprecated: true
 excerpt: ''
 external_link: http://www.sea-mist.se/tek/rcg.nsf/pages/vaiq-db
-hrc: ''
 license: Permission is hereby granted, without written agreement and without license
   or royalty fees, to use, copy, modify, and distribute the data provided and its
   documentation for research purpose only. The data provided may not be commercially
@@ -28,22 +26,19 @@ license: Permission is hereby granted, without written agreement and without lic
   disclaim any warranties. The data provided is on an "as is" basis and the Blekinge
   Institute of Technology and the University of Western Sydney have no obligation
   to provide maintenance, support, updates, enhancements, or modifications.
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 15.0
+ratings: 15
 references:
   EMZ09: U. Engelke, A. J. Maeder, and H.-J. Zepernick, "Visual Attention Modeling
     for Subjective Image Quality Databases," in Proc. of IEEE Int. Workshop on Multimedia
     Signal Processing (MMSP), October 2009.
   EMZ09b: U. Engelke, A. J. Maeder, and H.-J. Zepernick, "Visual Attention for Image
     Quality Database," http://www.bth.se/tek/rcg.nsf/pages/vaiq-db, 2009.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: Visual Attention for Image Quality Database (VAIQ)
 total: 42
 ---

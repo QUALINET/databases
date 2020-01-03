@@ -3,16 +3,16 @@ access: Download information for the database may be obtained by contacting Kalp
   Seshadrinathan (kalpana.seshadrinathan@ieee.org).
 author: LIVE - University of Texas
 categories:
-- Video
+- video
 citation: We are making the LIVE Video Quality Database available to the research
   community free of charge. If you use this database in your research, we kindly ask
   that you reference our papers listed below [SSB10], [SSB10b].
-contact_email: null
 contact_name: Kalpana Seshadrinathan (kalpana.seshadrinathan@ieee.org)
 database: LIVE Video Quality Database
+deprecated: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/live_video.html
-hrc: 15.0
+hrc: 15
 license: 'Link: http://live.ece.utexas.edu/research/quality/live_video.html Permission
   is hereby granted, without written agreement and without license or royalty fees,
   to use, copy, modify, and distribute this database (the images, the results and
@@ -23,10 +23,9 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/live_video.html Perm
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database.'
 method: ACR
-other: ''
 partner: false
 publicly_available: true
-ratings: 29.0
+ratings: 29
 references:
   SSB10: K. Seshadrinathan, R. Soundararajan, A. C. Bovik and L. K. Cormack, "Study
     of Subjective and Objective Quality Assessment of Video", IEEE Transactions on
@@ -35,10 +34,10 @@ references:
     Study to Evaluate Video Quality Assessment Algorithms", SPIE Proceedings Human
     Vision and Electronic Imaging, Jan. 2010.
 resolution: 768x432p
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- Video
+- video
 title: LIVE Video Quality Database
 total: 150
 ---

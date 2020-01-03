@@ -5,32 +5,30 @@ access: PEViD dataset is publicly available for research. We are still in the pr
   and will be provided with the access instructions.
 author: EPFL
 categories:
-- Video
+- video
 citation: 'If you use this Dataset in your work, please, cite the following paper
   in the references: [KE2013]'
-contact_email: null
 contact_name: Information for the database may be obtained by contacting Pavel Korshunov
   (pavel.korshunov@epfl.ch) Touradj Ebrahimi (touradj.ebrahimi@epfl.ch)
 database: 'PEViD: Privacy Evaluation Video Dataset'
+deprecated: true
 excerpt: ''
 external_link: http://mmspg.epfl.ch/page-58275.html
-hrc: ''
 license: The data is distributed under the CClicence - Creative Commons Attribution-Noncommercial-ShareAlike
   (CC BY-NC-SA 4.0). The full licence info can be viewed here (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 method: Custom
 other: XML annotations of privacy regions
 partner: true
 publicly_available: true
-ratings: ''
 references:
   KE2013: 'Pavel Korshunov and Touradj Ebrahimi, PEViD: Privacy Evaluation Video Dataset,
     in proceedings of proc. SPIE Applications of Digital Image Processing XXXVI, volume
     8856, 2013.'
 resolution: HD (1920x1080)
-src: 40.0
+src: 40
 subjective_scores: false
 tags:
-- Video
+- video
 title: 'PEViD: Privacy Evaluation Video Dataset'
 total: 20
 ---

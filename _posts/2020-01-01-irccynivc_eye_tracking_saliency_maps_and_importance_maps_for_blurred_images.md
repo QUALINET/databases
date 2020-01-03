@@ -2,30 +2,28 @@
 access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes.fr/Intentionally_Blurred_Background_Images/'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [LWR11].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Eye-tracking saliency maps and importance maps for blurred images
+deprecated: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/Intentionally_Blurred_Background_Images/
-hrc: 6.0
-license: ''
-method: ''
+hrc: 6
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 18.0
+ratings: 18
 references:
   LWR11: H. Liu, J. Wang, J. Redi, P. Le Callet, H. Ingrid. An efficient no-reference
     metric for perceived blur, 2011 3rd European Workshop on Visual Information Processing
     (EUVIP), Jun 2011, Paris, France.
 resolution: 481x321
-src: 12.0
+src: 12
 subjective_scores: false
 tags:
-- Image
+- image
 title: IRCCyN/IVC Eye-tracking saliency maps and importance maps for blurred images
 total: 72
 ---

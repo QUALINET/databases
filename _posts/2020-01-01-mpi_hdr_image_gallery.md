@@ -7,26 +7,19 @@ access: 'OpenEXR images are available at: Link: http://www.mpi-inf.mpg.de/resour
   http://www.mpi-inf.mpg.de/resources/hdr/img_hdr/mpi_atrium_1.exr'
 author: Max-Planck-Institut Informatik
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: "Rafa\u0142 K. Mantiuk (mantiuk@gmail.com)"
 database: MPI HDR Image Gallery
+deprecated: false
 excerpt: ''
 external_link: http://www.mpi-inf.mpg.de/resources/hdr/gallery.html
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
-resolution: ''
-src: 7.0
+src: 7
 subjective_scores: false
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: MPI HDR Image Gallery
 total: 7
 ---

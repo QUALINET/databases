@@ -2,20 +2,16 @@
 access: 'Data and code available in one archive (183.2MB):  Link: http://www.cs.stonybrook.edu/~kyun/research/gaze/dataset/SBUGazeDetectionDescriptionDataset_v0.2.tgz'
 author: Stony Brook University
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: Dimitris Samaras (samaras@cs.sunysb.edu)
 database: SBU Gaze-Detection-Description Dataset
+deprecated: false
 excerpt: ''
 external_link: http://www.cs.stonybrook.edu/~kyun/research/gaze/index.html
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 11.0
+ratings: 11
 references:
   YPA13: Kiwon Yun, Yifan Peng, Hossein Adeli, Tamara L. Berg, Dimitris Samaras, and
     Gregory J. Zelinsky, Specifying the Relationships Between Objects, Gaze, and Descriptions
@@ -26,11 +22,9 @@ references:
   YPS13b: 'Kiwon Yun, Yifan Peng, Dimitris Samaras, Gregory J. Zelinsky and Tamara
     L. Berg, Exploring the Role of Gaze Behavior and Object Detection in Scene Understanding,
     Frontiers in Psychology, December 2013, 4(917): 1-14'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: SBU Gaze-Detection-Description Dataset
 total: 1000
 ---

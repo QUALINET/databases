@@ -5,30 +5,27 @@ access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective q
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [SPA09].
-contact_email: null
 contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC LAR database
+deprecated: false
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/FourierSB/
-hrc: 15.0
-license: ''
+hrc: 15
 method: DSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   SPA09: C. Strauss, F. Pasteau, F. Autrusseau, M. Babel, L. Bedat, O. Deforges, "Subjective
     and Objective Quality Evaluation of LAR coded art images", IEEE Intl. Conf. on
     Multimedia & Expo, ICME 2009, New York, USA, June 28 - July 3 2009.
-resolution: ''
-src: 8.0
+src: 8
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC LAR database
 total: 120
 ---

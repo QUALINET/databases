@@ -4,15 +4,15 @@ access: 'Database is password protected. If you are interesting to download the 
   from the link below. Link: http://www.helsinki.fi/~msjnuuti/CID2013/CID2013.zip'
 author: University of Helsinki
 categories:
-- Image
+- image
 citation: If you use these images in your research, we kindly ask that you follow
   the copyright notice and cite the following paper [VNV15].
-contact_email: null
 contact_name: Toni Virtanen (toni.virtanen@helsinki.fi)
 database: CID2013 Camera Image Database
+deprecated: true
 excerpt: ''
 external_link: http://www.helsinki.fi/~msjnuuti/CID2013/
-hrc: 79.0
+hrc: 79
 license: Permission is hereby granted, without written agreement and without license
   or royalty fees, to use, copy, modify, and distribute this database (the videos,
   the images, the results and the source files) and its documentation for any purpose,
@@ -24,20 +24,17 @@ license: Permission is hereby granted, without written agreement and without lic
   using this database. Individual videos and images may not be used outside the scope
   of this database (e.g. in marketing purposes) without prior permission.
 method: DR-ACR
-other: ''
 partner: false
 publicly_available: true
-ratings: 188.0
+ratings: 188
 references:
   VNV15: "Virtanen, T., Nuutinen, M., Vaahteranoksa, M., Oittinen, P. and H\xE4kkinen,\
     \ J. CID2013: a database for evaluating no-reference image quality assessment\
     \ algorithms, IEEE Transactions on Image Processing, vol. 24, no. 1, pp. 390-402,\
     \ Jan. 2015."
-resolution: ''
-src: ''
 subjective_scores: true
 tags:
-- Image
+- image
 title: CID2013 Camera Image Database
 total: 480
 ---

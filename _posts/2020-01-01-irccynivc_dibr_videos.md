@@ -4,30 +4,28 @@ access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes
   dbq-mirrors  Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your publications if you use this database
   in your work [BLM12].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC DIBR Videos
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1156
-hrc: 34.0
-license: ''
+hrc: 34
 method: ACR-HR
-other: ''
 partner: true
 publicly_available: true
-ratings: 32.0
+ratings: 32
 references:
   BLM12: Emilie Bosc, Patrick Le Callet, Luce Morin, Muriel Pressigout, Visual quality
     assessment of synthesized views in the context of 3D-TV, 3D-TV System with Depth-Image-Based
     Rendering Architectures, Techniques and Challenges (2012) 439-474.
 resolution: 1024x768
-src: 3.0
+src: 3
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC DIBR Videos
 total: 102
 ---

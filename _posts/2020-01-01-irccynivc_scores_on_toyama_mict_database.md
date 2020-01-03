@@ -4,21 +4,18 @@ access: 'RAR archive (~80MB), no password. Link: ftp://ftp.ivc.polytech.univ-nan
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite one of the following papers [NLL08], [TAP08] in your reference
   if you use this database for your work.
-contact_email: null
-contact_name: ''
 database: IRCCyN/IVC Scores on Toyama (MICT) Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article552
-hrc: 13.0
-license: ''
+hrc: 13
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 27.0
+ratings: 27
 references:
   NLL08: Alexandre Ninassi, Olivier Le Meur, Patrick Le Callet and Dominique Barba,
     "Which Semi-Local Visual Masking Model For Wavelet Based Image Quality Metric
@@ -27,10 +24,10 @@ references:
     "Impact of the subjective dataset on the performance of image quality metrics",
     ICIP 2008. http://hal.archives-ouvertes.fr/hal-00343502/en/
 resolution: 768x512
-src: 14.0
+src: 14
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC Scores on Toyama (MICT) Database
 total: 168
 ---

@@ -9,31 +9,29 @@ access: 'The PVS (avi videos) and the bitstreams (H.264 and MPEG2 files) are ava
   Bitstreams (hmix and pcap files) on  ftp server: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/VQEG_HDTV_Pool2/'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your publications if you use this database
   in your work [BPP10].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC VQEG HDTV Pool2 1080i Videos database
+deprecated: true
 excerpt: ''
 external_link: http://130.66.64.103/spip.php?article775
-hrc: 15.0
-license: ''
+hrc: 15
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 24.0
+ratings: 24
 references:
   BPP10: "Marcus Barkowsky, Margaret Pinson, Romuald P\xE9pion, Patrick Le Callet,\
     \ \"Analysis of Freely Available Dataset for HDTV including Coding and Transmission\
     \ Distortions\", Fifth International Workshop on Video Processing and Quality\
     \ Metrics (VPQM), Scottsdale, January 2010."
 resolution: 1920x1080
-src: 9.0
+src: 9
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC VQEG HDTV Pool2 1080i Videos database
 total: 168
 ---

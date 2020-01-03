@@ -2,31 +2,25 @@
 access: 'The files are available for download via HTTP. Link: http://mmlab.science.unitn.it/RAISE/'
 author: University of Cagliari
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [DPC15] at the MMSys conference (Proceedings of ACM MMSys
   '15, Portland, Oregon, March 18-20, 2015).
-contact_email: null
 contact_name: Duc-Tien Dang-Nguyen (ductien.dangnguyen@diee.unica.it)
 database: RAISE - A Raw Images Dataset for Digital Image Forensics
+deprecated: true
 excerpt: ''
 external_link: http://mmlab.science.unitn.it/RAISE/
-hrc: ''
-license: ''
-method: ''
 other: RAW images
 partner: false
 publicly_available: true
-ratings: ''
 references:
   DPC15: D. Dang-Nguyen, C. Pasquini, V. Conotter, G. Boato. RAISE - A Raw Images
     Dataset for Digital Image Forensics, Proceedings of ACM MMSys '15, Portland, Oregon,
     March 18-20, 2015.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: RAISE - A Raw Images Dataset for Digital Image Forensics
 total: 8156
 ---

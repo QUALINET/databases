@@ -2,20 +2,13 @@
 access: 'The list of images is available at the link: Link: http://www.cvc.uab.es/color_calibration/Database.html'
 author: 'UA de Barcelona '
 categories:
-- Image
-citation: ''
-contact_email: null
-contact_name: ''
+- image
 database: The Barcelona Calibrated Images Database
+deprecated: false
 excerpt: ''
 external_link: http://www.cvc.uab.es/color_calibration/Database.html
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   PBV10: 'Parraga, C. A., Baldrich, R. & Vanrell, M. Accurate Mapping of Natural Scenes
     Radiance to Cone Activation Space: A New Image Dataset. in CGIV 2010/MCS''10 -
@@ -27,11 +20,9 @@ references:
   VPV09Vazquez,: "J., P\xE1rraga, C. A., Vanrell, M., & Baldrich, R. (2009). Color\
     \ Constancy Algorithms: Psychophysical Evaluation on a New Dataset. Journal of\
     \ Imaging Science and Technology, 53(3), 0311051-0311059."
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: The Barcelona Calibrated Images Database
 total: 350
 ---

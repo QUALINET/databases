@@ -3,31 +3,27 @@ access: The database is available to Qualinet members only. To access the databa
   please send an email to Philippe Hanhart (philippe.hanhart@epfl.ch)
 author: MPEG
 categories:
-- Video
-citation: ''
-contact_email: null
+- video
 contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: MPEG 3D-AVC verification test
+deprecated: false
 excerpt: ''
-external_link: ''
-hrc: 18.0
-license: ''
+hrc: 18
 method: ACR
-other: ''
 partner: false
 publicly_available: false
-ratings: 22.0
+ratings: 22
 references:
   ITU13: 'ITU-T SG16 WP3 and ISO/IEC JTC1/SC29/WG11, 3D Video Subjective Quality Assessment
     Test Plan, Doc. JCT3V-F1011, Geneva, Switzerland, October 2013. '
   ITU14: ITU-T SG16 WP3 and ISO/IEC JTC1/SC29/WG11, Report of 3D-AVC Subjective Quality
     Assessment, Doc. JCT3V-G1011, San Jose, USE, January 2014.
 resolution: 1920x1080
-src: 4.0
+src: 4
 subjective_scores: true
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: MPEG 3D-AVC verification test
 total: 72
 ---

@@ -3,17 +3,17 @@ access: 'To download the database an online form has to be filled and the inform
   will be sent to you. Link: https://docs.google.com/spreadsheet/viewform?formkey=dENtSVd4OHNQMk1YRnFNSzBTUFEtSFE6MQ'
 author: LIVE - University of Texas
 categories:
-- Video
+- video
 citation: We are making the LIVE Mobile Video Quality Database available to the research
   community free of charge. If you use this database in your research, we kindly ask
   that you reference our papers [MCB12, [MCV12], [MCD12].
-contact_email: null
 contact_name: Dr. Anush Krishna Moorthy (anushmoorthy@gmail.com) Lark Kwon Choi (larkkwonchoi@utexas.edu)
   Dr. Alan C. Bovik (bovik@ece.utexas.edu) Dr. Gustavo de Veciana (gustavo@ece.utexas.edu)
 database: LIVE Mobile Video Quality Database
+deprecated: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/live_video.html
-hrc: 20.0
+hrc: 20
 license: 'Link: http://live.ece.utexas.edu/research/quality/live_mobile_video.html
   Permission is hereby granted, without written agreement and without license or royalty
   fees, to use, copy, modify, and distribute this database (the images, the results
@@ -24,10 +24,9 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/live_mobile_video.ht
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database.'
 method: SSCQE
-other: ''
 partner: false
 publicly_available: true
-ratings: 50.0
+ratings: 50
 references:
   MCB12: "A. K. Moorthy, L. K. Choi, A. C. Bovik and G. deVeciana, \u201CVideo Quality\
     \ Assessment on Mobile Devices: Subjective, Behavioral and Objective Studies\u201D\
@@ -41,10 +40,10 @@ references:
     \ Quality Assessment Database,\u201D IEEE ICC Workshop on Realizing Advanced Video\
     \ Optimized Wireless Networks, Ottawa, Canada, June 10-15, 2012."
 resolution: HD (1920x1080)
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- Video
+- video
 title: LIVE Mobile Video Quality Database
 total: 200
 ---

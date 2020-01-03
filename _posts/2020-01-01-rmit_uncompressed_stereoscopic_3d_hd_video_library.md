@@ -5,36 +5,30 @@ access: 'The files are available for download via HTTP. The uncompressed video f
   The PVS (avi videos) are available on FTP server: Link: http://www.rmit3dv.com/download.php'
 author: RMIT University
 categories:
-- Video
+- video
 citation: If you use this database, please reference this website and the following
   publication where appropriate [CBB12].
-contact_email: null
-contact_name: ''
 database: RMIT uncompressed stereoscopic 3D HD video library
+deprecated: false
 excerpt: ''
 external_link: http://www.rmit3dv.com/
-hrc: ''
 license: The database is freely available online via the Creative Commons Attribution-ShareAlike
   License. This license allows users to utilise the database for commercial and non-commercial
   purposes, where the content and authors must be credited. Researchers are encouraged
   to contribute 3D content to grow the resource for the 3D video research community,
   however, all new content must also carry this same license. (http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB)
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   CBB12: 'E. Cheng, P. Burton, J. Burton, A. Joseski, I. Burnett, "RMIT3DV: Pre-Announcement
     of a Creative Commons Uncompressed HD 3D Video Database," in Proc. 4th International
     Workshop on Quality of Multimedia Experience (QoMEX 2012), Yarra Valley, Australia,
     5-7 July 2012.'
 resolution: HD (1920x1080)
-src: ''
 subjective_scores: false
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: RMIT uncompressed stereoscopic 3D HD video library
 total: 31
 ---

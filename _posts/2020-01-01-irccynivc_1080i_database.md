@@ -4,31 +4,28 @@ access: 'Video sequences at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [PPL08].
-contact_email: null
-contact_name: ''
 database: IRCCyN/IVC 1080i Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article541
-hrc: 7.0
-license: ''
+hrc: 7
 method: ACR, SAMVIQ
-other: ''
 partner: true
 publicly_available: true
-ratings: 27.0
+ratings: 27
 references:
   PPL08: "St\xE9phane P\xE9chard, Romuald P\xE9pion, Patrick Le Callet, Suitable methodology\
     \ in subjective video quality assessment: a resolution dependent paradigm, International\
     \ Workshop on Image Media Quality and its Applications, IMQA2008, Kyoto : Japan\
     \ (2008)."
 resolution: 1080i
-src: 24.0
+src: 24
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC 1080i Database
 total: 192
 ---

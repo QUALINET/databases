@@ -2,33 +2,31 @@
 access: 'Link: http://mmspg.epfl.ch/jpegxt-hdr'
 author: EPFL
 categories:
-- Image
+- image
 citation: If you use this dataset in your research, we kindly ask you to reference
   our paper [KHR15] and URL link (http://mmspg.epfl.ch/jpegxt-hdr)
-contact_email: null
 contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: MMSPG Subjective quality assessment database of HDR images compressed with
   JPEG XT
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/jpegxt-hdr
-hrc: 12.0
-license: ''
+hrc: 12
 method: DSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 24.0
+ratings: 24
 references:
   KHR15: "P. Korshunov, P. Hanhart, T. Richter, A. Artusi, R. Mantiuk, and T. Ebrahimi,\
     \ \u201CSubjective quality assessment database of HDR images compressed with JPEG\
     \ XT,\u201D 7th International Workshop on Quality of Multimedia Experience (QoMEX),\
     \ Costa Navarino, Messinia, Greece, May 26-29, 2015."
 resolution: 944x1080
-src: 20.0
+src: 20
 subjective_scores: true
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: MMSPG Subjective quality assessment database of HDR images compressed with
   JPEG XT
 total: 240

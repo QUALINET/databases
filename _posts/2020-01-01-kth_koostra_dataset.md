@@ -4,31 +4,26 @@ access: 'Eye-track images (134.9MB):  Link: http://www.csc.kth.se/~kootstra/inde
   Eye-track data (1MB): Link: http://www.csc.kth.se/~kootstra/index.php?item=602&menu=&file=eyeTrackExp2/eyeTrackData.mat'
 author: "Kungliga Tekniska H\xF6gskolan (KTH)"
 categories:
-- Image
+- image
 citation: The eye-tracking data is freely available for non-commercial scientific
   purposes. If you publish work based on this data, please refer to the following
   paper [KBS11].
-contact_email: null
 contact_name: Gert Kootstra (kootstra@kth.se)
 database: KTH Koostra Dataset
+deprecated: true
 excerpt: ''
 external_link: http://www.csc.kth.se/~kootstra/index.php?item=215&menu=200
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 31.0
+ratings: 31
 references:
   KBS11: 'Kootstra, G., de Boer, B., and Schomaker L.R.B. (2011) Predicting Eye Fixations
     on Complex Visual Stimuli using Local Symmetry. Cognitive Computation, 3(1):223-240.
     doi: 10.1007/s12559-010-9089-5.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: KTH Koostra Dataset
 total: 100
 ---

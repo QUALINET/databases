@@ -6,16 +6,15 @@ access: 'All video sequencs are available as single frame images in the TIFF for
   Link: http://www.ldv.ei.tum.de/uploads/media/TUM_Multi_Format_Test_Set_Overview_01.xls'
 author: "TU M\xFCnchen"
 categories:
-- Video
+- video
 citation: "In publications using the test set, the test set shall be cited as: Technische\
   \ Universit\xE4t M\xFCnchen, Institute for Data Processing. (2011) TUM Multi Format\
   \ Test Set. [Online]. Available: http://www.ldv.ei.tum.de/videolab"
-contact_email: null
 contact_name: Christian Keimel (christian.keimel@tum.de)
 database: TUM-LDV Multi Format Test Set
+deprecated: true
 excerpt: ''
 external_link: http://www.ldv.ei.tum.de/
-hrc: ''
 license: "The TUM Multi Format Test Set is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike\
   \ 3.0 Germany License. The use of the TUM Multi Format Test Set in any publication\
   \ shall be attributed as: Technische Universit\xE4t M\xFCnchen, Institute for Data\
@@ -27,16 +26,12 @@ license: "The TUM Multi Format Test Set is licensed under a Creative Commons Att
   \ available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0\
   \ Germany License. Permissions beyond the scope of this license may be available\
   \ by contacting Benedikt Wiedenmann at b.wiedenmann@videatis.com."
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 resolution: SD, HD
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: TUM-LDV Multi Format Test Set
 total: 48
 ---

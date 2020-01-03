@@ -2,26 +2,24 @@
 access: 'ZIP archive (~140MB), no password. Link: http://mict.eng.u-toyama.ac.jp/toyama_database.zip'
 author: University of Toyama
 categories:
-- Image
+- image
 citation: This data set is available to the research community with free of charge.
-contact_email: null
 contact_name: Prof. Yuukou Horita (horita@eng.u-toyama.ac.jp), Keiji Shibata (shibata@eng.u-toyama.ac.jp),
   Yoshikazu Kawayoke (kawayoke@nyoke.com)
 database: MICT Image Quality Database
+deprecated: true
 excerpt: ''
 external_link: http://mict.eng.u-toyama.ac.jp/mictdb.html
-hrc: 12.0
-license: ''
+hrc: 12
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 16.0
+ratings: 16
 resolution: 768x512
-src: 14.0
+src: 14
 subjective_scores: true
 tags:
-- Image
+- image
 title: MICT Image Quality Database
 total: 168
 ---

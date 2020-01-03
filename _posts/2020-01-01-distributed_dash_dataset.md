@@ -2,31 +2,27 @@
 access: 'The content is available via HTTP: Link: http://www-itec.aau.at/ftp/datasets/mmsys13/'
 author: "Alpen-Adria-Universit\xE4t Klagenfurt"
 categories:
-- Audiovisual
+- audiovisual
 citation: If you use our data for your own publications please do not forget to reference
   the website and our paper [LMT13].
-contact_email: null
 contact_name: Information for the database may be obtained by contacting Christian
   Timmerer (christian.timmerer@itec.uni-klu.ac.at)
 database: Distributed DASH Dataset
+deprecated: false
 excerpt: ''
 external_link: http://www-itec.uni-klu.ac.at/dash/?page_id=958
-hrc: 17.0
-license: ''
-method: ''
-other: ''
+hrc: 17
 partner: true
 publicly_available: true
-ratings: ''
 references:
   LMT13: "Lederer, S., Mueller, C., Timmerer, C., Concolato, C., Le Feuvre, J., and\
     \ Fliegel, K., 2013. Distributed DASH dataset. In Proceedings of the 4rd Multimedia\
     \ Systems Conference (MMSys \u201913). ACM, New York, NY, USA."
 resolution: 320x240, 480x360, 854x480, 1280x720, 1920x1080
-src: 1.0
+src: 1
 subjective_scores: false
 tags:
-- Audiovisual
+- audiovisual
 title: Distributed DASH Dataset
 total: 17
 ---

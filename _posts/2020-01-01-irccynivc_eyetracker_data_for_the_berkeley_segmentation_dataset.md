@@ -4,22 +4,18 @@ access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [WCC10]. Please, cite also the paper from Berkeley for the database
   [MFM01].
-contact_email: null
-contact_name: ''
 database: IRCCyN/IVC Eyetracker data for the Berkeley segmentation dataset
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article554
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 25.0
+ratings: 25
 references:
   MFM01: "D. Martin, C. Fowlkes, D. Tal and J. Malik, \"A Database of Human Segmented\
     \ Natural Images and its Application to Evaluating Segmentation Algorithms and\
@@ -29,10 +25,9 @@ references:
     visual salience and visual importance", Spie Human and Electronic imaging (HVEI)
     XV, San Jose, 2010.
 resolution: 720x576
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: IRCCyN/IVC Eyetracker data for the Berkeley segmentation dataset
 total: 84
 ---

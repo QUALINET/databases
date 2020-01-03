@@ -4,15 +4,14 @@ access: 'You can download all video files and associated XML-based annotations f
   address: tremplin.epfl.ch User name: minidrone@grebvm2.epfl.ch Password: IH)cJ9c81*1H74kv'
 author: EPFL
 categories:
-- Video
+- video
 citation: You can use Mini-drone dataset in your research without any conditions,
   as long as you clearly mention and acknowledge the following paper [BKR15].
-contact_email: null
 contact_name: Pavel Korshunov (pavel.korshunov@epfl.ch)
 database: MMSPG Mini-drone video dataset
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/mini-drone
-hrc: ''
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -23,20 +22,17 @@ license: "Permission is hereby granted, without written agreement and without li
   \ provided hereunder is on an \"as is\" basis and the Ecole Polytechnique F\xE9\
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
-method: ''
 other: Privacy annotation
 partner: true
 publicly_available: true
-ratings: ''
 references:
   BKR15: M. Bonetto, P. Korshunov, G. Ramponi, and T. Ebrahimi. Privacy in Mini-drone
     Based Video Surveillance. Workshop on De-identification for privacy protection
     in multimedia, Ljubljana, Slovenia, 2015.
 resolution: HD (1920x1080)
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: MMSPG Mini-drone video dataset
 total: 38
 ---

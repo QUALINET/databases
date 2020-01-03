@@ -20,6 +20,7 @@ layout: default
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
@@ -41,8 +42,17 @@ layout: default
           <p class="page__meta__misc"><strong><i class="fas fa-fw fa-user" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].author_label | default: "Author:" }}</strong> {{ page.author }}
           </p>
         {% endif %}
+
+        <p class="page__meta__misc"><strong><i class="fas fa-fw fa-handshake" aria-hidden="true"></i> Partner:</strong>
+        {% if page.partner %}
+        Yes
+        {% else %}
+        No
+        {% endif %}
+        </p>
+
         {% if page.contact_name or page.contact_email %}
-          <p class="page__meta__misc"><strong><i class="fas fa-fw fa-user" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].contact_label | default: "contact:" }}</strong>
+          <p class="page__meta__misc"><strong><i class="fas fa-fw fa-id-card" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].contact_label | default: "contact:" }}</strong>
           {% if page.contact_name %}
             {{ page.contact_name }}
           {% endif %}
@@ -51,20 +61,55 @@ layout: default
           {% endif %}
           </p>
         {% endif %}
+
         {% include page__taxonomy.html %}
+
         {% if page.last_modified_at %}
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        {% if page.external_link %}
-          <p class="page__link">
-          <a href="{{ page.external_link }}" class="btn btn--info"><i class="fas fa-fw fa-globe" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].ext_link_label | default: "Website" }}</a>
+
+        {% if page.subjective_scores %}
+          <p class="page__meta__misc">
+            <b><i class="fas fa-fw fa-users" aria-hidden="true"></i> Subjective scores:</b> {{ page.subjective_scores }}
           </p>
         {% endif %}
+        {% if page.total %}
+          <p class="page__meta__misc">
+            <b><i class="fas fa-fw fa-calculator" aria-hidden="true"></i> Total:</b> {{ page.total }}
+          </p>
+        {% endif %}
+        {% if page.src %}
+          <p class="page__meta__misc">
+            <b><i class="fas fa-fw fa-video" aria-hidden="true"></i> SRC:</b> {{ page.src }}
+          </p>
+        {% endif %}
+        {% if page.hrc %}
+          <p class="page__meta__misc">
+            <b><i class="fas fa-fw fa-wrench" aria-hidden="true"></i> HRC:</b> {{ page.hrc }}
+          </p>
+        {% endif %}
+        {% if page.ratings %}
+          <p class="page__meta__misc">
+            <b><i class="fas fa-fw fa-star" aria-hidden="true"></i> Ratings:</b> {{ page.ratings }}
+          </p>
+        {% endif %}
+        {% if page.resolution %}
+          <p class="page__meta__misc">
+            <b><i class="fas fa-fw fa-tv" aria-hidden="true"></i> Resolution:</b> {{ page.resolution }}
+          </p>
+        {% endif %}
+        {% if page.method %}
+          <p class="page__meta__misc">
+            <b><i class="fas fa-fw fa-cog" aria-hidden="true"></i> Method:</b> {{ page.method }}
+          </p>
+        {% endif %}
+
       </footer>
 
       <section class="page__content page__content__tool" itemprop="text">
+        <h3><i class="fas fa-fw fa-info" aria-hidden="true"></i> Description</h3>
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
@@ -76,12 +121,24 @@ layout: default
         {{ content }}
       </section>
 
-      {% if page.access != blank %}
       <section class="page__content">
         <h3><i class="fas fa-fw fa-lock" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].access_label | default: "Access" }}</h3>
-        {{ page.access }}
+
+        {{ page.access | markdownify }}
+
+        {% if page.external_link %}
+          {% if page.deprecated %}
+            <div class="notice notice--warning">
+              <p><i class="fas fa-fw fa-exclamation-circle" aria-hidden="true"></i> <b>Broken link!</b></p>
+              <p>The original link was: <a href="{{ page.external_link }}">{{ page.external_link }}</a></p>
+            </div>
+          {% else %}
+            <p class="page__link">
+            <a href="{{ page.external_link }}" class="btn btn--info"><i class="fas fa-fw fa-globe" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].ext_link_label | default: "Website" }}</a>
+            </p>
+          {% endif %}
+        {% endif %}
       </section>
-      {% endif %}
 
       {% if page.license != blank %}
       <section class="page__content">
@@ -92,7 +149,7 @@ layout: default
 
       {% if page.references %}
       <section class="page__content" itemprop="text">
-        <h3>References and Citation</h3>
+        <h3><i class="fas fa-fw fa-book" aria-hidden="true"></i> References and Citation</h3>
         <p>{{ page.citation }}</p>
         {% if page.references %}
           {% if page.citation %}

@@ -6,32 +6,25 @@ access: 'Dataset is available with image preview at: Link: http://vision.ucsd.ed
   GOURD2 image, 98 images, resolution: 601x501 Link: http://vision.ucsd.edu/~nalldrin/research/cvpr08/datasets/gourd2.tar.gz'
 author: University of California
 categories:
-- Image
+- image
 citation: The images provided in these dataset are free to use so long as proper credit
   is attributed to the original authors. In particular, any publications utilizing
   this dataset should cite the following paper [AZK08].
-contact_email: null
 contact_name: Neil Alldrin (http://vision.ucsd.edu/~nalldrin/, nalldrin@gmail.com)
 database: HDR Image Dataset for Photometric Stereo
+deprecated: true
 excerpt: ''
 external_link: http://vision.ucsd.edu/~nalldrin/research/cvpr08/datasets/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   AZK08: N. Alldrin, T. Zickler, and D. Kriegman, Photometric Stereo With Non-Parametric
     and Spatially-Varying Reflectance, 2008 Conf. on Comp. Vision and Pattern Recognition
     (CVPR), Anchorage, AK, June 2008.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: HDR Image Dataset for Photometric Stereo
 total: 312
 ---

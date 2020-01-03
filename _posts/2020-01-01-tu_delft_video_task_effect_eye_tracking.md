@@ -7,33 +7,27 @@ access: 'ZIP archive, password protected, to get the password you can contact Ha
   Maps: Maps Group4 (Free-looking) [4.1 GB] Link: http://mmi.tudelft.nl/iqlab/databases/Maps%20Group4%20(Free-looking).zip'
 author: TU Delft
 categories:
-- Video
+- video
 citation: The eye-tracking data are publicly available to the research community.
   Please cite the following references if you use this database in your research.
   [ALH12], [ALR12].
-contact_email: null
-contact_name: ''
 database: TU Delft Video Task Effect Eye-Tracking
+deprecated: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/video_task_eye_tracking_1
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 14.0
+ratings: 14
 references:
   ALH12: 'H. Alers, H. Liu, J. Redi and I. Heynderickx, "TUD Video Quality Database:
     Eye-Tracking Release 2", http://mmi.tudelft.nl/iqlab/video_task_eye_tracking_1'
   ALR12: H. Alers, H. Liu, J. Redi and I. Heynderickx, "Examining the effect of task
     on viewing behavior in videos using saliency maps", IS&T/SPIE Electronic Imaging
     2012, Human Vision and Electronic Imaging XVII, Jan 2012.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: TU Delft Video Task Effect Eye-Tracking
 total: 54
 ---

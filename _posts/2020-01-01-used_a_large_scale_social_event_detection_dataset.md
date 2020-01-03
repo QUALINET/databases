@@ -5,32 +5,27 @@ access: 'The files are available for download via HTTP. Link: http://loki.disi.u
   Direct Link Datasets (Test Set): http://loki.disi.unitn.it/~used/USED-test.tar.gz'
 author: University of Trento
 categories:
-- Image
+- image
 citation: "Use of the datasets in published work should be acknowledged by a full\
   \ citation to the authors\u2019 papers [ACB16] at the MMSys conference: Proceedings\
   \ of ACM MMSys\u201916, Klagenfurt am W\xF6rthersee, Austria, May 10-13, 2016."
-contact_email: null
 contact_name: Kashif Ahmad (kashif.ahmad@unitn.it) Nicola Conci (nicola.conci@unitn.it)
   Giulia Boato (giulia.boato@unitn.it) Francesco G. B. De Natale (francesco.denatale@unitn.it)
 database: 'USED: A Large Scale Social Event Detection Dataset'
+deprecated: false
 excerpt: ''
 external_link: http://loki.disi.unitn.it/~used/
-hrc: ''
-license: ''
-method: ''
 other: Annotated
 partner: false
 publicly_available: true
-ratings: ''
 references:
   ACB16: 'Ahmad, K., Conci, N., Boato, G., De Natale, F.G.B. USED: A large-scale social
     event detection dataset, Proceedings of the 7th International Conference on Multimedia
     Systems, MMSys 2016, pp. 380-385.'
-resolution: ''
-src: 490000.0
+src: 490000
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'USED: A Large Scale Social Event Detection Dataset'
 total: 490000
 ---

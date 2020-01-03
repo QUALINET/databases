@@ -3,33 +3,27 @@ access: 'All video sequencs are available at HTTP and FTP. Link: ftp://ftp-itec.
   Link: http://www-itec.uni-klu.ac.at/ftp/datasets/mmsys12/'
 author: "Alpen-Adria-Universit\xE4t Klagenfurt"
 categories:
-- Video
+- video
 citation: If you use our data for your own publications please do not forget to reference
   the website (http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/) and
   our paper [LTP14].
-contact_email: null
-contact_name: ''
 database: Dynamic Adaptive Streaming over HTTP (DASH) Dataset
+deprecated: false
 excerpt: ''
 external_link: http://www-itec.aau.at/dash/
-hrc: 56.0
-license: ''
-method: ''
-other: ''
+hrc: 56
 partner: true
 publicly_available: true
-ratings: ''
 references:
   LMT12: "Lederer, S., M\xFCller, C., Timmerer, C. Dynamic Adaptive Streaming over\
     \ HTTP Dataset, In Proceedings of the ACM Multimedia Systems Conference 2012,\
     \ Chapel Hill, North Carolina, February 22-24, 2012."
 resolution: 1920x1080
-src: 6.0
+src: 6
 subjective_scores: false
 tags:
-- Video
+- video
 title: Dynamic Adaptive Streaming over HTTP (DASH) Dataset
-total: ''
 ---
 
 Dataset with DASH Content, long sequences in high quality, free available for DASH experiments, PSNR values per frame. PSNR values are includes for the Big Buck Bunny content. This dataset was created with DASH content generation tool DASHEncoder. It is open source an available at: https://github.com/slederer/DASHEncoder.

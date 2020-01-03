@@ -4,30 +4,28 @@ access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [EBL10].
-contact_email: null
-contact_name: ''
 database: IRCCyN/IVC Eyetracker SD 2009_12 Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article550
-hrc: 4.0
-license: ''
+hrc: 4
 method: ACR
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 30.0
+ratings: 30
 references:
   EBL10: "Ulrich Engelke, Marcus Barkowsky, Patrick Le Callet and Hans-J\xFCrgen Zepernick,\
     \ \"Modelling Saliency Awareness for Objective Video Quality Assessment\", International\
     \ Workshop on Quality of Multimedia Experience (QoMEX), 2010."
 resolution: SD
-src: 20.0
+src: 20
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC Eyetracker SD 2009_12 Database
 total: 100
 ---

@@ -4,31 +4,29 @@ access: 'Still images at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BPL11].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC DIBR Images Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article866
-hrc: 8.0
-license: ''
+hrc: 8
 method: ACR, pair comparison
-other: ''
 partner: true
 publicly_available: true
-ratings: 43.0
+ratings: 43
 references:
   BPL11: "Emilie Bosc, Romuald P\xE9pion, Patrick Le Callet, Martin K\xF6ppel, Patrick\
     \ Ndjiki-Nya, Muriel Pressigout, Luce Morin, \"Towards a New Quality Metric for\
     \ 3-D Synthesized View Assessment\", IEEE Journal on Selected Topics in Signal\
     \ Processing (2011) J-STSP-ETVC-00048-2011."
 resolution: 1024x768
-src: 12.0
+src: 12
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC DIBR Images Database
 total: 96
 ---

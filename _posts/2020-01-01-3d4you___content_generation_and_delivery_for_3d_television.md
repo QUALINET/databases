@@ -4,14 +4,10 @@ access: The Beer Garden Content is available after registering. The website of t
   reference.
 author: 3D4YOU
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: 3D4YOU - Content Generation and Delivery for 3D Television
+deprecated: false
 excerpt: ''
-external_link: ''
-hrc: ''
 license: 'The supplied data is provided free of charge and made available for use
   by the Licensee, under the following conditions: The Licensee agrees that the data
   and all intellectual property rights therein remain the property of the 3D4YOU partners
@@ -27,19 +23,13 @@ license: 'The supplied data is provided free of charge and made available for us
   be sold, let for hire, or by way of trade, offered or exposed for sale or hire.
   This restriction shall apply to the original material or to any reproduction of
   it in whole or in part.'
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: 3D4YOU - Content Generation and Delivery for 3D Television
-total: ''
 ---
 
 The 3D4YOU project will develop the key elements of a practical 3D television system, particularly, the definition of a 3D delivery format and guidelines for a 3D content creation process.The “Beer Garden” 3D test sequence is available, which is one of the 3D sequences that have been produced within the 3D4YOU project. This sequence has also been submitted to MPEG in response to its call for 3D content.

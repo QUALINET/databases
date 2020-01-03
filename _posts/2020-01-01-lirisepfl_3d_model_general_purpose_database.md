@@ -4,30 +4,26 @@ author: INSA Lyon/EPFL
 categories: []
 citation: "This database was created at EPFL and experiments were conducted at EPFL\
   \ and LIRIS, Universit\xE9 de Lyon. It you use it, please cite [LDD06]."
-contact_email: null
 contact_name: "Guillaume Lavou\xE9 (glavoue@liris.cnrs.fr)"
 database: LIRIS/EPFL 3D Model General-Purpose database
+deprecated: false
 excerpt: ''
 external_link: http://liris.cnrs.fr/guillaume.lavoue/data/datasets.html
-hrc: ''
-license: ''
 method: SSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 12.0
+ratings: 12
 references:
   LC10b: "Lavou\xE9 G, Corsini M. A comparison of perceptually-based metrics for objective\
     \ evaluation of geometry processing. IEEE Transactions on Multimedia. 2010;12(7):636-649."
   LDD06: 'Lavoue G, Drelie Gelasca E, Dupont F, Baskurt A, Ebrahimi T. Perceptually
     driven 3D distance metrics with application to watermarking. In: Proceedings of
     SPIE.Vol 6312. SPIE; 2006:63120L-63120L-12.'
-resolution: ''
-src: 4.0
+src: 4
 subjective_scores: true
 tags:
-- 3D
-- Model
+- 3d
+- model
 title: LIRIS/EPFL 3D Model General-Purpose database
 total: 88
 ---

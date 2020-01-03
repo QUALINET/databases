@@ -4,21 +4,17 @@ access: 'Video sequences and other materials available at FTP: Link: ftp://ftp.i
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BSJ12].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC JEG264HMIX1 database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1033
-hrc: ''
-license: ''
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   BSJ12: "Marcus Barkowsky, Nicolas Staelens, Lucjan Janowski, Yao Koudota, Miko\u0142\
     aj Leszczuk, Matthieu Urvoy, Patrik Hummelbrunner, I\xF1igo Sedano, Kjell Brunnstr\xF6\
@@ -26,10 +22,10 @@ references:
     \ measurement algorithms\", Third Workshop on Quality of Experience for Multimedia\
     \ Content Sharing (QoEMCS), Berlin, July 2012."
 resolution: HD (1920x1080)
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC JEG264HMIX1 database
 total: 170
 ---

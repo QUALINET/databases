@@ -7,31 +7,28 @@ access: 'Video sequences at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRC
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [PBP12].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Influence Content Video VGA database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article771
-hrc: 20.0
-license: ''
+hrc: 20
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   PBP12: "Yohann Pitrey ; Marcus Barkowsky ; Romuald P\xE9pion ; Patrick Le Callet\
     \ ; Helmut Hlavacs ; \"Influence of the source content and encoding configuration\
     \ on the preceived quality for scalable video coding\", SPIE Human Vision and\
     \ Electronic Imaging XVII, Jan 2012, San franscisco."
 resolution: VGA
-src: 60.0
+src: 60
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC Influence Content Video VGA database
 total: 300
 ---

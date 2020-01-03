@@ -2,23 +2,17 @@
 access: 'Link: http://vision.middlebury.edu/stereo/data/'
 author: Middlebury College
 categories:
-- Image
+- image
 citation: 'We grant permission to use and publish all images and disparity maps on
   this website. However, if you use our datasets, we request that you cite the appropriate
   paper(s): [SS02] for the 2001 datasets, [SS03] for the 2003 datasets, and [SP07]
   or [HS07] for the 2005 and 2006 datasets.'
-contact_email: null
-contact_name: ''
 database: Middlebury Stereo Datasets
+deprecated: false
 excerpt: ''
 external_link: http://vision.middlebury.edu/stereo/data/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   HS07: "H. Hirschm\xFCller and D. Scharstein. Evaluation of cost functions for stereo\
     \ matching. In IEEE Computer Society Conference on Computer Vision and Pattern\
@@ -33,14 +27,11 @@ references:
     April-June 2002.
   SS03: D. Scharstein and R. Szeliski. High-accuracy stereo depth maps using structured
     light.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- 3D
-- Image
+- 3d
+- image
 title: Middlebury Stereo Datasets
-total: ''
 ---
 
 The repository contains four groups of stereo datasets. Each stereo dataset is usually with the full-size views and disparity maps.

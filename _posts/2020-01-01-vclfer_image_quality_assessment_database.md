@@ -3,16 +3,16 @@ access: 'The images are available for download via HTTP. Link: http://www.vcl.fe
   MOS results: Link: http://www.vcl.fer.hr/quality/results.xls'
 author: University of Zagreb
 categories:
-- Image
+- image
 citation: All documents and papers that report research results obtained using the
   VCL@FER database will acknowledge the use of the VCL@FER database. Please cite the
   following paper [ZTB12].
-contact_email: null
 contact_name: Sonja Grgic (sonja.grgic@fer.hr)
 database: VCL@FER image quality assessment database
+deprecated: false
 excerpt: ''
 external_link: http://www.vcl.fer.hr/quality/vclfer.html
-hrc: 24.0
+hrc: 24
 license: "You can download the VCL@FER database here under the following terms:  (1)\
   \ The VCL@FER database will not be further distributed, published, copied, or further\
   \ disseminated in any way or form whatsoever, whether for profit or not. This includes\
@@ -34,19 +34,17 @@ license: "You can download the VCL@FER database here under the following terms: 
   \ responsible for or liable in respect of any such revisions, amendments, alterations\
   \ or deletions."
 method: SS
-other: ''
 partner: true
 publicly_available: true
-ratings: 118.0
+ratings: 118
 references:
   ZTB12: "A.Zaric, N.Tatalovic, N.Brajkovic, H.Hlevnjak, M.Loncaric, E.Dumic, S.Grgic,\
     \ VCL@FER Image Quality Assessment Database, AUTOMATIKA Vol. 53, No. 4, pp. 344\u2013\
     354, 2012"
-resolution: ''
-src: 23.0
+src: 23
 subjective_scores: true
 tags:
-- Image
+- image
 title: VCL@FER image quality assessment database
 total: 575
 ---

@@ -4,27 +4,20 @@ access: 'CARPE, or Computational and Algorithmic Representation and Processing o
   The DIEM Database is available in archives at: Link: http://bit.ly/diemdata'
 author: DIEM Project
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: Dynamic Images and Eye Movements (DIEM)
+deprecated: false
 excerpt: ''
 external_link: http://thediemproject.wordpress.com/
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 250.0
+ratings: 250
 references:
   Parag: K. Mital (pkmital@gmail.com)
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: Dynamic Images and Eye Movements (DIEM)
 total: 85
 ---

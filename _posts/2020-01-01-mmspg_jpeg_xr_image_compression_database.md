@@ -12,15 +12,14 @@ access: 'Database in ZIP archives, password protected, password upon request Lut
   and removal. http://mmspl.epfl.ch/webdav/site/mmspl/shared/QoE/IQA/MOS_STD_CI.zip'
 author: EPFL
 categories:
-- Image
+- image
 citation: If you use our data for your own publications please do not forget to reference
   this website and our paper [DGB09].
-contact_email: null
 contact_name: Lutz Goldmann (lutz.goldmann@epfl.ch) Francesca DeSimone (francesca.desimone@epfl.ch)
 database: MMSPG JPEG XR image compression database
+deprecated: false
 excerpt: ''
 external_link: http://mmspl.epfl.ch/page36328.html
-hrc: ''
 license: Permission is hereby granted, without written agreement and without license
   or royalty fees, to use, copy, modify, and distribute the data provided and its
   documentation for research purpose only. The data provided may not be commercially
@@ -31,18 +30,16 @@ license: Permission is hereby granted, without written agreement and without lic
   is on an "as is" basis and the Ecole Polytechnique Federale de Lausanne has no obligation
   to provide maintanance, support, updates, enhancements, or modifications.
 method: DSCQS
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   DGB09: Francesca De Simone, Lutz Goldmann, Vittorio Baroncini and Touradj Ebrahimi,
     "Subjective evaluation of JPEG XR image compression", in Proceedings of SPIE 7443.
 resolution: 1600x1280
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- Image
+- image
 title: MMSPG JPEG XR image compression database
 total: 186
 ---

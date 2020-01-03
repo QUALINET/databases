@@ -3,31 +3,25 @@ access: 'The files are available for download via HTTP. Link: http://traces.cs.u
   The files are available in one archive (121GB) for download via HTTP: Link: http://skuld.cs.umass.edu/traces/mmsys/2014/user04.tar'
 author: "Universit\xE4t Bielefeld"
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [RPM14] at the MMSys conference (Proceedings of ACM MMSys
   2014, March 19 - March 21, 2014, Singapore, Singapore).
-contact_email: null
 contact_name: Timo Reuter (treuter@cit-ec.uni-bielefeld.de)
 database: 'ReSEED: Social Event dEtection Dataset'
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Metadata
 partner: false
 publicly_available: true
-ratings: ''
 references:
   RPM14: 'T. Reuter, S. Papadopoulos, V. Mezaris, P. Cimiano, ReSEED: social event
     dEtection dataset, Proceedings of ACM MMSys 2014, March 19 - March 21, 2014, Singapore,
     Singapore.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'ReSEED: Social Event dEtection Dataset'
 total: 21000
 ---

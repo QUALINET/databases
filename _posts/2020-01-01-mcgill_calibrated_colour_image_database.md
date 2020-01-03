@@ -2,29 +2,21 @@
 access: 'The list of images is available at the link: Link: http://tabby.vision.mcgill.ca/html/browsedownload.html'
 author: McGill University
 categories:
-- Image
+- image
 citation: The images are free for research, but not commercial, purposes. If you use
   our images, please cite us! [OK04]
-contact_email: null
-contact_name: ''
 database: McGill Calibrated Colour Image Database
+deprecated: false
 excerpt: ''
 external_link: http://tabby.vision.mcgill.ca/html/welcome.html
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   OK04: Olmos, A. and Kingdom, F. A. A. (2004) McGill Calibrated Colour Image Database,
     http://tabby.vision.mcgill.ca.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: McGill Calibrated Colour Image Database
 total: 850
 ---

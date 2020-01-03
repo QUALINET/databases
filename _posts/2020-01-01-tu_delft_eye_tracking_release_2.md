@@ -3,22 +3,18 @@ access: 'ZIP archive, password protected, password upon request Hani Alers (Hani
   Link: http://mmi.tudelft.nl/iqlab/databases/TUD_Task_EyeTracking.zip'
 author: TU Delft
 categories:
-- Image
+- image
 citation: The eye-tracking data are publicly available to the research community.
   Please cite the following references if you use this database in your research [ALR10],
   [ALR10b].
-contact_email: null
-contact_name: ''
 database: TU Delft Eye-Tracking Release 2
+deprecated: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/eye_tracking_2.html
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 29.0
+ratings: 29
 references:
   ALR10: H. Alers, H. Liu, J. Redi and I. Heynderickx, "Studying the risks of optimizing
     the image quality in saliency regions at the expense of background content ",
@@ -26,11 +22,9 @@ references:
     2010.
   ALR10b: 'H. Alers, H. Liu, J. Redi and I. Heynderickx, "TUD Image Quality Database:
     Eye-Tracking Release 2", http://mmi.tudelft.nl/iqlab/eye_tracking_2.html.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: TU Delft Eye-Tracking Release 2
 total: 160
 ---

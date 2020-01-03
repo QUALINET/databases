@@ -2,31 +2,25 @@
 access: 'The files are available for download via HTTP. Link: https://jpeg.org/plenodb/pc/microsoft/'
 author: Microsoft
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: Microsoft (Charles Loop, Qin Cai, Sergio Orts Escolano, and Philip A.
   Chou)
 database: 'JPEG Pleno Database: Microsoft Voxelized Upper Bodies - A Voxelized Point
   Cloud Dataset'
+deprecated: false
 excerpt: ''
 external_link: https://jpeg.org/plenodb/pc/microsoft/
-hrc: ''
 license: Microsoft hereby makes available dynamic voxelized point cloud data sequences
   as potential test material for MPEG and/or JPEG standardization efforts, as well
   as non-commercial use subject to the accompanying license agreement (https://jpeg.org/plenodb/pc/microsoft/license.pdf)
   by the wider research community.
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
-resolution: ''
-src: 10.0
+src: 10
 subjective_scores: false
 tags:
-- Point Cloud
-- Image
+- point cloud
+- image
 title: 'JPEG Pleno Database: Microsoft Voxelized Upper Bodies - A Voxelized Point
   Cloud Dataset'
 total: 10

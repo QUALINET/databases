@@ -7,15 +7,15 @@ access: 'Database in ZIP archives, password protected, password upon request J.-
   rating data (excel file) https://documents.epfl.ch/groups/s/sv/svd/public/rating_pair_comparison_final.zip'
 author: EPFL
 categories:
-- Video
+- video
 citation: The use of the data is conditional to the users explicitly and clearly mentioning
   and acknowledging the following publication [LDR10].
-contact_email: null
 contact_name: Jong-Seok Lee (jong-seok.lee@epfl.ch)
 database: MMSPG Scalable Video Database
+deprecated: false
 excerpt: ''
 external_link: http://mmspl.epfl.ch/page42039.html
-hrc: 24.0
+hrc: 24
 license: "Copyright (c) 2010 The Ecole Polytechnique F\xE9d\xE9rale de Lausanne (EPFL)\
   \ All rights reserved. Permission is hereby granted, without written agreement and\
   \ without license or royalty fees, to use, copy, modify, and distribute the data\
@@ -28,10 +28,9 @@ license: "Copyright (c) 2010 The Ecole Polytechnique F\xE9d\xE9rale de Lausanne 
   \ basis and the Ecole Polytechnique F\xE9d\xE9rale de Lausanne (EPFL) has no obligation\
   \ to provide maintenance, support, updates, enhancements, or modifications."
 method: Custom
-other: ''
 partner: true
 publicly_available: true
-ratings: 16.0
+ratings: 16
 references:
   LDR10: "J.-S. Lee, F. de Simone, N. Ramzan, Z. Zhao, E. Kurutepe, T. Sikora, J.\
     \ Ostermann, T. Ebrahimi, \u201CSubjective evaluation of scalable video coding\
@@ -43,10 +42,10 @@ references:
     \ scheme for scalable surveillance centric video communications,\u201D Signal\
     \ Processing: Image Communication, vol. 24, no. 6, pp. 510-523, 2009."
 resolution: 720p
-src: 3.0
+src: 3
 subjective_scores: true
 tags:
-- Video
+- video
 title: MMSPG Scalable Video Database
 total: 72
 ---

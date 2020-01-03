@@ -2,32 +2,26 @@
 access: 'The files are available for download via HTTP. Link: http://icosole.eu/'
 author: Joanneum Research
 categories:
-- Audiovisual
+- audiovisual
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [BPB15] at the MMSys conference (Proceedings of ACM MMSys
   '15, Portland, Oregon, March 18-20, 2015).
-contact_email: null
 contact_name: Werner Bailer (werner.bailer@joanneum.at)
 database: Multi-sensor Concert Recording Dataset Including Professional and User-generated
   Content
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Sensor metadata
 partner: false
 publicly_available: true
-ratings: ''
 references:
   BPB15: W. Bailer, C. Pike, R. Bauwens, R. Grandl, M. Matton, M. Thaler. Multi-sensor
     Concert Recording Dataset Including Professional and User-generated Content, Proceedings
     of ACM MMSys '15, Portland, Oregon, March 18-20, 2015.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Audiovisual
+- audiovisual
 title: Multi-sensor Concert Recording Dataset Including Professional and User-generated
   Content
 total: 18

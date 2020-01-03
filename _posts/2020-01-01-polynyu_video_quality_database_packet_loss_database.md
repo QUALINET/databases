@@ -3,20 +3,16 @@ access: 'RAR archive, password protected, password upon request Tao Liu (taoliu.
   Link: http://vision.poly.edu/~tliu/PL_dataset.zip'
 author: Polytechnic Institute of NYU
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: Poly@NYU Video Quality Database Packet Loss Database
+deprecated: false
 excerpt: ''
 external_link: http://vision.poly.edu/index.html/index.php?n=HomePage.PerceptualVideoQualityInPresenceOfPacketLoss
-hrc: 1.0
-license: ''
+hrc: 1
 method: ACR
-other: ''
 partner: false
 publicly_available: true
-ratings: 32.0
+ratings: 32
 references:
   FLY08: Xin Feng, Tao Liu, Dan Yang, and Yao Wang, "Saliency Based Objective Quality
     Assessment of Decoded Video Affected by Packet Losses", in Proceedings of IEEE
@@ -33,10 +29,10 @@ references:
     Issue on Visual Media Quality Assessment, IEEE Journal of Selected Topics in Signal
     Processing, Vol.3 No. 2, pp.280~293, April 2009.
 resolution: QVGA
-src: 17.0
+src: 17
 subjective_scores: true
 tags:
-- Video
+- video
 title: Poly@NYU Video Quality Database Packet Loss Database
 total: 17
 ---

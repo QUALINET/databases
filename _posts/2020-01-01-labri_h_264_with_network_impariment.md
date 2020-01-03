@@ -6,33 +6,30 @@ access: 'Download information for the database may be obtained by contacting Kar
   Experimental data, 3 files, 179kB'
 author: LaBRI
 categories:
-- Video
+- video
 citation: In publications using the database, the following paper should be cited
   [BBH11].
-contact_email: null
 contact_name: Jenny Benois-Pineau (jenny.benois@labri.fr) - research related information
   Karel Fliegel (fliegek@fel.cvut.cz) - download information
 database: LaBRI H.264 with Network Impariment
+deprecated: false
 excerpt: ''
 external_link: http://www.labri.fr/
-hrc: 8.0
+hrc: 8
 license: To make it available to Qualinet an agreement has been signed with LaBRI.
   Other users will have to sign similar agreement to use the data.
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   BBH11: Boujut, H.; Benois-Pineau, J.; Hadar, O.; Ahmed, T.; Bonnet, P. Weighted-MSE
     based on saliency map for assessing video quality of H.264 video streams, Image
     Quality and System Performance VIII. Edited by Farnand, Susan P.; Gaykema, Frans.
     Proceedings of the SPIE, Volume 7867, pp. 78670X-78670X-8 (2011).
 resolution: 1920x1080
-src: 15.0
+src: 15
 subjective_scores: true
 tags:
-- Video
+- video
 title: LaBRI H.264 with Network Impariment
 total: 120
 ---

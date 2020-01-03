@@ -3,33 +3,26 @@ access: 'The files are available for download via HTTP. Link: http://traces.cs.u
   Direct link to the files: Link: http://skuld.cs.umass.edu/traces/mmsys/2013/fashion/'
 author: TU Delft
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the paper [LMG13] at the MMSys conference (Proceedings of ACM MMSys 13, February
   27 - March 1, 2013, Oslo, Norway).
-contact_email: null
-contact_name: ''
 database: Fashion-focused Creative Commons Social dataset
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Annotation of fashion images
 partner: false
 publicly_available: true
-ratings: ''
 references:
   LMG13: Babak Loni, Maria Menendez, Mihai Georgescu, Luca Galli, Claudio Massari,
     Ismail Sengor Altingovde, Davide Martinenghi, Mark Melenhorst, Raynor Vliegendhart,
     Martha Larson, Fashion-focused creative commons social dataset, Proceedings of
     the 4th ACM Multimedia Systems Conferen (MMSys), Oslo, Norway, USA, February 27
     - March 1, 2013.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: Fashion-focused Creative Commons Social dataset
 total: 4810
 ---

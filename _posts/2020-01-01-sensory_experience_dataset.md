@@ -3,30 +3,24 @@ access: 'The size of the entire dataset is approx. 1.6GB and available on reques
   only, i.e., you need to sign a non-disclosure agreement (NDA). Link: http://selab.itec.aau.at/software-and-services/dataset/'
 author: "Alpen-Adria-Universit\xE4t Klagenfurt"
 categories:
-- Audiovisual
-citation: ''
-contact_email: null
+- audiovisual
 contact_name: Information for the database may be obtained by contacting Christian
   Timmerer (christian.timmerer@itec.uni-klu.ac.at)
 database: Sensory Experience Dataset
+deprecated: false
 excerpt: ''
 external_link: http://selab.itec.aau.at/software-and-services/dataset/
-hrc: ''
 license: Non-disclosure agreement (NDA) is available at (http://selab.itec.aau.at/nda/).
-method: ''
 other: Sensory
 partner: true
 publicly_available: true
-ratings: ''
 references:
   WTR12: 'Waltl, M.; Timmerer, C.; Rainer, B.; Hellwagner, H.; , "Sensory effect dataset
     and test setups," Quality of Multimedia Experience (QoMEX), 2012 Fourth International
     Workshop on , vol., no., pp.115-120, 5-7 July 2012 doi: 10.1109/QoMEX.2012.6263841.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Audiovisual
+- audiovisual
 title: Sensory Experience Dataset
 total: 76
 ---

@@ -7,33 +7,28 @@ access: 'Zip archives containing Stimuli and Gaze data. Natural movies, original
   Gaze data: http://www.inb.uni-luebeck.de/tools-demos/gaze/gaze.zip'
 author: "Uni L\xFCbeck"
 categories:
-- Video
-- Image
+- video
+- image
 citation: Please cite the paper [DMG10] if you use our data set in your own publications.
   We would also appreciate to hear about your research - please send an e-mail to
   dorr@inb.uni-luebeck.de.
-contact_email: null
 contact_name: Michael Dorr (dorr@inb.uni-luebeck.de)
 database: INB Video Eyetracking Dataset
+deprecated: false
 excerpt: ''
 external_link: http://www.inb.uni-luebeck.de/tools-demos/gaze
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 54.0
+ratings: 54
 references:
   DMG10: Michael Dorr, Thomas Martinetz, Karl Gegenfurtner, and Erhardt Barth. Variability
     of eye movements when viewing dynamic natural scenes. Journal of Vision, 10(10):1-17,
     2010.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
-- Video
+- image
+- video
 title: INB Video Eyetracking Dataset
 total: 20
 ---

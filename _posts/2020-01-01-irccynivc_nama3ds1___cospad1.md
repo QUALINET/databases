@@ -8,21 +8,19 @@ access: 'A spreadsheet with the individual scores and the Mean Opinion Score (MO
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [UGB12].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC NAMA3DS1 - COSPAD1
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1052
-hrc: 10.0
-license: ''
+hrc: 10
 method: ACR-HR
-other: ''
 partner: true
 publicly_available: true
-ratings: 29.0
+ratings: 29
 references:
   UGB12: "Matthieu Urvoy, Jes\xFAs Guti\xE9rrez, Marcus Barkowsky, RomainCousseau,\
     \ Yao Koudota, Vincent Ricordel, Patrick Le Callet and Narciso Garc\xEDa, \"NAMA3DS1-COSPAD1\
@@ -30,11 +28,11 @@ references:
     \ freely available high quality 3D stereoscopic sequences\", Fourth International\
     \ on Quality of Multimedia Experience, Yarra Valley, July 2012."
 resolution: HD (1920x1080)
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: IRCCyN/IVC NAMA3DS1 - COSPAD1
 total: 110
 ---

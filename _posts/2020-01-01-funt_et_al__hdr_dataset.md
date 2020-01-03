@@ -16,20 +16,15 @@ access: 'HDR images can be downloaded in one ZIP file (1.8GB): Link: http://www.
   Base image list 1: filenames of 105 base images >= 11000: http://www.cs.sfu.ca/~colour/data2/funt_hdr/Filelist_base_unsaturated_11000_med5x5.txt'
 author: Simon Fraser University
 categories:
-- Image
+- image
 citation: Please cite the papers [FS10a], [FS10b] if you use the gallery.
-contact_email: null
 contact_name: Briant Funt (http://www.cs.sfu.ca/~funt, funt@cs.sfu.ca)
 database: Funt et al. HDR Dataset
+deprecated: false
 excerpt: ''
 external_link: http://www.cs.sfu.ca/~colour/data/funt_hdr/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   FS10a: Funt, B. and Shi, L., The Rehabilitation of MaxRGB, Proc. IS&T Eighteenth
     Color Imaging Conference, San Antonio, Nov. 2010.
@@ -37,11 +32,11 @@ references:
     Proc. SPIE Volume 7527 Human Vision and Electronic Imaging XV, San Jose, Jan.
     2010.
 resolution: 4256x2832
-src: 105.0
+src: 105
 subjective_scores: false
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: Funt et al. HDR Dataset
 total: 105
 ---

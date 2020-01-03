@@ -3,32 +3,27 @@ access: 'ZIP archive, password protected, password upon request Judith Redi (J.A
   Link: http://mmi.tudelft.nl/iqlab/databases/TUD_Interactions.zip'
 author: TU Delft
 categories:
-- Video
+- video
 citation: The eye-tracking data are publicly available to the research community.
   Please cite the following references if you use this database in your research.
   [RH11], [RLZ11].
-contact_email: null
-contact_name: ''
 database: TU Delft Interactions (Video Eye-Tracking)
+deprecated: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/interactions.html
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 14.0
+ratings: 14
 references:
   RH11: 'J. Redi and I. Heynderickx, "TUD Image Quality Database: Interactions", http://mmi.tudelft.nl/iqlab/interactions.html.'
   RLZ11: J. Redi, H. Liu, R. Zunino, I. Heynderickx, "Interactions of visual attention
     and quality perception", IS&T/SPIE Electronic Imaging 2011 and Human Vision and
     Electronic Imaging XVI. 7865, 2011.
-resolution: ''
-src: 6.0
+src: 6
 subjective_scores: true
 tags:
-- Video
+- video
 title: TU Delft Interactions (Video Eye-Tracking)
 total: 54
 ---

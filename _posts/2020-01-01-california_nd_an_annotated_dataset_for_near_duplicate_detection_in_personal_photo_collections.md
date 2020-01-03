@@ -4,32 +4,32 @@ access: 'The dataset is released under a creative commons license and can be dow
   please email (bbonik@adsc.com.sg) for the password.'
 author: University of Illinois at Urbana-Champaign
 categories:
-- Image
+- image
 citation: Please cite the paper [JVW13] if you use the California-ND dataset.
-contact_email: null
 contact_name: Dr. Stefan Winkler, Vision & InterAction Group (Vintage), Advanced Digital
   Sciences Center (ADSC), University of Illinois at Urbana-Champaign (UIUC), (http://stefan.winkler.net/)
 database: 'California-ND: An Annotated Dataset for Near-Duplicate Detection in Personal
   Photo Collections'
+deprecated: false
 excerpt: ''
 external_link: http://vintage.winklerbros.net/californiaND.html
-hrc: 1.0
+hrc: 1
 license: The dataset is released under a creative commons license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
 method: Custom
 other: Near-duplicate annotations
 partner: false
 publicly_available: true
-ratings: 10.0
+ratings: 10
 references:
   JVW13: 'A. Jinda-Apiraksa, V. Vonikakis, S. Winkler.California-ND: An annotated
     dataset for near-duplicate detection in personal photo collections. Proc. 5th
     International Workshop on Quality of Multimedia Experience (QoMEX), Klagenfurt,
     Austria, July 3-5, 2013.'
 resolution: 1024x768
-src: 701.0
+src: 701
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'California-ND: An Annotated Dataset for Near-Duplicate Detection in Personal
   Photo Collections'
 total: 701

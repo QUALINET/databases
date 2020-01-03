@@ -2,25 +2,21 @@
 access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCYN_IVC_HD_UHD_Eyetracking_Videos/'
 author: IRCCyN/IVC
 categories:
-- Video
-citation: ''
-contact_email: null
+- video
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC HD UHD Eyetracking Videos
+deprecated: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 42.0
+ratings: 42
 resolution: UHD (3840x2160), HD (1920x1080)
-src: 37.0
+src: 37
 subjective_scores: false
 tags:
-- Video
+- video
 title: IRCCyN/IVC HD UHD Eyetracking Videos
 total: 37
 ---

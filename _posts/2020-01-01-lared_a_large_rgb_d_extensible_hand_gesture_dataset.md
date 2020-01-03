@@ -2,31 +2,26 @@
 access: 'Data and code available in archives:  Link: http://mclab.citi.sinica.edu.tw/dataset/lared/lared.html'
 author: National Taiwan University
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [HSL14] at the MMSys conference (Proceedings of ACM MMSys
   2014, March 19 - March 21, 2014, Singapore, Singapore).
-contact_email: null
 contact_name: Jordi Sanchez-Riera (jsan3386@citi.sinica.edu.tw)
 database: 'LaRED: A Large RGB-D Extensible Hand Gesture Dataset'
+deprecated: false
 excerpt: ''
 external_link: http://mclab.citi.sinica.edu.tw/dataset/lared/lared.html
-hrc: ''
-license: ''
-method: ''
 other: Depth image
 partner: false
 publicly_available: true
-ratings: ''
 references:
   HSL14: 'Yuan-Sheng Hsiao, Jordi Sanchez-Riera, Tekoing Lim, Kai-Lung Hua, Wen-Huang
     Cheng, LaRED: a large RGB-D extensible hand gesture dataset, Proceedings of ACM
     MMSys 2014, March 19 - March 21, 2014, Singapore, Singapore.'
-resolution: ''
-src: 27.0
+src: 27
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'LaRED: A Large RGB-D Extensible Hand Gesture Dataset'
 total: 243000
 ---

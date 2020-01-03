@@ -6,29 +6,22 @@ categories: []
 citation: "Use of the datasets in published work should be acknowledged by a full\
   \ citation to the authors\u2019 papers [POS16] at the MMSys conference: Proceedings\
   \ of ACM MMSys\u201916, Klagenfurt am W\xF6rthersee, Austria, May 10-13, 2016."
-contact_email: null
 contact_name: "Pradip Paudyal (pradip.paudyal@uniroma3.it) Roger Olsson (roger.olsson@miun.se)\
   \ M\xE5rten Sj\xF6str\xF6m (marten.sjostrom@miun.se) Federica Battisti (federica.battisti@uniroma3.it)\
   \ Marco Carli (marco.carli@uniroma3.it)"
 database: 'SMART: a Light Field image quality dataset'
+deprecated: true
 excerpt: ''
 external_link: http://www.comlab.uniroma3.it/SMART.html
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   POS16: "Paudyal, P., Olsson, R., Sj\xF6str\xF6m, M., Battisti, F., Carli, M. SMART:\
     \ A light field image quality dataset, Proceedings of the 7th International Conference\
     \ on Multimedia Systems, MMSys 2016, pp. 374-379."
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Light Field Image
+- light field image
 title: 'SMART: a Light Field image quality dataset'
 total: 16
 ---

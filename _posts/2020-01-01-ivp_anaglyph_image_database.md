@@ -6,30 +6,24 @@ access: 'The MATLAB code of the proposed anaglyph image generation algorithm can
   here: Link: http://ivp.ee.cuhk.edu.hk/research/database/anaglyph/Experimental_data.zip'
 author: Chinese University of Hong Kong
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [LMN13].
-contact_email: null
-contact_name: ''
 database: IVP Anaglyph Image Database
+deprecated: true
 excerpt: ''
 external_link: http://www.ee.cuhk.edu.hk/~snli/anaglyph_database.htm
-hrc: ''
-license: ''
 method: Custom
-other: ''
 partner: false
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   LMN13: Songnan Li, Lin Ma, King Ngi Ngan, Anaglyph Image Generation by Matching
     Color Appearance Attributes, Preprint submitted to Elsevier, March 2013.
-resolution: ''
-src: ''
 subjective_scores: true
 tags:
-- 3D
-- Image
+- 3d
+- image
 title: IVP Anaglyph Image Database
 total: 25
 ---

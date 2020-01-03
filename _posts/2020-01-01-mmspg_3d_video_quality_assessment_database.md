@@ -8,15 +8,15 @@ access: 'Database in ZIP archives, password protected, password upon request Lut
   files http://ltslinux18.epfl.ch/~goldmann/3dvqa/MosCi.zip'
 author: EPFL
 categories:
-- Video
+- video
 citation: If you use this database in your research we kindly ask you to reference
   this website and the paper below [GDE10].
-contact_email: null
 contact_name: Lutz Goldmann (lutz.goldmann@epfl.ch)
 database: MMSPG 3D Video Quality Assessment Database
+deprecated: false
 excerpt: ''
 external_link: http://mmspl.epfl.ch/page38842.html
-hrc: 5.0
+hrc: 5
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -28,21 +28,20 @@ license: "Permission is hereby granted, without written agreement and without li
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 17.0
+ratings: 17
 references:
   GDE10: 'Lutz Goldmann, Francesca De Simone, Touradj Ebrahimi: "A Comprehensive Database
     and Subjective Evaluation Methodology for Quality of Experience in Stereoscopic
     Video", Electronic Imaging (EI), 3D Image Processing (3DIP) and Applications,
     San Jose, USA, 2010.'
 resolution: 1920x1080
-src: 6.0
+src: 6
 subjective_scores: true
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: MMSPG 3D Video Quality Assessment Database
 total: 30
 ---

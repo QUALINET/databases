@@ -3,29 +3,24 @@ access: 'ZIP archives, no password. Links: Subjective rating: http://vision.okst
   Distorted images: http://vision.okstate.edu/csiq/dst_imgs.zip Original images: http://vision.okstate.edu/csiq/src_imgs.zip'
 author: Oklahoma State University
 categories:
-- Image
-citation: ''
-contact_email: null
-contact_name: ''
+- image
 database: Categorical Image Quality (CSIQ) Database
+deprecated: true
 excerpt: ''
 external_link: http://vision.okstate.edu/index.php?loc=csiq
-hrc: 29.0
-license: ''
+hrc: 29
 method: Custom
-other: ''
 partner: false
 publicly_available: true
-ratings: 35.0
+ratings: 35
 references:
   LC10: 'E. C. Larson and D. M. Chandler, "Most apparent distortion: full-reference
     image quality assessment and the role of strategy," Journal of Electronic Imaging,
     19 (1), March 2010.'
-resolution: ''
-src: 30.0
+src: 30
 subjective_scores: true
 tags:
-- Image
+- image
 title: Categorical Image Quality (CSIQ) Database
 total: 866
 ---

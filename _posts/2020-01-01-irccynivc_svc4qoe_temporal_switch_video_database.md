@@ -4,30 +4,28 @@ access: 'Video sequences at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRC
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [PEL11].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC SVC4QoE Temporal Switch Video Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article770
-hrc: 37.0
-license: ''
+hrc: 37
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 28.0
+ratings: 28
 references:
   PEL11: "Yohann Pitrey, Ulrich Engelke, Patrick Le Callet, Marcus Barkowsky, Romuald\
     \ P\xE9pion, \"Subjective quality of SVC-coded videos with different error-patterns\
     \ concealed using spatial scalability\", EUVIP, Paris, 2011."
 resolution: VGA
-src: 11.0
+src: 11
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC SVC4QoE Temporal Switch Video Database
 total: 390
 ---

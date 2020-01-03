@@ -3,31 +3,24 @@ access: 'The size of the entire dataset is approx. 2.8GB and it is available for
   in one archive. Link: http://dropbox.eait.uq.edu.au/uqhshen/uq_video/'
 author: University of Queensland
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [SYH11].
-contact_email: null
 contact_name: Information for the database may be obtained by contacting Prof. Heng
   Tao Shen (shenht@itee.uq.edu.au)
 database: UQ_VIDEO dataset
+deprecated: true
 excerpt: ''
 external_link: http://itee.uq.edu.au/~shenht/UQ_VIDEO/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   SYH11: 'Jingkuan Song, Yi Yang, Zi Huang, Heng Tao Shen, Richang Hong: Multiple
     feature hashing for real-time large scale near-duplicate video retrieval. ACM
     Multimedia, pages 423-432, 2011.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: UQ_VIDEO dataset
 total: 169952
 ---

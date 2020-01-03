@@ -5,16 +5,15 @@ access: 'You can download all image files, lists of fixation points and fixation
   Password: 96U#JXe7fX(990dZ  The total size of the dataset is about 1.3 GB.'
 author: EPFL
 categories:
-- Image
+- image
 citation: If you use the Ultra-Eye dataset in your research, we kindly ask you to
   reference the following paper [NHK14] and URL link of this website (http://mmspg.epfl.ch/ultra-eye).
-contact_email: null
 contact_name: In case of any problems or questions, please send an email to Hiromi
   Nemoto (hiromi.nemoto@epfl.ch).
 database: 'Ultra-Eye: UHD and HD images eye tracking dataset'
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/ultra-eye
-hrc: ''
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -29,20 +28,18 @@ license: "Permission is hereby granted, without written agreement and without li
   \ two images in a scientific paper, website, or any other publicly accessible media,\
   \ you must include the following copyright below each image: \"\xA9 nvp3d, Lausanne,\
   \ 2012\""
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   NHK14: 'H. Nemoto, P. Hanhart, P. Korshunov, and T. Ebrahimi. Ultra-Eye: UHD and
     HD images eye tracking dataset. Sixth International Workshop on Quality of Multimedia
     Experience (QoMEX), Singapore, September 2014.'
 resolution: UHD (3840x2160)
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'Ultra-Eye: UHD and HD images eye tracking dataset'
 total: 41
 ---

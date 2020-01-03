@@ -3,30 +3,27 @@ access: The dataset can be downloaded at the link indicated above. It comes as p
   protected zip file. To get the password, please send an email to j.a.redi@tudelft.nl
 author: TU Delft
 categories:
-- Image
+- image
 citation: Please cite the following references if you use this database in your research.
   [RP13].
-contact_email: null
 contact_name: Judith Redi (j.a.redi@tudelft.nl)
 database: TU Delft A&A dataset - Aesthetics and visual Attention
+deprecated: false
 excerpt: ''
 external_link: http://ii.tudelft.nl/iqlab/A&A.html
-hrc: ''
-license: ''
 method: ACR
 other: Eyetracking
 partner: true
 publicly_available: false
-ratings: 19.0
+ratings: 19
 references:
   RP13: 'Redi J, Povoa I, The role of visual attention in the aesthetic appeal of
     consumer images: a preliminary study. in proc. International Conference on Video
     Communication and Image Processing (VCIP 2013), 2013.'
-resolution: ''
-src: 200.0
+src: 200
 subjective_scores: true
 tags:
-- Image
+- image
 title: TU Delft A&A dataset - Aesthetics and visual Attention
 total: 200
 ---

@@ -3,31 +3,25 @@ access: 'The files are available for download via HTTP. Link: http://traces.cs.u
   The files are available in one archive (7.6GB) for download via HTTP: Link: http://skuld.cs.umass.edu/traces/mmsys/2014/user01.tar'
 author: University Politehnica of Bucharest
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [IRM14] at the MMSys conference (Proceedings of ACM MMSys
   2014, March 19 - March 21, 2014, Singapore, Singapore).
-contact_email: null
 contact_name: Bogdan Ionescu (bionescu@imag.pub.ro)
 database: 'Div400: A Social Image Retrieval Result Diversification Dataset'
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Human annotation
 partner: false
 publicly_available: true
-ratings: ''
 references:
   IRM14: "B. Ionescu, A.-L. Radu, M. Men\xE9ndez, H. M\xFCller, A. Popescu, B. Loni,\
     \ Div400: a social image retrieval result diversification dataset, Proceedings\
     \ of ACM MMSys 2014, March 19 - March 21, 2014, Singapore, Singapore."
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'Div400: A Social Image Retrieval Result Diversification Dataset'
 total: 43418
 ---

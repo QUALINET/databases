@@ -3,41 +3,36 @@ access: 'The files are available for download via HTTP. Link: https://jpeg.org/p
   Direct Link (5.5GB): https://jpeg.org/plenodb/pc/8ilabs/8iVFBv2.7z'
 author: 8i Labs
 categories:
-- Video
+- video
 citation: If you publish images or report performance results of these data, we request
   that you cite this document [DHM17] as Eugene d'Eon, Bob Harrison, Taos Myers, and
   Philip A. Chou, "8i Voxelized Full Bodies - A Voxelized Point Cloud Dataset," ISO/IEC
   JTC1/SC29 Joint WG11/WG1 (MPEG/JPEG) input document WG11M40059/WG1M74006, Geneva,
   January 2017.
-contact_email: null
 contact_name: 8i Labs (hi@8i.com) Eugene d'Eon, Bob Harrison, Taos Myers and Philip
   A. Chou
 database: 'JPEG Pleno Database: 8i Voxelized Full Bodies (8iVFB v2) - A Dynamic Voxelized
   Point Cloud Dataset'
+deprecated: false
 excerpt: ''
 external_link: https://jpeg.org/plenodb/pc/8ilabs/
-hrc: ''
 license: 8i Labs, Inc. hereby makes available dynamic voxelized point cloud data sequences
   as potential test material for MPEG and/or JPEG standardization efforts, as well
   as non-commercial use subject to the accompanying license agreement (https://jpeg.org/plenodb/pc/8ilabs/license.pdf)
   by the wider research community. The terms of use of the dataset are governed by
   the License Agreement, which is an integral part of the dataset and which must accompany
   any copy of the dataset.
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   DHM17: Eugene d'Eon, Bob Harrison, Taos Myers, and Philip A. Chou, "8i Voxelized
     Full Bodies - A Voxelized Point Cloud Dataset," ISO/IEC JTC1/SC29 Joint WG11/WG1
     (MPEG/JPEG) input document WG11M40059/WG1M74006, Geneva, January 2017.
-resolution: ''
-src: 4.0
+src: 4
 subjective_scores: false
 tags:
-- Point Cloud
-- Video
+- point cloud
+- video
 title: 'JPEG Pleno Database: 8i Voxelized Full Bodies (8iVFB v2) - A Dynamic Voxelized
   Point Cloud Dataset'
 total: 4

@@ -4,29 +4,23 @@ access: 'ZIP archives with eye tracking database: Set of stimuli: Link: http://p
   fixation maps: http://people.csail.mit.edu/tjudd/WherePeopleLook/ALLFIXATIONMAPS.zip'
 author: MIT
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: Judd Tilke (tjudd@mit.edu)
 database: MIT CSAIL Dataset
+deprecated: false
 excerpt: ''
 external_link: http://people.csail.mit.edu/tjudd/WherePeopleLook/index.html
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 15.0
+ratings: 15
 references:
   TED09: Tilke, J., Ehinger, K., Durand, F., Torralba, A. Learning to predict where
     humans look, 2009, Proceedings of the IEEE International Conference on Computer
     Vision , art. no. 5459462, pp. 2106-2113.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: MIT CSAIL Dataset
 total: 1003
 ---

@@ -10,20 +10,16 @@ access: RAR archives, password protected, password upon request Yen-Fu Ou (you01
   Testing Sequences Release 3 http://vision.poly.edu/yenfu/QADatabase/ICASSP10_seqs
 author: Polytechnic Institute of NYU
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: Poly@NYU Video Quality Database
+deprecated: false
 excerpt: ''
 external_link: http://vision.poly.edu/index.html/index.php?n=HomePage.ScalableVideoQualityWithFrameRateAndQuantizationArtifacts
-hrc: 50.0
-license: ''
+hrc: 50
 method: ACR
-other: ''
 partner: false
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   OLZ08: "Y.-F Ou, T. Liu, Z. Zhao, Z. Ma, Y. Wang \u201C Modeling the Impact of Frame\
     \ Rate on Perceptual Quality of Video\u201D, IEEE International Conference on\
@@ -37,10 +33,10 @@ references:
     \ Speech, and Signal Processing (ICASSP10'), Dallas, TX, USA, March 14 \u2013\
     \ 19, 2010."
 resolution: CIF/QCIF
-src: 11.0
+src: 11
 subjective_scores: true
 tags:
-- Video
+- video
 title: Poly@NYU Video Quality Database
 total: 320
 ---

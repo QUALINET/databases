@@ -5,21 +5,19 @@ access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective q
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [AL07].
-contact_email: null
 contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC Fourier Subband database
+deprecated: false
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/FourierSB/
-hrc: 42.0
-license: ''
+hrc: 42
 method: DSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 7.0
+ratings: 7
 references:
   AL07: F. Autrusseau, P. Le Callet, "A robust image watermarking technique based
     on quantization noise visibility thresholds",Elsevier Signal Processing, Volume
@@ -27,11 +25,10 @@ references:
   CPA10: M. Carosi, V. Pankajakshan, F. Autrusseau, "Toward a simplified perceptual
     quality metric for watermarking applications", Proceedings of the SPIE Electronic
     Imaging, conf. 7542, January 2010, San Jose, CA, USA.
-resolution: ''
-src: 5.0
+src: 5
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC Fourier Subband database
 total: 210
 ---

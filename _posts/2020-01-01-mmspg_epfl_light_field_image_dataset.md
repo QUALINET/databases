@@ -4,13 +4,12 @@ author: EPFL
 categories: []
 citation: If you use this dataset in your research, we kindly ask you to reference
   the following paper [RYA15] and URL link of this website (http://mmspg.epfl.ch/EPFL-light-field-image-dataset).
-contact_email: null
 contact_name: If you have any questions regarding this research please contact Martin
   Rerabek (martin.rerabek@epfl.ch).
 database: MMSPG EPFL Light-Field Image Dataset
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/EPFL-light-field-image-dataset
-hrc: ''
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -21,20 +20,16 @@ license: "Permission is hereby granted, without written agreement and without li
   \ provided hereunder is on an \"as is\" basis and the Ecole Polytechnique F\xE9\
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   RYA15: 'Martin Rerabek, Lin Yuan, Leonard Authier, Touradj Ebramini: [ISO/IEC JTC
     1/SC 29/WG1 contribution] EPFL Light-Field Image Dataset, PLENO-LF-Dataset-Proposal.doc,
     2015.'
 resolution: 5368x7728
-src: ''
 subjective_scores: false
 tags:
-- Light Field Image
+- light field image
 title: MMSPG EPFL Light-Field Image Dataset
 total: 119
 ---

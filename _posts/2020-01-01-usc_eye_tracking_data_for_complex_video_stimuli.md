@@ -3,32 +3,26 @@ access: 'Four ZIP archives (each between 1.2GB and 1.8GB), password protected, p
   obtained after registration (http://crcns.org/join_form) Link: http://crcns.org/data-sets/eye/download'
 author: UC Berkeley
 categories:
-- Video
+- video
 citation: Data on this site is made available only for scientific purposes. Redistribution
   of the data is not permitted. Any publications derived from the data should cite
   the data contributor and CRCNS.org as being the source of the data.
-contact_email: null
-contact_name: ''
 database: USC Eye-tracking data for complex video stimuli
+deprecated: false
 excerpt: ''
 external_link: http://crcns.org/data-sets/eye/eye-1
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 8.0
+ratings: 8
 references:
   CI06a: R. Carmi, L. Itti, The Role of Memory in Guiding Attention during Natural
     Vision, Journal of Vision, Vol. 6, No. 9, pp. 898-914, Aug 2006.
   CI06b: R. Carmi, L. Itti, Visual Causes versus Correlates of Attentional Selection
     in Dynamic Scenes, Vision Research, Vol. 46, No. 26, pp. 4333-4345, Dec 2006.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: USC Eye-tracking data for complex video stimuli
 total: 50
 ---

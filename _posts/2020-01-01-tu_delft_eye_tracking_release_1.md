@@ -3,33 +3,27 @@ access: 'ZIP archive, password protected, password upon request Hantao Liu (Hant
   Link: http://mmi.tudelft.nl/iqlab/databases/TUD_LIVE_EyeTracking.zip'
 author: TU Delft
 categories:
-- Image
+- image
 citation: The eye-tracking data are publicly available to the research community.
   Please cite the following references if you use this database in your research [LH09],
   [LH09b].
-contact_email: null
-contact_name: ''
 database: TU Delft Eye-Tracking Release 1
+deprecated: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/eye_tracking_1.html
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   LH09: H. Liu and I. Heynderickx, "Studying the Added Value of Visual Attention in
     Objective Image Quality Metrics Based on Eye Movement Data", in Proc. IEEE International
     Conference on Image Processing, pp. 3097-3100, November 2009.
   LH09b: 'H. Liu and I. Heynderickx, "TUD Image Quality Database: Eye-Tracking Release
     1", http://mmi.tudelft.nl/iqlab/eye_tracking_1.html.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: TU Delft Eye-Tracking Release 1
 total: 29
 ---

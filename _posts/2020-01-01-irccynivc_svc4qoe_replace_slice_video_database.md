@@ -4,30 +4,28 @@ access: 'Video sequences at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRC
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [PBL10].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC SVC4QoE Replace Slice Video Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article768
-hrc: 15.0
-license: ''
+hrc: 15
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 29.0
+ratings: 29
 references:
   PBL10: "Yohann Pitrey, Marcus Barkowsky, Patrick Le Callet, Romuald P\xE9pion, \"\
     Evaluation of MPEG4-SVC for QoE protection in the context of transmission errors\"\
     , SPIE Optical Engineering, San Diego, 2010."
 resolution: VGA
-src: 9.0
+src: 9
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC SVC4QoE Replace Slice Video Database
 total: 135
 ---

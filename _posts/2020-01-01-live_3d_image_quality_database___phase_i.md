@@ -3,18 +3,18 @@ access: 'Database can be downloaded using the link: http://live.ece.utexas.edu/r
   Please fill the form and the password will be sent to you: https://docs.google.com/spreadsheet/viewform?formkey=dE1sY3lpZUlsSVR0NmxRYjdIM0FydWc6MQ'
 author: LIVE - University of Texas
 categories:
-- Image
+- image
 citation: The following papers [MSM12] are to be cited in the bibliography whenever
   the database is used.
-contact_email: null
 contact_name: Dr. Anush Krishna Moorthy (anushmoorthy@gmail.com) - Graduated from
   UT Austin in 2012 Che-Chun Su (chechunsu@mail.utexas.edu) - Graduate student at
   UT Austin Anish Mittal (mittal.anish@gmail.com) - Graduate student at UT Austin
   Dr. Alan C. Bovik (bovik@ece.utexas.edu) - Professor, Dept. of ECE, UT Austin
 database: LIVE 3D Image Quality Database - Phase I
+deprecated: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/live_3dimage_phase1.html
-hrc: 80.0
+hrc: 80
 license: 'Link: http://live.ece.utexas.edu/research/quality/live_3dimage_phase1.html
   Permission is hereby granted, without written agreement and without license or royalty
   fees, to use, copy, modify, and distribute this database (the images, the results
@@ -24,21 +24,18 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/live_3dimage_phase1.
   and Center for Perceptual Systems (CPS, http://www.cps.utexas.edu) at the University
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database.'
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   MSM12: "A.K. Moorthy, C.-C. Su, A. Mittal and A.C. Bovik, \u201CSubjective evaluation\
     \ of stereoscopic image quality,\u201D Signal Processing: Image Communication,\
     \ to appear, 2012."
 resolution: 12.1 Mpix
-src: 20.0
+src: 20
 subjective_scores: true
 tags:
-- 3D
-- Image
+- 3d
+- image
 title: LIVE 3D Image Quality Database - Phase I
 total: 365
 ---

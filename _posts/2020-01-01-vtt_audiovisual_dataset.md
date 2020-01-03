@@ -3,30 +3,26 @@ access: Go to https://gitlab.willab.fi/qualinet/audiovisualdataset. Then select 
   zip or visit the files from Files tab.
 author: VTT Technical Research Center of Finland
 categories:
-- Audiovisual
+- audiovisual
 citation: 'Please, cite the following paper, if you use this database: [MKD13]'
-contact_email: null
 contact_name: "Toni Maki (toni.maki@vtt.fi) Mart\xEDn Varela (martin.varela@vtt.fi)"
 database: VTT Audiovisual Dataset
+deprecated: true
 excerpt: ''
 external_link: https://gitlab.willab.fi/qualinet/audiovisualdataset
-hrc: ''
-license: ''
 method: DCR
-other: ''
 partner: true
 publicly_available: true
-ratings: 24.0
+ratings: 24
 references:
   MKD13: "T. Maki, D. Kukolj, D. Dordevic, and M. Varela, \u201CA reduced-reference\
     \ parametric model for audiovisual quality of IPTV services,\u201D in 2013 Fifth\
     \ International Workshop on Quality of Multimedia Experience (QoMEX), 2013, pp.\
     \ 6\u201311."
 resolution: 1920x1080, 1280x720, 854x480
-src: ''
 subjective_scores: true
 tags:
-- Audiovisual
+- audiovisual
 title: VTT Audiovisual Dataset
 total: 125
 ---

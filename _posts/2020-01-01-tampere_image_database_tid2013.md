@@ -2,21 +2,19 @@
 access: 'RAR archive (~908MB), no password. Link: http://www.ponomarenko.info/tid2013/tid2013.rar'
 author: Tampere University of Technology
 categories:
-- Image
+- image
 citation: In case of publishing results obtained by means of TID2013 please refer
   to one of the following papers [PIL13a], [PIL13b].
-contact_email: null
 contact_name: Nikolay Ponomarenko (nikolay@ponomarenko.info)
 database: Tampere Image Database (TID2013)
+deprecated: false
 excerpt: ''
 external_link: http://www.ponomarenko.info/tid2013.htm
-hrc: 120.0
-license: ''
+hrc: 120
 method: Custom
-other: ''
 partner: false
 publicly_available: true
-ratings: 971.0
+ratings: 971
 references:
   PIL13a: 'N. Ponomarenko, O. Ieremeiev, V. Lukin, K. Egiazarian, L. Jin, J. Astola,
     B. Vozel, K. Chehdi, M. Carli, F. Battisti, C.-C. Jay Kuo, Color Image Database
@@ -28,10 +26,10 @@ references:
     TID2013: Innovations and Results, Proceedings of ACIVS, Poznan, Poland, Oct. 2013,
     pp. 402-413.'
 resolution: 512x384
-src: 25.0
+src: 25
 subjective_scores: true
 tags:
-- Image
+- image
 title: Tampere Image Database (TID2013)
 total: 3000
 ---

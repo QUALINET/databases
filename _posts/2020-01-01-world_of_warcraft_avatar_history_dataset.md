@@ -8,29 +8,23 @@ categories: []
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the paper [LCC11] at the MMSys conference (MMSys 11, February 23-25, San Jose,
   California, USA, Copyright 2011 ACM 978-1-4503-0517-4/11/02).
-contact_email: null
 contact_name: If you have any question and/or comments regarding WOWAH, or if you
   want to list your publications on this page, please feel free to contact Kuan-Ta
   Chen at (swc@iis.sinica.edu.tw).
 database: World of Warcraft Avatar History Dataset
+deprecated: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/wow/
-hrc: ''
-license: ''
-method: ''
 other: Avatar traces
 partner: false
 publicly_available: true
-ratings: ''
 references:
   LCC11: Y. Lee, K. Chen, Y. Cheng, C. Lei, World of Warcraft Avatar History Dataset,
     Proceedings of the First ACM Multimedia Systems Conference (MMSys), San Jose,
     CA, USA, February 23-25, 2011.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Avatar
+- avatar
 title: World of Warcraft Avatar History Dataset
 total: 91065
 ---

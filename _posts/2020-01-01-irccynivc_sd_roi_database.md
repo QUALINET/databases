@@ -2,30 +2,27 @@
 access: 'Video sequences at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_SD_RoI_Database/'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BCP09].
-contact_email: null
-contact_name: ''
 database: IRCCyN/IVC SD RoI Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article551
-hrc: 14.0
-license: ''
+hrc: 14
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 25.0
+ratings: 25
 references:
   BCP09: "Fadi Boulos, Wei Chen, Beno\xEEt Parrein, Patrick Le Callet, Region-of-Interest\
     \ Intra Prediction for H.264/AVC Error Resilience, IEEE International Conference\
     \ on Image Processing, Cairo : Egypt (2009)."
 resolution: SD
-src: 6.0
+src: 6
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC SD RoI Database
 total: 84
 ---

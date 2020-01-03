@@ -8,26 +8,22 @@ access: 'In order to access the UBIRIS.v1database, it must be sent an email to o
   Link: http://iris.di.ubi.pt/ubiris2.html'
 author: University of Beira Interior
 categories:
-- Image
+- image
 citation: Please use the following reference when using UBIRIS [PA05]. All documents
   and papers that report on research that uses the UBIRIS.v2 database must database
   by including an appropriate citation [PFS2010].
-contact_email: null
 contact_name: "SOCIA Lab.: Soft Computing and Image Analysis Group  Department of\
   \ Computer Science, University of Beira Interior, 6201-001 Covilha, Portugal Hugo\
   \ Proen\xE7a (hugomcp@di.ubi.pt)"
 database: Noisy Visible Wavelength Iris Image Databases
+deprecated: false
 excerpt: ''
 external_link: http://iris.di.ubi.pt/
-hrc: ''
 license: 'A copy of all reports and papers that use the UBIRIS.v2 database and are
   for public or general release must be forwarded immediately upon release or publication
   to the SOCIA Lab. email address: socia@di.ubi.pt.'
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 references:
   PA05: "Proen\xE7a, H., Alexandre, L. A. UBIRIS: A noisy iris image database, 13th\
     \ International Conference on Image Analysis and Processing - ICIAP 2005, Springer,\
@@ -36,11 +32,9 @@ references:
     \ UBIRIS.v2: A Database of Visible Wavelength Iris Images Captured On-The-Move\
     \ and At-A-Distance, IEEE Transactions on Pattern Analysis and Machine Intelligence,\
     \ August, 2010, volume 32, number 8, pp. 1529-1535, ISSN: 0162-8828."
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: Noisy Visible Wavelength Iris Image Databases
 total: 12979
 ---

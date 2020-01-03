@@ -2,31 +2,30 @@
 access: 'Link: http://mmspg.epfl.ch/hdr-eye'
 author: EPFL
 categories:
-- Image
+- image
 citation: If you use the HDR-Eye dataset in your research, we kindly ask you to reference
   our paper [NKH15] and the URL (http://mmspg.epfl.ch/hdr-eye)
-contact_email: null
 contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: 'MMSPG HDR-Eye: dataset of high dynamic range images with eye tracking data'
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/hdr-eye
-hrc: 2.0
-license: ''
+hrc: 2
 method: ACR
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 20.0
+ratings: 20
 references:
   NKH15: H. Nemoto, P. Korshunov, P. Hanhart and T. Ebrahimi. Visual attention in
     LDR and HDR images. 9th International Workshop on Video Processing and Quality
     Metrics for Consumer Electronics (VPQM), Chandler, Arizona, USA, 2015.
 resolution: 1920x1080
-src: 46.0
+src: 46
 subjective_scores: false
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: 'MMSPG HDR-Eye: dataset of high dynamic range images with eye tracking data'
 total: 92
 ---

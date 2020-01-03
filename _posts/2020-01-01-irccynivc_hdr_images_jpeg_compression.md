@@ -2,32 +2,31 @@
 access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_HDR_Images_JPEG_Compression/'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [NPL13].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC HDR Images JPEG Compression
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1447
-hrc: 15.0
-license: ''
+hrc: 15
 method: ACR-HR
 other: JPEG compression
 partner: true
 publicly_available: true
-ratings: 26.0
+ratings: 26
 references:
   NPL13: "Narwaria M., Perreira Da Silva M., Le Callet P., P\xE9pion R., Tone mapping-based\
     \ high-dynamic-range image compression : study of optimization criterion and perceptual\
     \ quality, Optical Engineering 52, 10 (2013) pp. 102008-1 _ 102008-15, October\
     \ 2013."
 resolution: 1920x1080
-src: 10.0
+src: 10
 subjective_scores: true
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: IRCCyN/IVC HDR Images JPEG Compression
 total: 150
 ---

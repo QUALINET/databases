@@ -3,31 +3,25 @@ access: 'The files are available for download via HTTP. Link: http://traces.cs.u
   The files are available in one archive (9.8GB) for download via HTTP: Link: http://skuld.cs.umass.edu/traces/mmsys/2014/user05.tar'
 author: TU Delft
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [LCR14] at the MMSys conference (Proceedings of ACM MMSys
   2014, March 19 - March 21, 2014, Singapore, Singapore).
-contact_email: null
 contact_name: Babak Loni (b.loni@tudelft.nl)
 database: 'Fashion 10000: An Enriched Social Image Dataset for Fashion and Clothing'
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Annotation of fashion images
 partner: false
 publicly_available: true
-ratings: ''
 references:
   LCR14: 'B. Loni, Lei Yen Cheung, M. Riegler, A. Bozzon, L. Gottlieb, M. Larson,
     Fashion 10000: an enriched social image dataset for fashion and clothing, Proceedings
     of ACM MMSys 2014, March 19 - March 21, 2014, Singapore, Singapore.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'Fashion 10000: An Enriched Social Image Dataset for Fashion and Clothing'
 total: 32000
 ---

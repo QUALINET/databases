@@ -3,22 +3,20 @@ access: For more information on how to obtain and use this subjective video data
   please contact Nicolas Staelens (nicolas.staelens@intec.ugent.be).
 author: Ghent University
 categories:
-- Video
+- video
 citation: In case the database is used in your own publication, cite one or more of
   the following papers [SVV13], [SVC12], [SDV13].
-contact_email: null
 contact_name: Nicolas Staelens (nicolas.staelens@intec.ugent.be)
 database: High Definition H.264/AVC Subjective Video Database for Evaluating the Influence
   of Slice Losses on Quality Perception
+deprecated: false
 excerpt: ''
 external_link: http://avchd.intec.ugent.be/
-hrc: 57.0
-license: ''
+hrc: 57
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 40.0
+ratings: 40
 references:
   SDV13: N. Staelens, D. Deschrijver, E. Vladislavleva, B. Vermeulen, T. Dhaene and
     P. Demeester, Constructing a No-Reference H.264/AVC Bitstream-based Video Quality
@@ -34,10 +32,10 @@ references:
     of Slice Losses on Quality Perception, Proceedings of the Fifth International
     Workshop on Quality of Multimedia Experience (QoMEX), July 2013
 resolution: HD (1920x1080)
-src: 8.0
+src: 8
 subjective_scores: true
 tags:
-- Video
+- video
 title: High Definition H.264/AVC Subjective Video Database for Evaluating the Influence
   of Slice Losses on Quality Perception
 total: 456

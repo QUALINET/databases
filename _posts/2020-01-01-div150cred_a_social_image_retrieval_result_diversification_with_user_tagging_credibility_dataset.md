@@ -2,33 +2,27 @@
 access: 'The files are available for download via HTTP. Link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys'
 author: University Politehnica of Bucharest
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [IPL15] at the MMSys conference (Proceedings of ACM MMSys
   '15, Portland, Oregon, March 18-20, 2015).
-contact_email: null
 contact_name: Bogdan Ionescu (bionescu@imag.pub.ro)
 database: 'Div150Cred: A Social Image Retrieval Result Diversification with User Tagging
   Credibility Dataset'
+deprecated: false
 excerpt: ''
 external_link: http://imag.pub.ro/~bionescu/index_files/Page13170.htm
-hrc: ''
-license: ''
-method: ''
 other: Metadata
 partner: false
 publicly_available: true
-ratings: ''
 references:
   IPL15: "B. Ionescu, A. Popescu, M. Lupu, A. G\xEEnsc\u0103, B. Boteanu, H. M\xFC\
     ller. Div150Cred: A Social Image Retrieval Result Diversification with User Tagging\
     \ Credibility Dataset, Proceedings of ACM MMSys '15, Portland, Oregon, March 18-20,\
     \ 2015."
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: 'Div150Cred: A Social Image Retrieval Result Diversification with User Tagging
   Credibility Dataset'
 total: 45375

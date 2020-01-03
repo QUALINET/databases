@@ -2,33 +2,30 @@
 access: 'The files are available for download via Dropbox. Link: https://www.dropbox.com/sh/05lfejrwvk65k3q/AAC9IbzNI1Ivjh7sUb1lwuEAa?dl=0'
 author: University of Oslo
 categories:
-- Video
+- video
 citation: "Use of the datasets in published work should be acknowledged by a full\
   \ citation to the authors\u2019 papers [RFW16] at the MMSys conference: Proceedings\
   \ of ACM MMSys\u201916, Klagenfurt am W\xF6rthersee, Austria, May 10-13, 2016."
-contact_email: null
 contact_name: "Michael Riegler (michael@simula.no) Duc-Tien Dang-Nguyen (dangnguyen@disi.unitn.it)\
   \ B\xE5rd Winther (baardew@simula.no) Carsten Griwodz (griff@simula.no) Konstantin\
   \ Pogorelov (konstantin@simula.no) P\xE5l Halvorsen (paalh@simula.no)"
 database: 'Heimdallr: A Dataset for Sport Analysis'
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
 method: Custom crowdsourcing
 other: Human annotation
 partner: false
 publicly_available: true
-ratings: 592.0
+ratings: 592
 references:
   RFW16: 'Riegler, M., Dang-Nguyen, D.-T., Winther, B., Griwodz, C., Pogorelov, K.,
     Halvorsen, P. Heimdallr: A dataset for sport analysis, Proceedings of the 7th
     International Conference on Multimedia Systems, MMSys 2016, pp. 362-367.'
-resolution: ''
-src: 42.0
+src: 42
 subjective_scores: false
 tags:
-- Video
+- video
 title: 'Heimdallr: A Dataset for Sport Analysis'
 total: 42
 ---

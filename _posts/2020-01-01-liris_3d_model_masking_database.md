@@ -4,29 +4,25 @@ author: INSA Lyon
 categories: []
 citation: "The database was created at LIRIS, Universit\xE9 de Lyon. It you use it,\
   \ please cite [Lav09]."
-contact_email: null
 contact_name: "Guillaume Lavou\xE9 (glavoue@liris.cnrs.fr)"
 database: LIRIS 3D Model Masking database
+deprecated: false
 excerpt: ''
 external_link: http://liris.cnrs.fr/guillaume.lavoue/data/datasets.html
-hrc: ''
-license: ''
 method: MSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 11.0
+ratings: 11
 references:
   LC10b: "Lavou\xE9 G, Corsini M. A comparison of perceptually-based metrics for objective\
     \ evaluation of geometry processing. IEEE Transactions on Multimedia. 2010;12(7):636-649."
   Lav09: "Lavou\xE9 G. A local roughness measure for 3D meshes and its application\
     \ to visual masking. ACM Transactions on Applied Perception (TAP). 2009;5(4)."
-resolution: ''
-src: 4.0
+src: 4
 subjective_scores: true
 tags:
-- 3D
-- Model
+- 3d
+- model
 title: LIRIS 3D Model Masking database
 total: 26
 ---

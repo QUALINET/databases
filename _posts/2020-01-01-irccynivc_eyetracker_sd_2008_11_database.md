@@ -4,29 +4,24 @@ access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BCP09].
-contact_email: null
-contact_name: ''
 database: IRCCyN/IVC Eyetracker SD 2008 11 Database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article555
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: 38.0
+ratings: 38
 references:
   BCP09: Fadi Boulos, Wei Chen, Benoit Parrein and Patrick Le Callet, "Region-of-Interest
     Intra Prediction for H.264/AVC Error Resilience", IEEE ICIP, 2009.
 resolution: 720x576
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: IRCCyN/IVC Eyetracker SD 2008 11 Database
 total: 51
 ---

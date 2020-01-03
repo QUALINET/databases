@@ -3,31 +3,25 @@ access: 'The files are available for download via HTTP. Link: http://traces.cs.u
   The files are available in one archive (4.9GB) for download via HTTP: Link: http://skuld.cs.umass.edu/traces/mmsys/2014/user06.tar'
 author: University of Ottawa
 categories:
-- Video
+- video
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [AOS14] at the MMSys conference (Proceedings of ACM MMSys
   2014, March 19 - March 21, 2014, Singapore, Singapore).
-contact_email: null
 contact_name: Shabnam Abtahi (sabtahi@discover.uottawa.ca)
 database: 'YawDD: A Yawning Detection Dataset'
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Yawning detection
 partner: false
 publicly_available: true
-ratings: ''
 references:
   AOS14: 'S. Abtahi, M. Omidyeganeh, S. Shirmohammadi, B. Hariri, YawDD: a yawning
     detection dataset, Proceedings of ACM MMSys 2014, March 19 - March 21, 2014, Singapore,
     Singapore.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: 'YawDD: A Yawning Detection Dataset'
 total: 342
 ---

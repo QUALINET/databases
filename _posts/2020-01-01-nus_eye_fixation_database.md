@@ -3,32 +3,28 @@ access: 'Single archive containing Images, Eye-fixation data, Ground truth segme
   Visualisation code (60.9 MB). Link: http://mmas.comp.nus.edu.sg/NUSEF_database.zip'
 author: National University of Singapore
 categories:
-- Image
+- image
 citation: If you use this database, please cite NUSEF as [KSK10].
-contact_email: null
 contact_name: Mohan Kankanhalli (mohan@comp.nus.edu.sg)
 database: NUS Eye Fixation database
+deprecated: true
 excerpt: ''
 external_link: http://mmas.comp.nus.edu.sg/NUSEF.html
-hrc: ''
 license: 'Link: http://mmas.comp.nus.edu.sg/NUSEF.html NUSEF is available for research
   purposes only and we adhere to Fair Use terms and conditions (http://en.wikipedia.org/wiki/Copyright#Fair_use_and_fair_dealing).
   IAPS images have their own copyright terms and images can be obtained from the NIMH
   CSEA by filling in their request form (http://csea.phhp.ufl.edu/media/iapsmessage.html).'
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 75.0
+ratings: 75
 references:
   KSK10: H. Katti, N. Sebe1, M. Kankanhalli, T-S. Chua2, An Eye Fixation Database
     for Saliency Detection in Images, R. Subramanian, European Conference on Computer
     Vision (ECCV 2010), Heraklion, Greece, September 2010.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: NUS Eye Fixation database
 total: 758
 ---

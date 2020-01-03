@@ -2,30 +2,26 @@
 access: 'Data and code available in one archive (183.2MB):  Link: http://mmas.comp.nus.edu.sg/VIP_files/VIP_Dataset.zip'
 author: National University of Singapore
 categories:
-- Image
+- image
 citation: If you are using this dataset, please cite [MSK13].
-contact_email: null
 contact_name: Keng-Teck Ma (ktma@comp.nus.edu.sg)
 database: Visual stimulus, Intent, Person (VIP) Dataset
+deprecated: true
 excerpt: ''
 external_link: http://mmas.comp.nus.edu.sg/VIP.html
-hrc: ''
 license: 'VIP dataset is available for research purposes only. By downloading or using
   the dataset, you are deemed to agree to terms and conditions. Link: http://mmas.comp.nus.edu.sg/VIP_files/terms.html'
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 75.0
+ratings: 75
 references:
   MSK13: Keng-Teck Ma. Terence Sim and Mohan Kankanhalli, A Unifying Framework for
     Computational Eye-Gaze Research. 4th International Workshop on Human Behavior
     Understanding. Barcelona, Spain. 2013.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: Visual stimulus, Intent, Person (VIP) Dataset
 total: 150
 ---

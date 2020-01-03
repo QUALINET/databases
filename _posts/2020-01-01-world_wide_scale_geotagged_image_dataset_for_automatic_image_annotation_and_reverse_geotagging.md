@@ -3,33 +3,27 @@ access: 'The files are available for download via HTTP. Link: http://traces.cs.u
   The files are available in one archive (79.3GB) for download via HTTP: Link: http://skuld.cs.umass.edu/traces/mmsys/2014/user03.tar'
 author: "Universit\xE9 Lyon"
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [MWH14] at the MMSys conference (Proceedings of ACM MMSys
   2014, March 19 - March 21, 2014, Singapore, Singapore).
-contact_email: null
 contact_name: Hatem Mousselly-Sergieh (hatem.mousselly-sergieh@insa-lyon.fr)
 database: World-Wide Scale Geotagged Image Dataset for Automatic Image Annotation
   and Reverse Geotagging
+deprecated: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-hrc: ''
-license: ''
-method: ''
 other: Geotags
 partner: false
 publicly_available: true
-ratings: ''
 references:
   MWH14: "H. Mousselly-Sergieh, D. Watzinger, B. Huber, M. D\xF6ller, E. Egyed-Zsigmond,\
     \ H. Kosch, World-wide scale geotagged image dataset for automatic image annotation\
     \ and reverse geotagging, Proceedings of ACM MMSys 2014, March 19 - March 21,\
     \ 2014, Singapore, Singapore."
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Image
+- image
 title: World-Wide Scale Geotagged Image Dataset for Automatic Image Annotation and
   Reverse Geotagging
 total: 14000000

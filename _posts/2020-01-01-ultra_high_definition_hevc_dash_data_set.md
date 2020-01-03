@@ -2,31 +2,25 @@
 access: 'All video sequencs are available at HTTP: Link: http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/'
 author: Telecom ParisTech
 categories:
-- Video
+- video
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [LTP14] at the MMSys conference (Proceedings of ACM MMSys
   2014, March 19 - March 21, 2014, Singapore, Singapore).
-contact_email: null
 contact_name: Jean Le Feuvre (jean.lefeuvre@telecom-paristech.fr)
 database: Ultra high definition HEVC DASH data set
+deprecated: false
 excerpt: ''
 external_link: http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   LTP14: ' J. Le Feuvre, J-M. Thiesse, M. Parmentier, M. Raulet, C. Daguet, Ultra
     high definition HEVC DASH data set, Proceedings of ACM MMSys 2014, March 19 -
     March 21, 2014, Singapore, Singapore.'
 resolution: 720p30-2160p60
-src: ''
 subjective_scores: false
 tags:
-- Video
+- video
 title: Ultra high definition HEVC DASH data set
 total: 1
 ---

@@ -2,31 +2,24 @@
 access: 'The files are available for download via HTTP. Link: http://maserati.cs.pdx.edu/Dataset/'
 author: Portland State University
 categories:
-- Image
+- image
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the authors' papers [ZFF15] at the MMSys conference (Proceedings of ACM MMSys
   '15, Portland, Oregon, March 18-20, 2015).
-contact_email: null
 contact_name: Fan Zhang (zhangfan@pdx.edu)
 database: Multi-Lens Stereoscopic Synthetic Video Dataset
+deprecated: true
 excerpt: ''
 external_link: http://maserati.cs.pdx.edu/Dataset/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 references:
   ZFF15: Fan Zhang, Wu-chi Feng, and Feng Liu. A Multi-Lens Stereoscopic Synthetic
     Video Dataset, Proceedings of ACM MMSys '15, Portland, Oregon, March 18-20, 2015.
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- 3D
-- Image
+- 3d
+- image
 title: Multi-Lens Stereoscopic Synthetic Video Dataset
 total: 20
 ---

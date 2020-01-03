@@ -9,28 +9,21 @@ categories: []
 citation: Use of the datasets in published work should be acknowledged by a full citation
   to the paper [CK11] at the MMSys conference (MMSys 11, February 23-25, San Jose,
   California, USA, Copyright 2011 ACM 978-1-4503-0517-4/11/02).
-contact_email: null
-contact_name: ''
 database: 'Affect Corpus 2.0: An Extension of a Corpus for Actor Level Emotion Magnitude
   Detection'
+deprecated: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/affect-corpus/
-hrc: ''
-license: ''
-method: ''
 other: Emotion magnitudes
 partner: false
 publicly_available: true
-ratings: ''
 references:
   CK11: 'R. Calix, G. Knapp, Affect Corpus 2.0: An Extension of a Corpus for Actor
     Level Emotion Magnitude Detection, Proceedings of the First ACM Multimedia Systems
     Conference (MMSys), San Jose, CA, USA, February 23-25, 2011.'
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- Speech
+- speech
 title: 'Affect Corpus 2.0: An Extension of a Corpus for Actor Level Emotion Magnitude
   Detection'
 total: 15302

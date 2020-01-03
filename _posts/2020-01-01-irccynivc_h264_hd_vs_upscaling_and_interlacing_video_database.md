@@ -4,30 +4,28 @@ access: 'Video sequences at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRC
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Video
+- video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [PLP10].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC H264 HD vs Upscaling and Interlacing Video database
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article777
-hrc: 29.0
-license: ''
+hrc: 29
 method: ACR
-other: ''
 partner: true
 publicly_available: true
-ratings: 26.0
+ratings: 26
 references:
   PLP10: "Yohann Pitrey, Marcus Barkowsky, Patrick Le Callet, Romuald P\xE9pion, \"\
     Subjective Quality Evaluation of H.264 High-Definition Video Coding versus Spatial\
     \ Up-Scaling and Interlacing\", Euro ITV, Tampere, 2010."
 resolution: HD (1920x1080)
-src: 3.0
+src: 3
 subjective_scores: true
 tags:
-- Video
+- video
 title: IRCCyN/IVC H264 HD vs Upscaling and Interlacing Video database
 total: 87
 ---

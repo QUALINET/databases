@@ -2,25 +2,19 @@
 access: 'Various data files can be downloaded from the website. Link: http://www.cim.mcgill.ca/~lijian/database.htm'
 author: McGill University
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: Jian Li (lijian@cim.mcgill.ca)
 database: ImgSal McGill Database for Saliency Detection
+deprecated: true
 excerpt: ''
 external_link: http://www.cim.mcgill.ca/~lijian/database.htm
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 21.0
-resolution: ''
-src: ''
+ratings: 21
 subjective_scores: false
 tags:
-- Image
+- image
 title: ImgSal McGill Database for Saliency Detection
 total: 235
 ---

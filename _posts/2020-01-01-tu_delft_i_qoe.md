@@ -4,30 +4,28 @@ access: 'The database can be downloaded at the following link. The files are pas
   http://ii.tudelft.nl/iqlab/databases/i_QoE.zip'
 author: TU Delft
 categories:
-- Video
+- video
 citation: We kindly request you to cite the following paper [YHR15] in any published
   work if you use this dataset.
-contact_email: null
 contact_name: Yi Zhu (Y.Zhu-1@tudelft.nl)
 database: TU Delft i_QOE
+deprecated: false
 excerpt: ''
 external_link: http://ii.tudelft.nl/iqlab/iQOE.html
-hrc: 2.0
-license: ''
+hrc: 2
 method: Custom
 other: QoE factors
 partner: true
 publicly_available: true
-ratings: 60.0
+ratings: 60
 references:
   YHR15: 'Zhu, Yi, Ingrid Heynderickx, and Judith A. Redi. "Understanding the role
     of social context and user factors in video Quality of Experience." Computers
     in Human Behavior 49 (2015): 412-426.'
-resolution: ''
-src: 6.0
+src: 6
 subjective_scores: true
 tags:
-- Video
+- video
 title: TU Delft i_QOE
 total: 12
 ---

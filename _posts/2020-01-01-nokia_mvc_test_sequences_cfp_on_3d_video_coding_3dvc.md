@@ -5,14 +5,10 @@ access: "FTP site for NOKIA MVC Test Sequences (CfP on 3D Video Coding (3DVC)) i
   \ video sequences can be found at: Link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/"
 author: NOKIA
 categories:
-- Video
-citation: ''
-contact_email: null
-contact_name: ''
+- video
 database: NOKIA MVC Test Sequences (CfP on 3D Video Coding (3DVC))
+deprecated: false
 excerpt: ''
-external_link: ''
-hrc: ''
 license: "Copyright: The supplied data and content (\u201CSupplied Data\u201D) is\
   \ provided free of charge and made available for use by the Licensee, who shall\
   \ be a member of the MPEG standardization committee or a respondent to a the Call\
@@ -33,19 +29,13 @@ license: "Copyright: The supplied data and content (\u201CSupplied Data\u201D) i
   \ original material or to any reproduction of it in whole or in part and to any\
   \ modifications of the Supplied Data. The texture views of the Supplied Data are\
   \ copyright \xA9 UNDO. (See http://www.undo.fi)"
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: NOKIA MVC Test Sequences (CfP on 3D Video Coding (3DVC))
-total: ''
 ---
 
 The repository contains multiview vide test sequences from NOKIA included in “w12036, Call for Proposals (CfP) on 3D Video Coding (3DVC)” by ISO/IEC JTC1/SC29/WG11.

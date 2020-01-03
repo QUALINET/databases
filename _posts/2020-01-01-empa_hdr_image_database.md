@@ -2,29 +2,22 @@
 access: 'The dataset can be downloaded through thumbnails page: Link: http://empamedia.ethz.ch/hdrdatabase/index.php'
 author: "ETH Z\xFCrich"
 categories:
-- Video
-- Image
-citation: ''
-contact_email: null
+- video
+- image
 contact_name: 'For questions, contact: Iris Sprow (iris.sprow@empa.ch) Peter Zolliker
   (peter.zolliker@empa.ch)'
 database: Empa HDR Image Database
+deprecated: true
 excerpt: ''
 external_link: http://empamedia.ethz.ch/hdrdatabase/index.php
-hrc: ''
-license: ''
-method: ''
 other: RAW images
 partner: false
 publicly_available: true
-ratings: ''
-resolution: ''
-src: ''
 subjective_scores: false
 tags:
-- HDR
-- Image
-- Video
+- hdr
+- image
+- video
 title: Empa HDR Image Database
 total: 36
 ---

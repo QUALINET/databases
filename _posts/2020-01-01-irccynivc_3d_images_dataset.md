@@ -4,31 +4,29 @@ access: 'Still images at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BLC08].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC 3D images dataset
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article876
-hrc: 16.0
-license: ''
+hrc: 16
 method: SAMVIQ
-other: ''
 partner: true
 publicly_available: true
-ratings: 19.0
+ratings: 19
 references:
   BLC08: Alexandre Benoit, Patrick Le Callet, Patrizio Campisi, Romain Cousseau, "Quality
     Assessment of Stereoscopic Images", EURASIP Journal on Image and Video Processing,
     2008.
 resolution: 1024x768
-src: 6.0
+src: 6
 subjective_scores: true
 tags:
-- 3D
-- Image
+- 3d
+- image
 title: IRCCyN/IVC 3D images dataset
 total: 96
 ---

@@ -3,16 +3,16 @@ access: 'ZIP archive (~700MB), password protected, registration form to be fille
   Link: http://live.ece.utexas.edu/research/quality/release2/databaserelease2.zip'
 author: LIVE - University of Texas
 categories:
-- Image
+- image
 citation: We have decided to make the data set available to the research community
   free of charge. If you use these images in your research, we kindly ask that you
   reference this website and our papers listed below [SSB06], [WBS04], [SWL04].
-contact_email: null
 contact_name: Anush Moorthy (anushmoorthy@gmail.com)
 database: LIVE Image Quality Assessment Database
+deprecated: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/subjective.htm
-hrc: 27.0
+hrc: 27
 license: 'Link: http://live.ece.utexas.edu/research/quality/copyright.htm Permission
   is hereby granted, without written agreement and without license or royalty fees,
   to use, copy, modify, and distribute this database (the images, the results and
@@ -23,10 +23,9 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/copyright.htm Permis
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database. '
 method: ACR
-other: ''
 partner: false
 publicly_available: true
-ratings: 32.0
+ratings: 32
 references:
   SSB06: H.R. Sheikh, M.F. Sabir and A.C. Bovik, "A statistical evaluation of recent
     full reference image quality assessment algorithms", IEEE Transactions on Image
@@ -37,10 +36,10 @@ references:
     from error visibility to structural similarity," IEEE Transactions on Image Processing
     , vol.13, no.4, pp. 600- 612, April 2004.'
 resolution: 768x512
-src: 29.0
+src: 29
 subjective_scores: true
 tags:
-- Image
+- image
 title: LIVE Image Quality Assessment Database
 total: 800
 ---

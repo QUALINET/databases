@@ -2,25 +2,17 @@
 access: 'Link: http://store.smpte.org/category-s/31.htm'
 author: DCI - Digital Cinema Initiatives
 categories:
-- Audiovisual
-citation: ''
-contact_email: null
-contact_name: ''
+- audiovisual
 database: "Digital Cinema Initiatives \u2013 StEM Material"
+deprecated: false
 excerpt: ''
 external_link: http://www.dcimovies.com/StEM/
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 resolution: 4k, 2k
-src: ''
 subjective_scores: false
 tags:
-- Audiovisual
+- audiovisual
 title: "Digital Cinema Initiatives \u2013 StEM Material"
 total: 6
 ---

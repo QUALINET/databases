@@ -11,26 +11,20 @@ access: 'HDR images can be downloaded in a set of 9 RAR archives (1GB each): Lin
   http://faculties.sbu.ac.ir/~moghaddam/contents/HDR/hdr/HDRDataset.part09.rar'
 author: Shahid Beheshti University
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: Mohsen Ebrahimi Moghaddam (m_moghadam@sbu.ac.ir)
 database: High Dynamic Range Specific Image Dataset (HDRSID)
+deprecated: true
 excerpt: ''
 external_link: http://faculties.sbu.ac.ir/~moghaddam/index.php/main/page/10
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 resolution: 5118x3288
-src: 230.0
+src: 230
 subjective_scores: false
 tags:
-- HDR
-- Image
+- hdr
+- image
 title: High Dynamic Range Specific Image Dataset (HDRSID)
 total: 230
 ---

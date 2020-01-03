@@ -4,30 +4,27 @@ access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes
   dbq-mirrors  Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your publications if you use this database
   in your work [ELW13].
-contact_email: null
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Eyetracker Image LIVE
+deprecated: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article841
-hrc: 1.0
-license: ''
-method: ''
+hrc: 1
 other: Eyetracking
 partner: true
 publicly_available: true
-ratings: ''
 references:
   ELW13: Engelke, U. ; Liu, H. ; Wang, J. ; LE CALLET, P. ; Heynderickx, I. ; Zepernick,
     H.-J. ; Maeder, A. ; A Comparative Study of Fixation Density Maps, Image Processing,
     IEEE Transactions on , vol.22, no.3, pp.1121-1133, March 2013.
 resolution: 768x512
-src: 29.0
+src: 29
 subjective_scores: false
 tags:
-- Image
+- image
 title: IRCCyN/IVC Eyetracker Image LIVE
 total: 29
 ---

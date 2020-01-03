@@ -5,29 +5,26 @@ access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective q
   Username: dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following in your reference if you use this database for
   your work [ASP10].
-contact_email: null
 contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC Selective Encryption database
+deprecated: false
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/SelectiveEncryption/
-hrc: 25.0
-license: ''
+hrc: 25
 method: Custom
-other: ''
 partner: true
 publicly_available: true
-ratings: 21.0
+ratings: 21
 references:
   ASP10: Florent Autrusseau, Thomas Stuetz and Vinod Pankajakshan, Subjective quality
     assessment of selective encryption techniques, http://www.irccyn.ec-nantes.fr/~autrusse/Databases/.
-resolution: ''
-src: 8.0
+src: 8
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC Selective Encryption database
 total: 200
 ---

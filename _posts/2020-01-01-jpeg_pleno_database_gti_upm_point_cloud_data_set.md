@@ -2,15 +2,13 @@
 access: 'The files are available for download via HTTP. Link: https://jpeg.org/plenodb/pc/upm/'
 author: "Universidad Polit\xE9cnica de Madrid"
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: "Grupo de Tratamiento de Im\xE1genes - Universidad Polit\xE9cnica de\
   \ Madrid (www.gti.ssr.upm.es)"
 database: 'JPEG Pleno Database: GTI-UPM Point-cloud data set'
+deprecated: false
 excerpt: ''
 external_link: https://jpeg.org/plenodb/pc/upm/
-hrc: ''
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -21,17 +19,13 @@ license: "Permission is hereby granted, without written agreement and without li
   \ data provided hereunder is on an \"as is\" basis and the Grupo de Tratamiento\
   \ de Im\xE1genes (GTI-UPM) has no obligation to provide maintenance, support, updates,\
   \ enhancements, or modifications."
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
-resolution: ''
-src: 3.0
+src: 3
 subjective_scores: false
 tags:
-- Point Cloud
-- Image
+- point cloud
+- image
 title: 'JPEG Pleno Database: GTI-UPM Point-cloud data set'
 total: 3
 ---

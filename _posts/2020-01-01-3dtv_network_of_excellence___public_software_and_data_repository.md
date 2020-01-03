@@ -6,26 +6,18 @@ access: "The website of the project (http://www.3dtv-research.org) is no longer 
   \ Link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/"
 author: 3DTV NoE
 categories:
-- Video
-citation: ''
-contact_email: null
+- video
 contact_name: Aljoscha Smolic (smolic@hhi.de)
 database: 3DTV Network of Excellence - Public Software and Data Repository
+deprecated: false
 excerpt: ''
-external_link: ''
-hrc: ''
-license: ''
-method: ''
-other: ''
 partner: false
 publicly_available: true
-ratings: ''
 resolution: 1920x1080
-src: ''
 subjective_scores: false
 tags:
-- 3D
-- Video
+- 3d
+- video
 title: 3DTV Network of Excellence - Public Software and Data Repository
 total: 7
 ---

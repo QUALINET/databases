@@ -2,25 +2,19 @@
 access: 'Below is a direct link to the data.  Link: http://www-sop.inria.fr/members/Neil.Bruce/eyetrackingdata.zip'
 author: INRIA
 categories:
-- Image
-citation: ''
-contact_email: null
+- image
 contact_name: Neil Bruce (Neil.Bruce@sophia.inria.fr)
 database: INRIA AIM Dataset
+deprecated: false
 excerpt: ''
 external_link: http://www-sop.inria.fr/members/Neil.Bruce/#SOURCECODE
-hrc: ''
-license: ''
-method: ''
 other: Eyetracking
 partner: false
 publicly_available: true
-ratings: 11.0
-resolution: ''
-src: ''
+ratings: 11
 subjective_scores: false
 tags:
-- Image
+- image
 title: INRIA AIM Dataset
 total: 120
 ---

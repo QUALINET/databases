@@ -3,17 +3,16 @@ access: All the data are available in one single zip file of approximately 170 M
   (restrictive access only). https://documents.epfl.ch/groups/p/pe/petamedia/private/Balelec09%20data/balelec.zip
 author: EPFL
 categories:
-- Audiovisual
+- audiovisual
 citation: If you download the data, it is assumed that you agree to the copyright
   notice written above. If you use the data for your own publications, please do not
   forget to reference this website and to acknowledge PetaMedia and EPFL.
-contact_email: null
 contact_name: 'If you encounter any problem in downloading the data or you have questions
   or comments, please write to: Jong Seok Lee (jong-seok.lee@epfl.ch)'
 database: MMSPG EPFL Balelec dataset for PetaMedia community
+deprecated: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/page-58393-en.html
-hrc: ''
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\
@@ -24,16 +23,13 @@ license: "Permission is hereby granted, without written agreement and without li
   \ provided hereunder is on an \"as is\" basis and the Ecole Polytechnique F\xE9\
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
-method: ''
-other: ''
 partner: true
 publicly_available: true
-ratings: ''
 resolution: 704x396
-src: 22.0
+src: 22
 subjective_scores: false
 tags:
-- Audiovisual
+- audiovisual
 title: MMSPG EPFL Balelec dataset for PetaMedia community
 total: 22
 ---

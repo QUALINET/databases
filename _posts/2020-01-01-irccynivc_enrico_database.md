@@ -5,21 +5,19 @@ access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective q
   dbq-mirrors Password: kucykepe'
 author: IRCCyN/IVC
 categories:
-- Image
+- image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [MAL07].
-contact_email: null
 contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC Enrico database
+deprecated: false
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/Enrico/
-hrc: 20.0
-license: ''
+hrc: 20
 method: DSIS
-other: ''
 partner: true
 publicly_available: true
-ratings: 16.0
+ratings: 16
 references:
   LAC08: 'P. Le Callet, F. Autrusseau, P. Campisi, "Visibility control and Quality
     assessment of watermarking and data hiding algorithms", Chap IX in Multimedia
@@ -28,11 +26,10 @@ references:
   MAL07: E. Marini, F. Autrusseau, P. Le Callet, P. Campisi, "Evaluation of standard
     watermarking techniques", in SPIE Electronic Imaging, Security, Steganography,
     and Watermarking of Multimedia Contents IX, San Jose , USA, January 2007.
-resolution: ''
-src: 5.0
+src: 5
 subjective_scores: true
 tags:
-- Image
+- image
 title: IRCCyN/IVC Enrico database
 total: 100
 ---
