@@ -6,6 +6,7 @@
 - `author`: The institution/author
 - `partner`: `true` if you are a QUALINET partner (optional)
 - `external_link`: A link to the database
+- `doi`: A Digital Object Identifier (DOI) (optional)
 - `access`: A description of how to access the database
 - `publicly_available`: `true` if the database is publicly accessible
 - `citation`: A short description of how to cite the database (optional)
