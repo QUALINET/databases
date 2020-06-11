@@ -1,12 +1,12 @@
 ---
-access: 'Registration required Link: http://www.cdvl.org/'
+access: 'Registration required, link: http://www.cdvl.org/'
 author: Various
 categories:
 - video
 database: Consumer Digital Video Library (CDVL)
 deprecated: false
 excerpt: ''
-external_link: http://www.cdvl.org/
+external_link: https://www.cdvl.org/
 license: "NTIA/ITS hereby grants permission for you (or your organization) to use\
   \ the Consumer Digital Video Library Website (\u201CCDVL Web\u201D) and any video\
   \ clips or other content posted thereon (\u201CWebsite Content\u201D), solely for\

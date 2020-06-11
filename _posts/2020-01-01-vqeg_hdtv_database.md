@@ -1,12 +1,12 @@
 ---
-access: 'Registration required Link: http://www.cdvl.org/'
+access: 'Registration required, link: https://www.cdvl.org/'
 author: VQEG
 categories:
 - video
 database: VQEG HDTV Database
-deprecated: true
+deprecated: false
 excerpt: ''
-external_link: www.cdvl.org
+external_link: https://www.cdvl.org
 hrc: 15
 method: ACR
 partner: false

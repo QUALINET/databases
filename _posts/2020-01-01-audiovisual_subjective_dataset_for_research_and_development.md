@@ -10,7 +10,7 @@ contact_name: Margaret Pinson (margaret@its.bldrdoc.gov)
 database: Audiovisual Subjective Dataset for Research and Development
 deprecated: false
 excerpt: ''
-external_link: http://www.cdvl.org/
+external_link: https://www.cdvl.org/
 hrc: 9
 method: ACR
 partner: false
