@@ -1,12 +1,12 @@
 ---
-access: 'Link: ftp://ftp.crc.ca/crc/vqeg/TestSequences/'
+access: Via CDVL
 author: VQEG
 categories:
 - video
 database: VQEG FR-TV Phase I Database
 deprecated: false
 excerpt: ''
-external_link: ftp://ftp.crc.ca/crc/vqeg/TestSequences/
+external_link: https://www.cdvl.org/members-section/view-file/?id=3015
 hrc: 16
 method: DSCQS
 partner: false
