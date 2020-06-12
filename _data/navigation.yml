@@ -6,6 +6,8 @@ main:
     url: /databases
   - title: "Tags"
     url: /tags
+  - title: "Resources"
+    url: /resources
   - title: "About"
     url: /about
   - title: "Contact"
