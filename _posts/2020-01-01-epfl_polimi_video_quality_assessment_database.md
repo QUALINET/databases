@@ -1,5 +1,5 @@
 ---
-access: 'ZIP archive, no password Link: http://vqa.como.polimi.it/QAdatabase/online_DB.zip'
+access: 'ZIP archive. In order to  obtain the password to download the data please send an email to francesca.desimone@epfl.ch or marco.tagliasacchi@polimi.it. http://vqa.como.polimi.it/QAdatabase/online_DB.zip'
 author: EPFL
 categories:
 - video
