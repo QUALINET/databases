@@ -1,6 +1,5 @@
 ---
-access: 'The size of the entire dataset is approx. 2.8GB and it is available for download
-  in one archive. Link: http://dropbox.eait.uq.edu.au/uqhshen/uq_video/'
+access:
 author: University of Queensland
 categories:
 - video
