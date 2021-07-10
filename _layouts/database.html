@@ -152,7 +152,7 @@ layout: default
       {% if page.license != blank %}
       <section class="page__content">
         <h3><i class="fas fa-fw fa-balance-scale" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].license_label | default: "License" }}</h3>
-        {{ page.license }}
+        {{ page.license | markdownify }}
       </section>
       {% endif %}
 
