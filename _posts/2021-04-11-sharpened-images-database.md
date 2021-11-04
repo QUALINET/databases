@@ -1,14 +1,14 @@
 ---
-access: 'Database available on Google Drive. Link: https://drive.google.com/file/d/1btjT0QFPfNKTcZyxM8Neqz01eTt_6cX3/view?usp=sharing'
+access: 'Database available on [Google Drive](https://drive.google.com/file/d/1btjT0QFPfNKTcZyxM8Neqz01eTt_6cX3/view?usp=sharing).'
 author: LS2N IPI / CTU in Prague
 categories:
 - image
 citation: Please, cite the following paper in your reference if you use this database
   for your work [KLF17].
-database: SID
+database: Sharpened Image Database (SID)
 deprecated: false
 excerpt: ''
-external_link: ''
+external_link: https://drive.google.com/file/d/1btjT0QFPfNKTcZyxM8Neqz01eTt_6cX3/view?usp=sharing
 hrc: 36
 license: Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute the data provided and its documentation for research purpose only. The data provided may not be commercially distributed. In no event shall the authors or their institutions be liable to any party for direct, indirect, special, incidental, or consequential damages arising out of the use of the data and its documentation. The authors specifically disclaim any warranties. The data provided hereunder is on an "as is" basis and the authors or their institutions have no obligation to provide maintanance, support, updates, enhancements, or modifications.
 method: PC
@@ -22,7 +22,7 @@ src: 4
 subjective_scores: true
 tags:
 - image
-title: SID database
+title: Sharpened Image Database (SID)
 total: 144
 ---
 
