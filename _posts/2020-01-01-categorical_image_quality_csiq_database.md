@@ -1,13 +1,13 @@
 ---
-access: 'ZIP archives, no password. Links: Subjective rating: http://vision.okstate.edu/csiq/csiq.beta.xlsx
-  Distorted images: http://vision.okstate.edu/csiq/dst_imgs.zip Original images: http://vision.okstate.edu/csiq/src_imgs.zip'
+access: 'ZIP archives, no password. Links: Subjective rating: https://s2.smu.edu/~eclarson/csiq/csiq.DMOS.xlsx
+  Distorted images: https://s2.smu.edu/~eclarson/csiq/dst_imgs.zip Original images: https://s2.smu.edu/~eclarson/csiq/src_imgs.zip'
 author: Oklahoma State University
 categories:
 - image
 database: Categorical Image Quality (CSIQ) Database
-deprecated: true
+deprecated: false
 excerpt: ''
-external_link: http://vision.okstate.edu/index.php?loc=csiq
+external_link: https://s2.smu.edu/~eclarson/csiq.html
 hrc: 29
 method: Custom
 partner: false
