@@ -4,15 +4,15 @@ Go to [https://qualinet.github.io/databases/](https://qualinet.github.io/databas
 
 ## Development
 
-Install Ruby (2.4 or higher), then in this directory:
+Install Ruby (3.2 or higher), then in this directory:
 
 ```
 gem install bundler
 bundle install
-bundle exec jekyll serve --config _config.yml,_config.dev.yml
+RUBYOPT="-r$PWD/disable_ssl_verify.rb" bundle exec jekyll serve -l
 ```
 
-You may also use `liveserve` instead of `serve` to trigger rebuilds.
+Note: the `disable_ssl_verify.rb` file is needed to bypass SSL verification issues with some of the remote theme dependencies.
 
 ## Updating Dependencies
 
@@ -32,7 +32,7 @@ This will install, among others, security updates. After updating,  Then, commit
 
 ## License
 
-Copyright 2019 QUALINET
+Copyright 2019-2025 QUALINET Databases authors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
