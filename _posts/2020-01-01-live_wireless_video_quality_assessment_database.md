@@ -5,7 +5,8 @@ categories:
 database: LIVE Wireless Video Quality Assessment Database
 deprecated: true
 excerpt: ''
-external_link: No longer available
+external_link: ''
+access: This database is no longer available.
 hrc: 16
 method: SSCQE
 partner: false

@@ -8,6 +8,7 @@ contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: MPEG 3D-AVC verification test
 deprecated: false
 excerpt: ''
+external_link: ''
 hrc: 18
 method: ACR
 partner: false

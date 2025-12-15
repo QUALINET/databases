@@ -9,8 +9,9 @@ categories:
 - video
 contact_name: Aljoscha Smolic (smolic@hhi.de)
 database: 3DTV Network of Excellence - Public Software and Data Repository
-deprecated: false
+deprecated: true
 excerpt: ''
+external_link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/
 partner: false
 publicly_available: true
 resolution: 1920x1080

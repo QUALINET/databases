@@ -10,8 +10,7 @@ contact_name: 'For MPEG CDVS project: Giovanni Cordara (giovanni.cordara@telecom
 database: MPEG data set/base for Compact Descriptors for Visual Search (CDVS)
 deprecated: true
 excerpt: ''
-external_link: www.vision.ee.ethz.ch/showroom/zubud/, www.vis.uky.edu/~stewe/ukbench/,
-  mars0.stanford.edu/mvs_images_bbox/
+external_link: https://www.vision.ee.ethz.ch/showroom/zubud/
 partner: false
 publicly_available: true
 subjective_scores: false

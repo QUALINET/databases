@@ -1,6 +1,8 @@
 ---
 title: Real Haze Video Database
-categories: video
+database: Real Haze Video Database
+categories:
+- video
 excerpt: This dataset contains 403 haze videos captured in real outdoor scenes
 author: Shenzhen University/Ying Chu, Guoxing Luo, Fan Chen
 external_link: https://drive.google.com/file/d/1zY0LwJ-yNB8u1JTAJU2X7ZkiYXsBX7BF/view?usp=sharing
@@ -18,7 +20,8 @@ license: |
   * If Researcher is employed by a for-profit, commercial entity, Researcher's employer shall also be bound by these terms and conditions, and Researcher hereby represents that he or she is fully authorized to enter into this agreement on behalf of such employer.
 contact_name: Ying Chu
 contact_email: chuying@szu.edu.cn
-tags: haze
+tags:
+- haze
 subjective_scores: true
 total: 403
 ratings: 40

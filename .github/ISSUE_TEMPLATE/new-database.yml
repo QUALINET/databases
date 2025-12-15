@@ -1,0 +1,232 @@
+name: New Database Submission
+description: Submit a new database to the QUALINET Databases collection.
+title: "[Database]: "
+labels: ["new-database"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting a database to the QUALINET Databases collection!
+        Please fill out the form below with as much detail as possible.
+
+  - type: input
+    id: title
+    attributes:
+      label: Database Title
+      description: The name of the database
+      placeholder: e.g., LIVE Video Quality Database
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What type of media does this database contain?
+      options:
+        - image
+        - video
+        - audiovisual
+        - audio
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author / Institution
+      description: The institution or author(s) who created the database
+      placeholder: e.g., University of Texas at Austin
+    validations:
+      required: true
+
+  - type: input
+    id: external_link
+    attributes:
+      label: External Link
+      description: URL to the database website or download page
+      placeholder: https://example.com/database
+    validations:
+      required: true
+
+  - type: textarea
+    id: access
+    attributes:
+      label: Access Information
+      description: How can users access this database? Include any registration requirements, download links, or contact information.
+      placeholder: |
+        e.g., Available for download after registration at the project website.
+        Or: Contact john.doe@example.com to request access.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: publicly_available
+    attributes:
+      label: Publicly Available
+      description: Is this database publicly accessible?
+      options:
+        - "true"
+        - "false"
+      default: 0
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A detailed description of the database, its contents, and intended use cases.
+      placeholder: Describe the database content, how it was created, and what it can be used for...
+    validations:
+      required: true
+
+  - type: input
+    id: contact_name
+    attributes:
+      label: Contact Name
+      description: Name or description of who to contact for more information
+      placeholder: e.g., John Doe
+    validations:
+      required: false
+
+  - type: input
+    id: contact_email
+    attributes:
+      label: Contact Email
+      description: Email address for inquiries
+      placeholder: john.doe@example.com
+    validations:
+      required: false
+
+  - type: input
+    id: doi
+    attributes:
+      label: DOI
+      description: Digital Object Identifier (if available)
+      placeholder: e.g., 10.1234/example.doi
+    validations:
+      required: false
+
+  - type: textarea
+    id: citation
+    attributes:
+      label: Citation
+      description: How should this database be cited?
+      placeholder: |
+        e.g., Please cite the following paper if you use this database:
+        J. Doe et al., "Database Paper Title," Conference Name, 2024.
+    validations:
+      required: false
+
+  - type: textarea
+    id: license
+    attributes:
+      label: License
+      description: Any license terms or usage restrictions
+      placeholder: e.g., CC BY 4.0, or custom license terms...
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### Technical Details (Optional)
+        The following fields help describe the database contents in more detail.
+
+  - type: input
+    id: total
+    attributes:
+      label: Total Sequences/Items
+      description: Total number of sequences, images, or items in the database
+      placeholder: e.g., 150
+    validations:
+      required: false
+
+  - type: input
+    id: src
+    attributes:
+      label: Number of SRCs
+      description: Number of source reference contents
+      placeholder: e.g., 10
+    validations:
+      required: false
+
+  - type: input
+    id: hrc
+    attributes:
+      label: Number of HRCs
+      description: Number of hypothetical reference circuits/conditions
+      placeholder: e.g., 15
+    validations:
+      required: false
+
+  - type: input
+    id: ratings
+    attributes:
+      label: Number of Ratings
+      description: Number of subjective ratings collected
+      placeholder: e.g., 30
+    validations:
+      required: false
+
+  - type: input
+    id: resolution
+    attributes:
+      label: Resolution
+      description: Resolution(s) of the content
+      placeholder: e.g., 1920x1080, 4K
+    validations:
+      required: false
+
+  - type: input
+    id: method
+    attributes:
+      label: Subjective Test Method
+      description: Method used for subjective testing (if applicable)
+      placeholder: e.g., ACR, DSIS, DSCQS
+    validations:
+      required: false
+
+  - type: dropdown
+    id: subjective_scores
+    attributes:
+      label: Includes Subjective Scores
+      description: Does this database include subjective quality scores?
+      options:
+        - "true"
+        - "false"
+        - Not applicable
+      default: 2
+    validations:
+      required: false
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags to help categorize this database
+      placeholder: e.g., compression, streaming, HDR, 3D
+    validations:
+      required: false
+
+  - type: dropdown
+    id: partner
+    attributes:
+      label: QUALINET Partner
+      description: Is this database from a QUALINET partner institution?
+      options:
+        - "false"
+        - "true"
+      default: 0
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I confirm that this database information is accurate and I have permission to submit it.
+          required: true

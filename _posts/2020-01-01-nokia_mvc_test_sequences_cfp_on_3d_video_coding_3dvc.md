@@ -7,8 +7,9 @@ author: NOKIA
 categories:
 - video
 database: NOKIA MVC Test Sequences (CfP on 3D Video Coding (3DVC))
-deprecated: false
+deprecated: true
 excerpt: ''
+external_link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/
 license: "Copyright: The supplied data and content (\u201CSupplied Data\u201D) is\
   \ provided free of charge and made available for use by the Licensee, who shall\
   \ be a member of the MPEG standardization committee or a respondent to a the Call\
