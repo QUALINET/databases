@@ -10,7 +10,7 @@ contact_name: Duc-Tien Dang-Nguyen (ductien.dangnguyen@diee.unica.it)
 database: RAISE - A Raw Images Dataset for Digital Image Forensics
 deprecated: true
 excerpt: ''
-external_link: http://mmlab.science.unitn.it/RAISE/
+external_link: https://loki.disi.unitn.it/RAISE/
 other: RAW images
 partner: false
 publicly_available: true

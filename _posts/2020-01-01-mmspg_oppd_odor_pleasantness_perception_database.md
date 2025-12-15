@@ -10,7 +10,7 @@ contact_name: Eleni Kroupi (eleni.kroupi@epfl.ch)
 database: 'MMSPG OPPD: Odor Pleasantness Perception Database'
 deprecated: true
 excerpt: ''
-external_link: http://mmspg.epfl.ch/page-108296-en.html
+external_link: https://www.epfl.ch/labs/mmspg/downloads/page-119131-en-html/
 license: "Permission is hereby granted, without written agreement and without license\
   \ or royalty fees, to use, copy, modify, and distribute the data provided and its\
   \ documentation for research purpose only. The data provided may not be commercially\

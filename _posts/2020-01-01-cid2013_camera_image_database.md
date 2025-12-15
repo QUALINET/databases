@@ -11,7 +11,7 @@ contact_name: Toni Virtanen (toni.virtanen@helsinki.fi)
 database: CID2013 Camera Image Database
 deprecated: true
 excerpt: ''
-external_link: http://www.helsinki.fi/~msjnuuti/CID2013/
+external_link: https://zenodo.org/records/2647033
 hrc: 79
 license: Permission is hereby granted, without written agreement and without license
   or royalty fees, to use, copy, modify, and distribute this database (the videos,

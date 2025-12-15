@@ -13,7 +13,7 @@ contact_name: Information for the database may be obtained by contacting Pavel K
 database: 'PEViD: Privacy Evaluation Video Dataset'
 deprecated: true
 excerpt: ''
-external_link: http://mmspg.epfl.ch/page-58275.html
+external_link: https://www.epfl.ch/labs/mmspg/downloads/pevid-hd/
 license: The data is distributed under the CClicence - Creative Commons Attribution-Noncommercial-ShareAlike
   (CC BY-NC-SA 4.0). The full licence info can be viewed here (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 method: Custom

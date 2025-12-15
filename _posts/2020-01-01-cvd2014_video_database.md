@@ -13,7 +13,7 @@ contact_name: Mikko Nuutinen (mikko.nuutien@helsinki.fi)
 database: CVD2014 Video Database
 deprecated: true
 excerpt: ''
-external_link: http://www.helsinki.fi/~msjnuuti/CVD2014/
+external_link: https://zenodo.org/records/2646315
 hrc: 78
 license: Permission is hereby granted, without written agreement and without license
   or royalty fees, to use, copy, modify, and distribute this database (the videos,

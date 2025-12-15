@@ -14,7 +14,7 @@ citation: "Acknowledgement and reference to the following source document: Marek
 database: PUT MVC Test Sequences (CfP on 3D Video Coding (3DVC))
 deprecated: true
 excerpt: ''
-external_link: http://new.owieczka.net/en/2013/01/21/poznan-3d-video-test-sequences-with-depth-maps/
+external_link: http://3d-codec.multimedia.edu.pl/
 license: "Copyright: Individuals and organizations extracting sequences from this\
   \ archive agree that the sequences and all intellectual property rights therein\
   \ remain the property of the respective owners listed below. These materials may\
