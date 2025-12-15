@@ -1,11 +1,8 @@
 ---
-access: 'A spreadsheet with the individual scores and the Mean Opinion Score (MOS)
-  for each of the 110 Processed Video Sequences (PVS) is provided: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/NAMA3DS1_COSPAD1/NAMA3DS1-CoSpaD1_MOS.xlsx
-  The PVS (avi videos) are available on FTP server: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/NAMA3DS1_COSPAD1/Avi_videos
-  Preview images are provided for getting an impression on the content seen by the
-  observers during the subjective experiment: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/NAMA3DS1_COSPAD1/preview  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_NAMA3DS1_COSPAD1
-  Username: dbq-mirrors Password: kucykepe'
+access: 'The database is now available on Zenodo: https://zenodo.org/records/14916311
+  This includes the spreadsheet with individual scores and Mean Opinion Scores (MOS)
+  for each of the 110 Processed Video Sequences (PVS), the PVS (avi videos), and
+  preview images.'
 author: IRCCyN/IVC
 categories:
 - video
@@ -15,7 +12,7 @@ contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC NAMA3DS1 - COSPAD1
 deprecated: true
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1052
+external_link: https://zenodo.org/records/14916311
 hrc: 10
 method: ACR-HR
 partner: true

@@ -1,8 +1,7 @@
 ---
 access: 'The files are available for download via HTTP. The uncompressed video files
   are stored in MOV video containers. The MP4 file is provided for previewing purposes
-  if you require flexible 3D output formats: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/NAMA3DS1_COSPAD1/NAMA3DS1-CoSpaD1_MOS.xlsx
-  The PVS (avi videos) are available on FTP server: Link: http://www.rmit3dv.com/download.php'
+  if you require flexible 3D output formats: Link: http://www.rmit3dv.com/download.php'
 author: RMIT University
 categories:
 - video
