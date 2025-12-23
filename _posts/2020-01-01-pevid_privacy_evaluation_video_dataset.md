@@ -11,7 +11,7 @@ citation: 'If you use this Dataset in your work, please, cite the following pape
 contact_name: Information for the database may be obtained by contacting Pavel Korshunov
   (pavel.korshunov@epfl.ch) Touradj Ebrahimi (touradj.ebrahimi@epfl.ch)
 database: 'PEViD: Privacy Evaluation Video Dataset'
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: https://www.epfl.ch/labs/mmspg/downloads/pevid-hd/
 license: The data is distributed under the CClicence - Creative Commons Attribution-Noncommercial-ShareAlike

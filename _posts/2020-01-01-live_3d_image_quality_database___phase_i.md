@@ -11,7 +11,7 @@ contact_name: Dr. Anush Krishna Moorthy (anushmoorthy@gmail.com) - Graduated fro
   UT Austin Anish Mittal (mittal.anish@gmail.com) - Graduate student at UT Austin
   Dr. Alan C. Bovik (bovik@ece.utexas.edu) - Professor, Dept. of ECE, UT Austin
 database: LIVE 3D Image Quality Database - Phase I
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/live_3dimage_phase1.html
 hrc: 80

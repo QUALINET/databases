@@ -9,7 +9,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
 contact_name: "Any questions, requests, and feedbacks should be sent to: Andreas Petlund\
   \ (apetlund@i\uFB01.uio.no)"
 database: 'Network Traffic from Anarchy Online: Analysis, Statistics and Applications'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2012/anarchy/
 license: '[PHH12] A. Petlund, P. Halvorsen, P. Hansen, T. Lindgren, R. Casais, C.

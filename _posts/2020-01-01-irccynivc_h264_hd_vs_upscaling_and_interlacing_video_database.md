@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [PLP10].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC H264 HD vs Upscaling and Interlacing Video database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article777
 hrc: 29

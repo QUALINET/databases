@@ -6,7 +6,7 @@ citation: If you use this dataset, please cite the following paper [GLC11].
 contact_name: Information for the database may be obtained by contacting Luca Galli
   (lgalli@elet.polimi.it)
 database: Nemezis Aimbot dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.aimbot-labs.com/datasets/nemezis.html
 license: The authors of the research paper are the copyright holders of all the traces

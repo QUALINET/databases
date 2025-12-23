@@ -12,7 +12,7 @@ citation: The images provided in these dataset are free to use so long as proper
   this dataset should cite the following paper [AZK08].
 contact_name: Neil Alldrin (http://vision.ucsd.edu/~nalldrin/, nalldrin@gmail.com)
 database: HDR Image Dataset for Photometric Stereo
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://vision.ucsd.edu/~nalldrin/research/cvpr08/datasets/
 partner: false

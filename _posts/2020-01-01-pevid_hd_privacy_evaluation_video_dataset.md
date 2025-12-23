@@ -11,7 +11,7 @@ citation: You can use PEViD dataset in your research without any conditions, as 
 contact_name: In case of any problems or questions, please send an email to Pavel
   Korshunov (pavel.korshunov@epfl.ch).
 database: 'PEViD-HD: Privacy Evaluation Video Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/pevid-hd
 license: "Permission is hereby granted, without written agreement and without license\

@@ -12,7 +12,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [CPA10].
 contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC "Broken Arrows" database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/BrokenArrows/
 hrc: 12

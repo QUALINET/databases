@@ -7,7 +7,7 @@ categories:
 citation: Please be sure to include a link to this page (http://www.soe.ucsc.edu/~milanfar/software/sr-datasets.html)
   whenever you use any of these data in a publication.
 database: MDSP Super-Resolution And Demosaicing Datasets
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://users.soe.ucsc.edu/~milanfar/software/sr-datasets.html
 partner: false

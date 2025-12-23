@@ -8,7 +8,7 @@ citation: Please, cite the following paper in your reference if you use this dat
 contact_name: Information for the database may be obtained by contacting Prof. Heng
   Tao Shen (shenht@itee.uq.edu.au)
 database: UQ_VIDEO dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://itee.uq.edu.au/~shenht/UQ_VIDEO/
 partner: false

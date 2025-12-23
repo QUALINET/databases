@@ -12,7 +12,7 @@ contact_name: If you have any question and/or comments regarding WOWAH, or if yo
   want to list your publications on this page, please feel free to contact Kuan-Ta
   Chen at (swc@iis.sinica.edu.tw).
 database: World of Warcraft Avatar History Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/wow/
 other: Avatar traces

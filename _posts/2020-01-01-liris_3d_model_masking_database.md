@@ -6,7 +6,7 @@ citation: "The database was created at LIRIS, Universit\xE9 de Lyon. It you use 
   \ please cite [Lav09]."
 contact_name: "Guillaume Lavou\xE9 (glavoue@liris.cnrs.fr)"
 database: LIRIS 3D Model Masking database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://liris.cnrs.fr/guillaume.lavoue/data/datasets.html
 method: MSIS

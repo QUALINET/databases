@@ -9,7 +9,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
 contact_name: Mike Matton (mike.matton@vrt.be)
 database: EBU MIM-SCAIE Content Set for Automatic Information Extraction on Broadcast
   Media
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://ebu-scaie.lab.vrt.be/mammie
 other: Metadata

@@ -8,7 +8,7 @@ citation: The eye-tracking data are publicly available to the research community
   Please cite the following references if you use this database in your research.
   [RH11], [RLZ11].
 database: TU Delft Interactions (Video Eye-Tracking)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/interactions.html
 other: Eyetracking

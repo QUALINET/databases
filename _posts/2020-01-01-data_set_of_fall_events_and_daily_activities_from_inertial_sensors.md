@@ -7,7 +7,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   '15, Portland, Oregon, March 18-20, 2015).
 contact_name: Olukunle Ojetola (olukunle.ojetola@coventry.ac.uk)
 database: Data Set of Fall Events and Daily Activities from Inertial Sensors
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://skuld.cs.umass.edu/traces/mmsys/2015/paper-15/
 partner: false

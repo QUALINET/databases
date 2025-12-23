@@ -7,7 +7,7 @@ contact_name: Microsoft (Charles Loop, Qin Cai, Sergio Orts Escolano, and Philip
   Chou)
 database: 'JPEG Pleno Database: Microsoft Voxelized Upper Bodies - A Voxelized Point
   Cloud Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://jpeg.org/plenodb/pc/microsoft/
 license: Microsoft hereby makes available dynamic voxelized point cloud data sequences

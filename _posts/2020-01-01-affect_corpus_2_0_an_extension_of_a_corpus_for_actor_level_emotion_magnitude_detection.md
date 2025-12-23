@@ -11,7 +11,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   California, USA, Copyright 2011 ACM 978-1-4503-0517-4/11/02).
 database: 'Affect Corpus 2.0: An Extension of a Corpus for Actor Level Emotion Magnitude
   Detection'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/affect-corpus/
 other: Emotion magnitudes

@@ -6,7 +6,7 @@ categories:
 - video
 - image
 database: Databases or Datasets for Computer Vision Applications and Testing
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://datasets.visionbib.com/index.html
 partner: false

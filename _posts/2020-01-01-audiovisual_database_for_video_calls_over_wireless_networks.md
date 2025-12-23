@@ -8,7 +8,7 @@ categories:
 contact_name: Information for the database may be obtained by contacting Lingfen Sun
   (L.Sun@plymouth.ac.uk).
 database: Audiovisual Database for Video Calls over Wireless Networks
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.tech.plym.ac.uk/spmc/staff/mgoudarzi/subjective/
 method: ACR

@@ -5,7 +5,7 @@ author: Tanimoto Lab - Nagoya University
 categories:
 - video
 database: "Free Viewpoint TV \u2013 MPEG FTV Project at Tanimoto Laboratory"
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.tanimoto.nuee.nagoya-u.ac.jp/MPEG-FTVProject.html
 license: FTV test sequences can be downloaded and used for academic purposes following

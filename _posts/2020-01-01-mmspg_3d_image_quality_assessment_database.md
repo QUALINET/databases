@@ -15,7 +15,7 @@ citation: If you use this database in your research we kindly ask you to referen
   this website and the paper below [GDE10].
 contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: MMSPG 3D Image Quality Assessment Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/3diqa
 hrc: 6

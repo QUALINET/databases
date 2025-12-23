@@ -4,7 +4,7 @@ author: Ben-Gurion University
 categories:
 - image
 database: No-reference assessment of blur and noise impacts on image quality
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.ee.bgu.ac.il/~itzik/nr_quality/
 partner: false

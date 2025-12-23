@@ -7,7 +7,7 @@ categories:
 citation: If you use this database, please cite NUSEF as [KSK10].
 contact_name: Mohan Kankanhalli (mohan@comp.nus.edu.sg)
 database: NUS Eye Fixation database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://mmas.comp.nus.edu.sg/NUSEF.html
 license: 'Link: http://mmas.comp.nus.edu.sg/NUSEF.html NUSEF is available for research

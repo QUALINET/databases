@@ -6,7 +6,7 @@ categories:
 citation: Please, cite the following paper in your reference if you use this database
   for your work [KNF17].
 database: Tone-Mapped Image Quality Database (TMQID)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://drive.google.com/file/d/0B7jKyX6oxhG3OUs4OHA5MFRMVWs/view?usp=sharing&resourcekey=0-ZHMdz5_I-iSWVWDFZNOpDg
 hrc: 9

@@ -12,7 +12,7 @@ categories:
 citation: Please refer to the paper entitled [CHM12] for additional information.
 contact_name: Martin Cadik (mcadik@mpi-inf.mpg.de)
 database: Image dataset for evaluation of graphics artifacts
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.mpi-inf.mpg.de/resources/hdr/iqm-evaluation/
 hrc: 15

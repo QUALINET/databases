@@ -7,7 +7,7 @@ citation: In case of publishing results obtained by means of TID2013 please refe
   to one of the following papers [PIL13a], [PIL13b].
 contact_name: Nikolay Ponomarenko (nikolay@ponomarenko.info)
 database: Tampere Image Database (TID2013)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.ponomarenko.info/tid2013.htm
 hrc: 120

@@ -8,7 +8,7 @@ categories:
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BCP09].
 database: IRCCyN/IVC Eyetracker SD 2008 11 Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article555
 other: Eyetracking

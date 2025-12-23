@@ -8,7 +8,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [PSJ13].
 contact_name: Margaret Pinson (margaret@its.bldrdoc.gov)
 database: Audiovisual Subjective Dataset for Research and Development
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://www.cdvl.org/
 hrc: 9

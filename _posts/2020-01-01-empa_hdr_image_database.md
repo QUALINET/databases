@@ -7,7 +7,7 @@ categories:
 contact_name: 'For questions, contact: Iris Sprow (iris.sprow@empa.ch) Peter Zolliker
   (peter.zolliker@empa.ch)'
 database: Empa HDR Image Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://empamedia.ethz.ch/hdrdatabase/index.php
 other: RAW images

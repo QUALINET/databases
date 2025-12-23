@@ -17,7 +17,7 @@ citation: If you use our data for your own publications please do not forget to 
   this website and our paper [DGB09].
 contact_name: Lutz Goldmann (lutz.goldmann@epfl.ch) Francesca DeSimone (francesca.desimone@epfl.ch)
 database: MMSPG JPEG XR image compression database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspl.epfl.ch/page36328.html
 license: Permission is hereby granted, without written agreement and without license

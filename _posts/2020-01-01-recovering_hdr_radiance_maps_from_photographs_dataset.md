@@ -9,7 +9,7 @@ citation: "The reference for the paper that produced these images is [DM97] for 
   \ Ward\u2019s images and [Dev98] for light probe images."
 contact_name: Paul Debevec (http://www.pauldebevec.com/, paul@debevec.org)
 database: Recovering HDR Radiance Maps from Photographs Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.pauldebevec.com/Research/HDR/
 partner: false

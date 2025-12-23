@@ -12,7 +12,7 @@ citation: The use of the data is conditional to the users explicitly and clearly
   and acknowledging the following publication [LDR10].
 contact_name: Jong-Seok Lee (jong-seok.lee@epfl.ch)
 database: MMSPG Scalable Video Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspl.epfl.ch/page42039.html
 hrc: 24

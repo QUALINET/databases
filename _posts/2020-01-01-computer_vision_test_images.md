@@ -5,7 +5,7 @@ categories:
 - video
 - image
 database: Computer Vision Test Images
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www-2.cs.cmu.edu/~cil/v-images.html
 partner: false

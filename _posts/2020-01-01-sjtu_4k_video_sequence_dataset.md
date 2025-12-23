@@ -13,7 +13,7 @@ citation: 'This dataset is available for free and academic research only, no com
 contact_name: 'Institute of Image Communication & Information Processing, Shanghai
   Jiao Tong University, China: Li Song (song_li@sjtu.edu.cn)'
 database: SJTU 4K Video Sequence Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://medialab.sjtu.edu.cn/web4k/index.html
 hrc: 1

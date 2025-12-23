@@ -12,7 +12,7 @@ author: Polytechnic Institute of NYU
 categories:
 - video
 database: Poly@NYU Video Quality Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://vision.poly.edu/index.html/index.php?n=HomePage.ScalableVideoQualityWithFrameRateAndQuantizationArtifacts
 hrc: 50

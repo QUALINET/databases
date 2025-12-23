@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [PEB11].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC SVC4QoE QP0 QP1 Video Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article769
 hrc: 30

@@ -10,7 +10,7 @@ citation: If you use the EyeC3D dataset in your research, we kindly ask you to r
 contact_name: In case of any problems or questions, please send an email to Philippe
   Hanhart (philippe.hanhart@epfl.ch).
 database: 'EyeC3D: 3D video eye tracking dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/eyec3d
 license: "Permission is hereby granted, without written agreement and without license\

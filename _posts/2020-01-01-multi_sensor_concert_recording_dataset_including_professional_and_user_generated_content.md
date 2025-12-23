@@ -9,7 +9,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
 contact_name: Werner Bailer (werner.bailer@joanneum.at)
 database: Multi-sensor Concert Recording Dataset Including Professional and User-generated
   Content
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Sensor metadata

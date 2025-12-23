@@ -7,7 +7,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [NPL13].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC HDR Images JPEG Compression
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1447
 hrc: 15

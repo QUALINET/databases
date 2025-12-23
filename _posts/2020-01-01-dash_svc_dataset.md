@@ -8,7 +8,7 @@ citation: If you use our data for your own publications please do not forget to 
 contact_name: Information for the database may be obtained by contacting Christian
   Timmerer (christian.timmerer@itec.uni-klu.ac.at) Stefan Lederer (stefan.lederer@itec.uni-klu.ac.at)
 database: DASH SVC Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www-itec.uni-klu.ac.at/dash/?page_id=207
 other: SSIM values are provided for each layer

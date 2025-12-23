@@ -9,7 +9,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   2014, March 19 - March 21, 2014, Singapore, Singapore).
 contact_name: Shabnam Abtahi (sabtahi@discover.uottawa.ca)
 database: 'YawDD: A Yawning Detection Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Yawning detection

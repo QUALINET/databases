@@ -8,7 +8,7 @@ citation: Please cite the following references if you use this database in your 
   [RP13].
 contact_name: Judith Redi (j.a.redi@tudelft.nl)
 database: TU Delft A&A dataset - Aesthetics and visual Attention
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ii.tudelft.nl/iqlab/A&A.html
 method: ACR

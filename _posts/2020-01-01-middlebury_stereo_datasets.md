@@ -8,7 +8,7 @@ citation: 'We grant permission to use and publish all images and disparity maps 
   paper(s): [SS02] for the 2001 datasets, [SS03] for the 2003 datasets, and [SP07]
   or [HS07] for the 2005 and 2006 datasets.'
 database: Middlebury Stereo Datasets
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://vision.middlebury.edu/stereo/data/
 partner: false

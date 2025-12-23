@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   2014, March 19 - March 21, 2014, Singapore, Singapore).
 contact_name: Svein Arne Pettersen (svein.arne.pettersen@uit.no)
 database: Soccer Video and Player Position Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://home.ifi.uio.no/paalh/dataset/alfheim/
 other: ZXY sensor data

@@ -5,7 +5,7 @@ categories:
 - video
 - image
 database: "Computer Vision Databases \u2013 Columbia University"
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.cs.columbia.edu/CAVE/databases/
 partner: false

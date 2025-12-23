@@ -4,7 +4,7 @@ author: University of Maryland
 categories:
 - video
 database: Motion Blur Datasets
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.umiacs.umd.edu/~aagrawal/MotionBlur/index.html
 license: 'Copyright 2006-2010 Mitsubishi Electric Research Laboratories All Rights

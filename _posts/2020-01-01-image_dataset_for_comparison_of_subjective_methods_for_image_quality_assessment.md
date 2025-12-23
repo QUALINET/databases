@@ -10,7 +10,7 @@ citation: We do not restrict any rights to use the data sets as long as the orig
   publication and the source of the data is referred [MTM12].
 contact_name: "Rafa\u0142 K. Mantiuk (mantiuk@gmail.com)"
 database: Image dataset for comparison of subjective methods for image quality assessment
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://pages.bangor.ac.uk/~eesa0c/projects/subjective_metrics/
 hrc: 6

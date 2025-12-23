@@ -9,7 +9,7 @@ citation: You can use Mini-drone dataset in your research without any conditions
   as long as you clearly mention and acknowledge the following paper [BKR15].
 contact_name: Pavel Korshunov (pavel.korshunov@epfl.ch)
 database: MMSPG Mini-drone video dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/mini-drone
 license: "Permission is hereby granted, without written agreement and without license\

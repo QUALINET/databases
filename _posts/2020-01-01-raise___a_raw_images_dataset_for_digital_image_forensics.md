@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   '15, Portland, Oregon, March 18-20, 2015).
 contact_name: Duc-Tien Dang-Nguyen (ductien.dangnguyen@diee.unica.it)
 database: RAISE - A Raw Images Dataset for Digital Image Forensics
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: https://loki.disi.unitn.it/RAISE/
 other: RAW images

@@ -9,7 +9,7 @@ contact_name: Ayub Bokani (Bokani@unsw.edu.au) Mahbub Hassan (Mahbub.Hassan@unsw
   Salil S. Kanhere (Salil.Kanhere@unsw.edu.au) Jun Yao (jyao@cse.unsw.edu.au) Garson
   Zhong (gzho871@cse.unsw.edu.au)
 database: Comprehensive Mobile Bandwidth Traces from Vehicular Networks
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Bandwidth dataset

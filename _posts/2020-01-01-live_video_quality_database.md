@@ -9,7 +9,7 @@ citation: We are making the LIVE Video Quality Database available to the researc
   that you reference our papers listed below [SSB10], [SSB10b].
 contact_name: Kalpana Seshadrinathan (kalpana.seshadrinathan@ieee.org)
 database: LIVE Video Quality Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/live_video.html
 hrc: 15

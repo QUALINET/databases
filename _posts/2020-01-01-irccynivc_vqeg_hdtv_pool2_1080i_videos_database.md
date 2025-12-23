@@ -14,7 +14,7 @@ citation: Please, cite the following paper in your publications if you use this 
   in your work [BPP10].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC VQEG HDTV Pool2 1080i Videos database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://130.66.64.103/spip.php?article775
 hrc: 15

@@ -12,7 +12,7 @@ citation: "Acknowledgement and reference to the following source document: Marek
   \ Parameters\", ISO/IEC JTC1/SC29/WG11 MPEG 2009/M17050, Xian, China, October 2009,\
   \ are required in all documents that report any usage of the materials."
 database: PUT MVC Test Sequences (CfP on 3D Video Coding (3DVC))
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://3d-codec.multimedia.edu.pl/
 license: "Copyright: Individuals and organizations extracting sequences from this\

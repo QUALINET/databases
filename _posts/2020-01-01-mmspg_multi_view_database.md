@@ -13,7 +13,7 @@ citation: If you use this database or scripts to generate the multi-view content
 contact_name: If you have any questions regarding this research please contact Martin
   Rerabek (martin.rerabek@epfl.ch).
 database: MMSPG Multi-view database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/MultiviewDatabase
 license: "Permission is hereby granted, without written agreement and without license\

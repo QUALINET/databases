@@ -5,7 +5,7 @@ categories:
 - video
 contact_name: "Ivan V. Baji\u0107 (ibajic@ensc.sfu.ca)"
 database: Eye tracking database for standard video sequences
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.sfu.ca/~ibajic/datasets.html
 other: Eyetracking

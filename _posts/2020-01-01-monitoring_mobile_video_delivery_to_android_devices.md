@@ -7,7 +7,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   to the paper [EHG13] at the MMSys conference (Proceedings of ACM MMSys 13, February
   27 - March 1, 2013, Oslo, Norway).
 database: Monitoring Mobile Video Delivery to Android Devices
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 partner: false

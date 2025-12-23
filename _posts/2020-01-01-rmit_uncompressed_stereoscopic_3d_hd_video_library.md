@@ -8,7 +8,7 @@ categories:
 citation: If you use this database, please reference this website and the following
   publication where appropriate [CBB12].
 database: RMIT uncompressed stereoscopic 3D HD video library
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.rmit3dv.com/
 license: The database is freely available online via the Creative Commons Attribution-ShareAlike

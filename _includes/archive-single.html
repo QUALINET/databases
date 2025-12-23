@@ -10,12 +10,15 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: 'list' }}__item" style="margin-bottom: 1.5em;">
+<div class="{{ include.type | default: 'list' }}__item" style="margin-bottom: 1.5em;"{% if post.broken_link %} data-broken-link="true"{% endif %}>
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
+    {% endif %}
+    {% if post.broken_link %}
+      <span class="broken-link-badge"><i class="fas fa-unlink" aria-hidden="true"></i> Broken Link</span>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.author %}

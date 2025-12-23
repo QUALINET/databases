@@ -7,7 +7,7 @@ categories:
 - image
 citation: Please cite the following paper in any published work if you use it [LLB06].
 database: IRCCyN/IVC Eyetracker 2006 05
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article553
 other: Eyetracking

@@ -7,7 +7,7 @@ citation: If you wish to use this video sequence in your research, we kindly ask
   cite the papers [KGB13], [KGY13], [EWM13].
 contact_name: Jonas Unger (jonas.unger@liu.se)
 database: LiU HDRv Repository
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.hdrv.org/Resources.php
 license: All data, code and other information in the HDRv repository may be used freely

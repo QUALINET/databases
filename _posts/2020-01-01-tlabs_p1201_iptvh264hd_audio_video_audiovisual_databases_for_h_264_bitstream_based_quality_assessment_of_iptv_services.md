@@ -9,7 +9,7 @@ contact_name: Marie-Neige Garcia (marie-neige.garcia@alumni.tu-berlin.de) Alexan
   Raake (alexander.raake@tu-ilmenau.de)
 database: 'TLABS P1201 IPTVH264HD: Audio, Video, Audiovisual databases for H.264-bitstream-based
   quality assessment of IPTV services'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: ftp://ftp.ivc.polytech.univ-nantes.fr/VQEG/JEG/HYBRID/database_TLABS_P1201_IPTVH264HD_Audiovisual/
 hrc: 30

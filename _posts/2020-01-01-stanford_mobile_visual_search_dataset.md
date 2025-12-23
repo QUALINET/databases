@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   to the paper [CCT11] at the MMSys conference (MMSys 11, February 23-25, San Jose,
   California, USA, Copyright 2011 ACM 978-1-4503-0517-4/11/02).
 database: Stanford Mobile Visual Search Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/stanford/
 partner: false

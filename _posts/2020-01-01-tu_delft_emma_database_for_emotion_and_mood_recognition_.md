@@ -10,7 +10,7 @@ citation: The data included in the database EMMA(videos, Kinect features, annota
   research, please cite the following paper [KR15].
 contact_name: Judith Redi (J.A.Redi@tudelft.nl)
 database: 'TU Delft EMMA: Database for emotion and mood recognition '
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ii.tudelft.nl/iqlab/EMMA.html
 other: Mood annotations, Emotion annotations, Kinect skeleton joints

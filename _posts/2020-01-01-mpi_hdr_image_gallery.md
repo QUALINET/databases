@@ -10,7 +10,7 @@ categories:
 - image
 contact_name: "Rafa\u0142 K. Mantiuk (mantiuk@gmail.com)"
 database: MPI HDR Image Gallery
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.mpi-inf.mpg.de/resources/hdr/gallery.html
 partner: false

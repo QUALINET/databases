@@ -10,7 +10,7 @@ contact_name: Michael Riegler (michael@simula.no) Martha Larson (m.a.larson@tude
   Concetto Spampinato (cspampin@dieei.unict.it) Mathias Lux (mlux@itec.aau.at)
 database: Right Inflight? A Dataset for Exploring the Automatic Prediction of Movies
   Suitable for a Watching Situation
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Human annotation

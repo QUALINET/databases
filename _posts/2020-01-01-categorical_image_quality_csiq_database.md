@@ -5,7 +5,7 @@ author: Oklahoma State University
 categories:
 - image
 database: Categorical Image Quality (CSIQ) Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://s2.smu.edu/~eclarson/csiq.html
 hrc: 29

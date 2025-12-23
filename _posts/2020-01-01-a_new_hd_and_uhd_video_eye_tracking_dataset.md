@@ -10,7 +10,7 @@ contact_name: Toinon Vigier (toinon.vigier@univnantes.fr) Josselin Rousseau (jos
   Matthieu Perreira Da Silva (matthieu.perreiradasilva@univnantes.fr) Patrick Le Callet
   (patrick.lecallet@univnantes.fr)
 database: A new HD and UHD video eye tracking dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/
 method: Custom

@@ -8,7 +8,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [XYE13].
 contact_name: Liyuan Xing (liyuan.xing@ntnu.no)
 database: NTNU/NMH Stereoscopic 3D Quality Datasets
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.iet-multimedialabs.org/3d_quality/
 method: SS

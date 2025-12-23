@@ -9,7 +9,7 @@ contact_name: Dr. Fan ZHANG (fzhang@ee.cuhk.edu.hk) Mr. Songnan LI (snli@ee.cuhk
   Mr. Lin MA (lma@ee.cuhk.edu.hk) Mr. Yuk Chung WONG (ycwong@ee.cuhk.edu.hk) Dr. King
   Ngi NGAN (knngan@ee.cuhk.edu.hk)
 database: IVP Subjective Quality Video Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ivp.ee.cuhk.edu.hk/research/database/subjective/
 hrc: 3

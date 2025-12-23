@@ -10,7 +10,7 @@ categories:
 - image
 contact_name: Chaman Singh Verma (http://pages.cs.wisc.edu/~csverma/)
 database: UWM High Dynamic Range Imaging Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://pages.cs.wisc.edu/~csverma/CS766_09/HDRI/hdr.html
 partner: false

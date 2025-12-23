@@ -7,7 +7,7 @@ categories:
 citation: Please cite the paper [MKM07] if you use the gallery.
 contact_name: "Rafa\u0142 Mantiuk (http://pages.bangor.ac.uk/~eesa0c/, mantiuk@gmail.com)"
 database: PFSTOOLS HDR Image Gallery
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://pfstools.sourceforge.net/hdr_gallery.html
 license: The images are under a liberal Creative Commons license.

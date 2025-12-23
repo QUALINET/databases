@@ -4,7 +4,7 @@ author: Various
 categories:
 - video
 database: Consumer Digital Video Library (CDVL)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://www.cdvl.org/
 license: "NTIA/ITS hereby grants permission for you (or your organization) to use\

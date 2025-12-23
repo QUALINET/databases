@@ -5,7 +5,7 @@ categories:
 - video
 contact_name: Paula Queluz (mpq@lx.it.pt)
 database: IT-IST Lisbon H.264/MPEG-2 Video Quality Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://amalia.img.lx.it.pt/~tgsb/H264_test/
 partner: true

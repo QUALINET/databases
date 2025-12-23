@@ -4,7 +4,7 @@ author: VQEG
 categories:
 - video
 database: VQEG FR-TV Phase I Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://www.cdvl.org/members-section/view-file/?id=3015
 hrc: 16

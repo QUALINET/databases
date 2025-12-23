@@ -7,7 +7,7 @@ citation: 'Please, cite the following paper, if you use this database: [STD22]'
 contact_name: Robert Spang
 contact_email: spang@tu-berlin.de
 database: The Storytime Dataset
-deprecated: false
+broken_link: false
 excerpt: 'Clips for simulated videotelephony. Four stories with ten parts each, four different quality levels per clip. German language.'
 external_link: https://osf.io/cyb8w/
 method: Custom

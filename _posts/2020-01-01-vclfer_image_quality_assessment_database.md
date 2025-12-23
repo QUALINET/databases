@@ -9,7 +9,7 @@ citation: All documents and papers that report research results obtained using t
   following paper [ZTB12].
 contact_name: Sonja Grgic (sonja.grgic@fer.hr)
 database: VCL@FER image quality assessment database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.vcl.fer.hr/quality/vclfer.html
 hrc: 24

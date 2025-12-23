@@ -8,7 +8,7 @@ categories:
 - video
 - image
 database: ITU-T Test Signals for Telecommunication Systems
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.itu.int/net/itu-t/sigdb/menu.aspx
 license: 'The signals constitute part of the corresponding ITU-T Recommendations and

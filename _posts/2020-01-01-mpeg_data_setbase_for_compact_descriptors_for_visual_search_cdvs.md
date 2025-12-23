@@ -8,7 +8,7 @@ categories:
 - image
 contact_name: 'For MPEG CDVS project: Giovanni Cordara (giovanni.cordara@telecomitalia.it)'
 database: MPEG data set/base for Compact Descriptors for Visual Search (CDVS)
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: https://www.vision.ee.ethz.ch/showroom/zubud/
 partner: false

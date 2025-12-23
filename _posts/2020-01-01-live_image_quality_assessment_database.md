@@ -9,7 +9,7 @@ citation: We have decided to make the data set available to the research communi
   reference this website and our papers listed below [SSB06], [WBS04], [SWL04].
 contact_name: Anush Moorthy (anushmoorthy@gmail.com)
 database: LIVE Image Quality Assessment Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/subjective.htm
 hrc: 27

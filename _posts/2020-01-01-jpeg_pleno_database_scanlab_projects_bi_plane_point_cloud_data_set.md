@@ -9,7 +9,7 @@ citation: 'ScanLAB projects kindly requests you to send them a link for whatever
   manage to build with this data set (studio@scanlabprojects.co.uk). '
 contact_name: 'ScanLAB (studio@scanlabprojects.co.uk) '
 database: 'JPEG Pleno Database: ScanLAB Projects: Bi-plane point cloud data set'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://grebjpeg.epfl.ch/jpeg_pc/index_Bi-plane.html
 license: The data is distributed under the CClicence - Creative Commons Attribution-Noncommercial-ShareAlike

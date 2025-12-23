@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   2014, March 19 - March 21, 2014, Singapore, Singapore).
 contact_name: Jordi Sanchez-Riera (jsan3386@citi.sinica.edu.tw)
 database: 'LaRED: A Large RGB-D Extensible Hand Gesture Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mclab.citi.sinica.edu.tw/dataset/lared/lared.html
 other: Depth image

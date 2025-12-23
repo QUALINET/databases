@@ -6,7 +6,7 @@ categories:
 citation: If you use this work, please cite [KGZ14].
 contact_name: ' Katie Koehler (koehler@psych.ucsb.edu)'
 database: UCSB Saliency Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://labs.psych.ucsb.edu/eckstein/miguel/research_pages/saliencydata.html
 other: Eyetracking

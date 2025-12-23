@@ -9,7 +9,7 @@ citation: The database containing subjective data of perceived ringing is public
   available to the research community. Please cite the following references if you
   use this database in your research [LKH10]. [LKH10b], [LKH10c].
 database: TU Delft Perceived Ringing Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/ringing.html
 partner: true

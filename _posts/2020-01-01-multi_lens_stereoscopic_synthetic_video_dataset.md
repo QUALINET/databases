@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   '15, Portland, Oregon, March 18-20, 2015).
 contact_name: Fan Zhang (zhangfan@pdx.edu)
 database: Multi-Lens Stereoscopic Synthetic Video Dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://maserati.cs.pdx.edu/Dataset/
 partner: false

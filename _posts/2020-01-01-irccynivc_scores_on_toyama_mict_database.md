@@ -8,7 +8,7 @@ categories:
 citation: Please, cite one of the following papers [NLL08], [TAP08] in your reference
   if you use this database for your work.
 database: IRCCyN/IVC Scores on Toyama (MICT) Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article552
 hrc: 13

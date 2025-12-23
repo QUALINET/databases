@@ -10,7 +10,7 @@ contact_name: Information for the database may be obtained by contacting  Werner
   (werner.robitza@univie.ac.at)  Yohann Pitrey (yohann.pitrey@univie.ac.at)  Shelley
   Buchinger (shelley.buchinger@univie.ac.at)  Helmut Hlavacs (helmut.hlavacs@univie.ac.at)
 database: Made for Mobile Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.ani.univie.ac.at/~cacmtv/made-for-mobile/
 license: 'Copyright: Entertainment Computing Research Group, University of Vienna  The

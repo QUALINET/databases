@@ -6,7 +6,7 @@ author: 'Universidade Federal do Rio de Janeiro '
 categories:
 - image
 database: UFRJ Blurred Image Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www02.smt.ufrj.br/~eduardo/eduardo_oficial/ImageDatabase.htm
 partner: false

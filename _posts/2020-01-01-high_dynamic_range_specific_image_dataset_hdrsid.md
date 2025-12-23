@@ -14,7 +14,7 @@ categories:
 - image
 contact_name: Mohsen Ebrahimi Moghaddam (m_moghadam@sbu.ac.ir)
 database: High Dynamic Range Specific Image Dataset (HDRSID)
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://faculties.sbu.ac.ir/~moghaddam/index.php/main/page/10
 partner: false

@@ -6,7 +6,7 @@ citation: If this data is used in an academic publication, please acknowledge th
   Advanced Media Coding Lab at IRT b-com and cite one of these papers [GGC16a], [GGC16b].
 contact_name: Antonin Gilles (antonin.gilles@b-com.com)
 database: 'JPEG Pleno Database: B-com Holograms'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://hologram-repository.labs.b-com.com/#/hologram-repository
 license: This data may be used for research purposes only and may not be commercially

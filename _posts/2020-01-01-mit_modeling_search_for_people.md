@@ -9,7 +9,7 @@ categories:
 - image
 contact_name: Aude Oliva (oliva@mit.edu)
 database: MIT Modeling search for people
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://cvcl.mit.edu/searchmodels/
 other: Eyetracking

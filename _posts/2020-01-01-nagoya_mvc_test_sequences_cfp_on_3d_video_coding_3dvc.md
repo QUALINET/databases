@@ -7,7 +7,7 @@ author: Tanimoto Lab - Nagoya University
 categories:
 - video
 database: Nagoya MVC Test Sequences (CfP on 3D Video Coding (3DVC))
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.tanimoto.nuee.nagoya-u.ac.jp/MPEG-FTVProject.html
 license: 'Individuals and organizations extracting sequences from this archive agree

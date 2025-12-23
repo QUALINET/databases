@@ -9,7 +9,7 @@ citation: In case the database is used in your own publication, cite one or more
 contact_name: Nicolas Staelens (nicolas.staelens@intec.ugent.be)
 database: High Definition H.264/AVC Subjective Video Database for Evaluating the Influence
   of Slice Losses on Quality Perception
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://avchd.intec.ugent.be/
 hrc: 57

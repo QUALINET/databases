@@ -6,7 +6,7 @@ categories: []
 citation: The use of this dataset in any kind of work (project, publication, etc.)
   must be attributed as [SE14].
 database: Web Browsing QoE Subjective Test Dataset V 1.0
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://userver.ftw.at/qoe/web-dataset/
 license: Web Browsing QoE Test Dataset V 1.0 is licensed under Creative Commons (http://creativecommons.org/licenses/by-nc-sa/3.0/at/deed.en).

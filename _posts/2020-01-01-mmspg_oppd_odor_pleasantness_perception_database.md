@@ -8,7 +8,7 @@ citation: You can use the OPPD dataset in your research without any conditions, 
   long as you clearly mention and acknowledge the following paper [KSE14].
 contact_name: Eleni Kroupi (eleni.kroupi@epfl.ch)
 database: 'MMSPG OPPD: Odor Pleasantness Perception Database'
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: https://www.epfl.ch/labs/mmspg/downloads/page-119131-en-html/
 license: "Permission is hereby granted, without written agreement and without license\

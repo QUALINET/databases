@@ -5,7 +5,7 @@ categories:
 - video
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC HD UHD Eyetracking Videos
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/
 other: Eyetracking

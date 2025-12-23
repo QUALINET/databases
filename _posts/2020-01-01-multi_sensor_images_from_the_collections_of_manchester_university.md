@@ -5,7 +5,7 @@ categories:
 - image
 contact_name: Vladimir Petrovic (v.petrovic@manchester.ac.uk)
 database: Multi-Sensor Images from the Collections of Manchester University
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.imagefusion.org/images/petrovic/petrovic.html
 license: These images are the property of Manchester University and other organizations

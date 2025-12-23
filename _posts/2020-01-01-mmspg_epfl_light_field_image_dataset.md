@@ -7,7 +7,7 @@ citation: If you use this dataset in your research, we kindly ask you to referen
 contact_name: If you have any questions regarding this research please contact Martin
   Rerabek (martin.rerabek@epfl.ch).
 database: MMSPG EPFL Light-Field Image Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/EPFL-light-field-image-dataset
 license: "Permission is hereby granted, without written agreement and without license\

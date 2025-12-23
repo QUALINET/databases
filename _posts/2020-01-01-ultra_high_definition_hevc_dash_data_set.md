@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   2014, March 19 - March 21, 2014, Singapore, Singapore).
 contact_name: Jean Le Feuvre (jean.lefeuvre@telecom-paristech.fr)
 database: Ultra high definition HEVC DASH data set
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/
 partner: false

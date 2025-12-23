@@ -10,7 +10,7 @@ citation: We are making the LIVE Mobile Video Quality Database available to the 
 contact_name: Dr. Anush Krishna Moorthy (anushmoorthy@gmail.com) Lark Kwon Choi (larkkwonchoi@utexas.edu)
   Dr. Alan C. Bovik (bovik@ece.utexas.edu) Dr. Gustavo de Veciana (gustavo@ece.utexas.edu)
 database: LIVE Mobile Video Quality Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/live_video.html
 hrc: 20

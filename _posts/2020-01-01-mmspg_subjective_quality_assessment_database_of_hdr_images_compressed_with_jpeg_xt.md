@@ -8,7 +8,7 @@ citation: If you use this dataset in your research, we kindly ask you to referen
 contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: MMSPG Subjective quality assessment database of HDR images compressed with
   JPEG XT
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/jpegxt-hdr
 hrc: 12

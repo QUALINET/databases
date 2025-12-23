@@ -6,7 +6,7 @@ citation: "This database was created at EPFL and experiments were conducted at E
   \ and LIRIS, Universit\xE9 de Lyon. It you use it, please cite [LDD06]."
 contact_name: "Guillaume Lavou\xE9 (glavoue@liris.cnrs.fr)"
 database: LIRIS/EPFL 3D Model General-Purpose database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://liris.cnrs.fr/guillaume.lavoue/data/datasets.html
 method: SSIS

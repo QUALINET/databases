@@ -10,7 +10,7 @@ citation: We have put a lot of effort into making these databases available to y
   and used it with our model, and to provide a link to the present web page.
 contact_name: Laurent Itti (itti@pollux.usc.edu)
 database: USC iLab Video Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ilab.usc.edu/vagba/dataset/
 other: Eyetracking

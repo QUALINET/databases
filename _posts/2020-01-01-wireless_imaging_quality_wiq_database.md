@@ -12,7 +12,7 @@ categories:
 citation: If you use the WIQ database for your research, we kindly ask you to refer
   to our paper [EKZ09], and also to this website [EZK10].
 database: Wireless Imaging Quality (WIQ) Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.bth.se/tek/rcg.nsf/pages/wiq-db
 license: Permission is hereby granted, without written agreement and without license

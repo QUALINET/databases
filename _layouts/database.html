@@ -138,10 +138,11 @@ layout: default
         {{ page.access | markdownify }}
 
         {% if page.external_link %}
-          {% if page.deprecated %}
+          {% if page.broken_link %}
             <div class="notice notice--warning">
-              <p><i class="fas fa-fw fa-exclamation-circle" aria-hidden="true"></i> <b>Broken link!</b></p>
+              <p><i class="fas fa-fw fa-unlink" aria-hidden="true"></i> <b>Broken link!</b></p>
               <p>The original link was: <a href="{{ page.external_link }}">{{ page.external_link }}</a></p>
+              <p>If you know of an updated URL, please <a href="https://github.com/QUALINET/databases/edit/master/{{ page.path }}">suggest an edit</a> or <a href="https://github.com/QUALINET/databases/issues/new?title=Broken%20link%20fix%20for%20{{ page.title | url_encode }}&body=New%20URL%3A%20">open an issue</a>.</p>
             </div>
           {% else %}
             <p class="page__link">

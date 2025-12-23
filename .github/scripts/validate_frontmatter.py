@@ -25,7 +25,7 @@ REQUIRED_FIELDS = [
 VALID_CATEGORIES = {"image", "video", "audiovisual", "audio"}
 
 # Fields that should be boolean
-BOOLEAN_FIELDS = ["partner", "publicly_available", "subjective_scores", "deprecated"]
+BOOLEAN_FIELDS = ["partner", "publicly_available", "subjective_scores", "broken_link"]
 
 # Fields that should be strings (not lists/dicts unless specified)
 STRING_FIELDS = ["title", "database", "author", "external_link", "access", "citation", "license", "contact_name", "contact_email", "resolution", "method", "doi", "excerpt"]
@@ -73,7 +73,7 @@ def validate_frontmatter(data: dict, filepath: Path) -> list[str]:
     errors = []
 
     # Check required fields
-    is_deprecated = data.get("deprecated", False)
+    has_broken_link = data.get("broken_link", False)
     is_public = data.get("publicly_available", True)
     for field in REQUIRED_FIELDS:
         if field not in data:
@@ -81,10 +81,10 @@ def validate_frontmatter(data: dict, filepath: Path) -> list[str]:
         elif data[field] is None or (isinstance(data[field], str) and not data[field].strip()):
             # Allow empty strings for some fields
             # - excerpt is always optional
-            # - external_link can be empty for deprecated or non-public databases
+            # - external_link can be empty for databases with broken links or non-public databases
             if field == "excerpt":
                 continue
-            if field == "external_link" and (is_deprecated or not is_public):
+            if field == "external_link" and (has_broken_link or not is_public):
                 continue
             errors.append(f"  - Required field '{field}' is empty")
 

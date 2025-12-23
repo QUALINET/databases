@@ -9,7 +9,7 @@ citation: In publications using the database, the DEIMOS project description pap
 contact_name: Information for the database may be obtained by contacting Martin Slanina
   (slaninam@feec.vutbr.cz)
 database: QoE in different 3D HDTV technologies
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://deimos-project.cz/
 partner: true

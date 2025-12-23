@@ -6,7 +6,7 @@ author: 3D4YOU
 categories:
 - video
 database: 3D4YOU - Content Generation and Delivery for 3D Television
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: ''
 license: 'The supplied data is provided free of charge and made available for use

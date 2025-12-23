@@ -10,7 +10,7 @@ contact_name: "Michael Riegler (michael@simula.no) Duc-Tien Dang-Nguyen (dangngu
   \ B\xE5rd Winther (baardew@simula.no) Carsten Griwodz (griff@simula.no) Konstantin\
   \ Pogorelov (konstantin@simula.no) P\xE5l Halvorsen (paalh@simula.no)"
 database: 'Heimdallr: A Dataset for Sport Analysis'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 method: Custom crowdsourcing

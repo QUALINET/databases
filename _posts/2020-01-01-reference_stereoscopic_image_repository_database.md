@@ -4,7 +4,7 @@ author: 3D Media Cluster
 categories:
 - video
 database: Reference stereoscopic image repository database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://20203dmedia.eu/repo.html
 license: Availability is public but non compressed sequences and without identifier

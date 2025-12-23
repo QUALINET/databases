@@ -7,7 +7,7 @@ citation: The license agreement for data usage implies the citation of the two p
   [MS12a], [MS12b]. Please notice that citing the dataset URL instead of the publications
   would not be compliant with this license agreement.
 database: Actions in the Eye
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://vision.imar.ro/eyetracking/description.php
 license: 'Grant of license free of charge for academic use only. Details about the

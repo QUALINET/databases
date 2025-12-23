@@ -8,7 +8,7 @@ citation: Data on this site is made available only for scientific purposes. Redi
   of the data is not permitted. Any publications derived from the data should cite
   the data contributor and CRCNS.org as being the source of the data.
 database: USC Eye-tracking data for complex video stimuli
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://crcns.org/data-sets/eye/eye-1
 other: Eyetracking

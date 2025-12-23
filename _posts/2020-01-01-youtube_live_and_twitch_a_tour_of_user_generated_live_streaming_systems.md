@@ -7,7 +7,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   '15, Portland, Oregon, March 18-20, 2015).
 contact_name: Karine Pires (karine.pires@telecom-bretagne.eu)
 database: 'YouTube Live and Twitch: A Tour of User-Generated Live Streaming Systems'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://dash.ipv6.enstb.fr/dataset/live-sessions/
 partner: false

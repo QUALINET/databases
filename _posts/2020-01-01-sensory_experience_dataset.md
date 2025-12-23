@@ -7,7 +7,7 @@ categories:
 contact_name: Information for the database may be obtained by contacting Christian
   Timmerer (christian.timmerer@itec.uni-klu.ac.at)
 database: Sensory Experience Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://selab.itec.aau.at/software-and-services/dataset/
 license: Non-disclosure agreement (NDA) is available at (http://selab.itec.aau.at/nda/).

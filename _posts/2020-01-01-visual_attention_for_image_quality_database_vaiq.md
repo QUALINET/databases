@@ -13,7 +13,7 @@ categories:
 citation: If you use the VAIQ database for your research, we kindly ask you to refer
   to our paper [EMZ09] and to this website [EMZ09b].
 database: Visual Attention for Image Quality Database (VAIQ)
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.sea-mist.se/tek/rcg.nsf/pages/vaiq-db
 license: Permission is hereby granted, without written agreement and without license

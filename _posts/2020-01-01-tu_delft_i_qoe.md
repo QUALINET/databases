@@ -9,7 +9,7 @@ citation: We kindly request you to cite the following paper [YHR15] in any publi
   work if you use this dataset.
 contact_name: Yi Zhu (Y.Zhu-1@tudelft.nl)
 database: TU Delft i_QOE
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ii.tudelft.nl/iqlab/iQOE.html
 hrc: 2

@@ -12,7 +12,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [PBP12].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Influence Content Video VGA database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article771
 hrc: 20

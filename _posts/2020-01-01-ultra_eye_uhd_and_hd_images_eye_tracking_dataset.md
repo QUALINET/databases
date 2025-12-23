@@ -11,7 +11,7 @@ citation: If you use the Ultra-Eye dataset in your research, we kindly ask you t
 contact_name: In case of any problems or questions, please send an email to Hiromi
   Nemoto (hiromi.nemoto@epfl.ch).
 database: 'Ultra-Eye: UHD and HD images eye tracking dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/ultra-eye
 license: "Permission is hereby granted, without written agreement and without license\

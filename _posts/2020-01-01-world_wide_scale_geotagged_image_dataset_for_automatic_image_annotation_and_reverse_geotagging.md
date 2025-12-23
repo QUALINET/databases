@@ -10,7 +10,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
 contact_name: Hatem Mousselly-Sergieh (hatem.mousselly-sergieh@insa-lyon.fr)
 database: World-Wide Scale Geotagged Image Dataset for Automatic Image Annotation
   and Reverse Geotagging
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Geotags

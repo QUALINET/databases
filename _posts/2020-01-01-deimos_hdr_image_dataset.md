@@ -12,7 +12,7 @@ citation: In publications using the database, the DEIMOS project description pap
 contact_name: Information for the database may be obtained by contacting Karel Fliegel
   (fliegek@fel.cvut.cz)
 database: DEIMOS HDR Image Dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://deimos-project.cz/tag/hdr
 partner: true

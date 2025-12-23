@@ -8,7 +8,7 @@ categories:
 citation: Please, cite the following paper in your reference if you use this database
   for your work [EBL10].
 database: IRCCyN/IVC Eyetracker SD 2009_12 Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article550
 hrc: 4

@@ -6,7 +6,7 @@ author: DIEM Project
 categories:
 - video
 database: Dynamic Images and Eye Movements (DIEM)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://thediemproject.wordpress.com/
 other: Eyetracking

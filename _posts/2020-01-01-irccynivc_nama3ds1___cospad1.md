@@ -10,7 +10,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [UGB12].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC NAMA3DS1 - COSPAD1
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: https://zenodo.org/records/14916311
 hrc: 10

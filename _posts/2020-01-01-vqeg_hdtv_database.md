@@ -4,7 +4,7 @@ author: VQEG
 categories:
 - video
 database: VQEG HDTV Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://www.cdvl.org
 hrc: 15

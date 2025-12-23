@@ -6,7 +6,7 @@ categories:
 citation: Please, cite the following paper in your reference if you use this database
   for your work [LJB2013].
 database: SYNAT Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://qoe.agh.edu.pl/synat-database/
 hrc: 

@@ -10,7 +10,7 @@ citation: If you download the data, it is assumed that you agree to the copyrigh
 contact_name: 'If you encounter any problem in downloading the data or you have questions
   or comments, please write to: Jong Seok Lee (jong-seok.lee@epfl.ch)'
 database: MMSPG EPFL Balelec dataset for PetaMedia community
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/page-58393-en.html
 license: "Permission is hereby granted, without written agreement and without license\

@@ -10,7 +10,7 @@ citation: Please, cite the following in your reference if you use this database 
   your work [ASP10].
 contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC Selective Encryption database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/SelectiveEncryption/
 hrc: 25

@@ -9,7 +9,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
 contact_name: Bogdan Ionescu (bionescu@imag.pub.ro)
 database: 'Div150Cred: A Social Image Retrieval Result Diversification with User Tagging
   Credibility Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://imag.pub.ro/~bionescu/index_files/Page13170.htm
 other: Metadata

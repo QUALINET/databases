@@ -6,7 +6,7 @@ categories:
 - video
 citation: If you use the database, please cite this reference [RMC12].
 database: ASCMN database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.tcts.fpms.ac.be/attention/
 other: Eyetracking

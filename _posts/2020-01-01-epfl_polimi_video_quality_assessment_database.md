@@ -6,7 +6,7 @@ categories:
 citation: If you use our data for your own publications please do not forget to reference
   this website and our papers [DNT09], [DNT10].
 database: EPFL-PoliMI Video Quality Assessment Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://vqa.como.polimi.it/
 hrc: 9

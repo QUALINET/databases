@@ -4,7 +4,7 @@ author: Stanford University
 categories:
 - image
 database: The (New) Stanford Light Field Archive
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://lightfield.stanford.edu/lfs.html
 partner: false

@@ -12,7 +12,7 @@ citation: "In publications using the test set, the test set shall be cited as: T
   \ Test Set. [Online]. Available: http://www.ldv.ei.tum.de/videolab"
 contact_name: Christian Keimel (christian.keimel@tum.de)
 database: TUM-LDV Multi Format Test Set
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.ldv.ei.tum.de/
 license: "The TUM Multi Format Test Set is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike\

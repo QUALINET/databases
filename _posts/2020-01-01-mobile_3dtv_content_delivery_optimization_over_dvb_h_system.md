@@ -12,7 +12,7 @@ author: Various
 categories:
 - video
 database: Mobile 3DTV content delivery optimization over DVB-H system
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/
 partner: false

@@ -4,7 +4,7 @@ author: LU Hannover
 categories:
 - video
 database: Video Sequences Available from the University of Hannover
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.tnt.uni-hannover.de/
 partner: false

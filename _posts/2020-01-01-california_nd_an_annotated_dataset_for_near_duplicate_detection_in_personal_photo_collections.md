@@ -10,7 +10,7 @@ contact_name: Dr. Stefan Winkler, Vision & InterAction Group (Vintage), Advanced
   Sciences Center (ADSC), University of Illinois at Urbana-Champaign (UIUC), (http://stefan.winkler.net/)
 database: 'California-ND: An Annotated Dataset for Near-Duplicate Detection in Personal
   Photo Collections'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://vintage.winklerbros.net/californiaND.html
 hrc: 1

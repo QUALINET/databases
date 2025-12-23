@@ -6,7 +6,7 @@ categories:
 contact_name: "Grupo de Tratamiento de Im\xE1genes - Universidad Polit\xE9cnica de\
   \ Madrid (www.gti.ssr.upm.es)"
 database: 'JPEG Pleno Database: GTI-UPM Point-cloud data set'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://jpeg.org/plenodb/pc/upm/
 license: "Permission is hereby granted, without written agreement and without license\

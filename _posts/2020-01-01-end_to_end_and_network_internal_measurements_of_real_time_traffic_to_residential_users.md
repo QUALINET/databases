@@ -12,7 +12,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   California, USA, Copyright 2011 ACM 978-1-4503-0517-4/11/02).
 database: End-to-End and Network-Internal Measurements of Real-Time Traffic to Residential
   Users
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/isp/author.html
 partner: false

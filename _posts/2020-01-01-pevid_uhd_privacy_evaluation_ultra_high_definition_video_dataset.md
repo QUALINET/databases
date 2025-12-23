@@ -10,7 +10,7 @@ citation: You can use PEViD-UHD dataset in your research without any conditions,
 contact_name: In case of any problems or questions, please send an email to Pavel
   Korshunov (pavel.korshunov@epfl.ch).
 database: 'PEViD-UHD: Privacy Evaluation Ultra High Definition Video Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/pevid-uhd
 license: "Permission is hereby granted, without written agreement and without license\

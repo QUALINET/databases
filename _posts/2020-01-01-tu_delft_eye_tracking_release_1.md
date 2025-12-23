@@ -8,7 +8,7 @@ citation: The eye-tracking data are publicly available to the research community
   Please cite the following references if you use this database in your research [LH09],
   [LH09b].
 database: TU Delft Eye-Tracking Release 1
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/eye_tracking_1.html
 other: Eyetracking

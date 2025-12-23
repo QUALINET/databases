@@ -5,7 +5,7 @@ categories:
 - image
 contact_name: Jian Li (lijian@cim.mcgill.ca)
 database: ImgSal McGill Database for Saliency Detection
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.cim.mcgill.ca/~lijian/database.htm
 other: Eyetracking

@@ -20,7 +20,7 @@ categories:
 citation: Please cite the papers [FS10a], [FS10b] if you use the gallery.
 contact_name: Briant Funt (http://www.cs.sfu.ca/~funt, funt@cs.sfu.ca)
 database: Funt et al. HDR Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.cs.sfu.ca/~colour/data/funt_hdr/
 partner: false

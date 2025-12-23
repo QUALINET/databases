@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your reference if you use this Dat
   for your work [EGS12].
 contact_name: Sebastian Egger
 database: Web QoE Testing Content
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://ace.ftw.at/downloads/web-qoe-testing-content
 license: Web QoE Reference Testing Content V 1.0 is licensed under a Creative Commons

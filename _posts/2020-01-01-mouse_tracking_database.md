@@ -6,7 +6,7 @@ categories:
 - image
 citation: If you use the database, please cite this reference [Man09].
 database: Mouse tracking database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.tcts.fpms.ac.be/attention/
 other: Eyetracking

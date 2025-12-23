@@ -10,7 +10,7 @@ contact_name: "Pradip Paudyal (pradip.paudyal@uniroma3.it) Roger Olsson (roger.o
   \ M\xE5rten Sj\xF6str\xF6m (marten.sjostrom@miun.se) Federica Battisti (federica.battisti@uniroma3.it)\
   \ Marco Carli (marco.carli@uniroma3.it)"
 database: 'SMART: a Light Field image quality dataset'
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.comlab.uniroma3.it/SMART.html
 partner: true

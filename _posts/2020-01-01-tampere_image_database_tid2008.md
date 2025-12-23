@@ -7,7 +7,7 @@ citation: In case of publishing results obtained by means of TID2008 please refe
   to one of the following papers [PLZ08], [PBE09].
 contact_name: Nikolay Ponomarenko (nikolay@ponomarenko.info)
 database: Tampere Image Database (TID2008)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.ponomarenko.info/tid2008.htm
 hrc: 68

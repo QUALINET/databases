@@ -7,7 +7,7 @@ citation: If you are using this dataset we will be grateful if you could let us 
   by dropping us an e-mail. Also please cite the following publication in any papers
   that mention the database [SS04].
 database: Uncompressed Colour Image Database (UCID)
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www-staff.lboro.ac.uk/~cogs/datasets/UCID/ucid.html
 partner: false

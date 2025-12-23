@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [NPL12].
 contact_name: romuald.pepion@univ-nantes.fr
 database: IRCCyN/IVC ETHyma
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1192
 hrc: 8

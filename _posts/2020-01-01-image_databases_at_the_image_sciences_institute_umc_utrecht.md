@@ -4,7 +4,7 @@ author: UMC Utrecht
 categories:
 - image
 database: Image Databases at the Image Sciences Institute (UMC Utrecht)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.isi.uu.nl/Research/Databases/
 partner: false

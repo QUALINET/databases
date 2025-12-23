@@ -12,7 +12,7 @@ citation: The eye-tracking data are publicly available to the research community
   Please cite the following references if you use this database in your research.
   [ALH12], [ALR12].
 database: TU Delft Video Task Effect Eye-Tracking
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/video_task_eye_tracking_1
 other: Eyetracking

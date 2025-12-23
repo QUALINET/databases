@@ -3,7 +3,7 @@ author: LIVE - University of Texas
 categories:
 - video
 database: LIVE Wireless Video Quality Assessment Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: ''
 access: This database is no longer available.

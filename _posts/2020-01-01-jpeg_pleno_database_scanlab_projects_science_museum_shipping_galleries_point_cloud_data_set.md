@@ -10,7 +10,7 @@ citation: 'ScanLAB projects kindly requests you to send them a link for whatever
 contact_name: ScanLAB (studio@scanlabprojects.co.uk)
 database: 'JPEG Pleno Database: ScanLAB Projects: Science Museum Shipping Galleries
   point cloud data set'
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://scanlabprojects.co.uk/projects/sciencemuseum
 license: The data is distributed under the CClicence - Creative Commons Attribution-Noncommercial-ShareAlike

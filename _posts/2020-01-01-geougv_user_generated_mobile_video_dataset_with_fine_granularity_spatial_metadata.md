@@ -11,7 +11,7 @@ contact_name: Ying Lu (ylu720@usc.edu) Hien To(hto@usc.edu) Abdullah Alfarrarjeh
   Zimmermann (rogerz@comp.nus.edu.sg) Cyrus Shahabi (shahabi@usc.edu)
 database: 'GeoUGV: User-Generated Mobile Video Dataset with Fine Granularity Spatial
   Metadata'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://geovid.org/dataset/
 other: Geotags

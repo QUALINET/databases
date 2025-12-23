@@ -9,7 +9,7 @@ citation: The database, along with MATLAB functions for its use, may be download
   providing that our paper/this website are cited in any published work [LRB09].
 contact_name: Ian van der Linde (ianvdl@bcs.org)
 database: 'LIVE DOVES: A database of visual eye movements'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/doves/
 license: 'Link: http://live.ece.utexas.edu/research/doves/#Copyright Permission is

@@ -9,7 +9,7 @@ citation: Please refer to the paper entitled [XDC02] for additional information.
 contact_name: Brian A. Wandell (https://www.stanford.edu/group/vista/cgi-bin/wandell/,
   Wandell@stanford.edu)
 database: High Dynamic Range Imaging Dataset of Natural Scenes
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://white.stanford.edu/~brian/hdr/hdr.html
 partner: false

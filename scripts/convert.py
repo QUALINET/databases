@@ -30,7 +30,7 @@ import multiprocessing
 ROOT_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
 
-def url_is_deprecated(url):
+def url_has_broken_link(url):
     tqdm.write(f"Testing URL {url}")
     try:
         response = urllib.request.urlopen(url).getcode()
@@ -85,9 +85,9 @@ def create_post(args):
     ratings = int(data.Ratings) if data.Ratings != "" else None
 
     if data.Link != "" and not data.Link.startswith("ftp"):
-        deprecated = url_is_deprecated(data.Link)
+        broken_link = url_has_broken_link(data.Link)
     else:
-        deprecated = False
+        broken_link = False
 
     yaml_data = {
         "title": data.Database,
@@ -96,7 +96,7 @@ def create_post(args):
         "author": data.Institution,
         "partner": data["Qualinet Partner"] == "YES",
         "external_link": data.Link,
-        "deprecated": deprecated,
+        "broken_link": broken_link,
         "access": access,
         "publicly_available": data["Publicly available"] == "YES",
         "citation": data.Citation.replace("\n", " "),

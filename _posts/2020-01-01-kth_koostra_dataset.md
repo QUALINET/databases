@@ -10,7 +10,7 @@ citation: The eye-tracking data is freely available for non-commercial scientifi
   paper [KBS11].
 contact_name: Gert Kootstra (kootstra@kth.se)
 database: KTH Koostra Dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.csc.kth.se/~kootstra/index.php?item=215&menu=200
 other: Eyetracking

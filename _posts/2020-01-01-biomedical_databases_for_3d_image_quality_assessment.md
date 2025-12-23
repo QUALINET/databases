@@ -5,7 +5,7 @@ categories:
 contact_name: Information for the database may be obtained by contacting Gabriel Cristobal
   (gabriel@optica.csic.es).
 database: Biomedical databases for 3D image quality assessment
-deprecated: false
+broken_link: false
 excerpt: ''
 access: Contact Gabriel Cristobal (gabriel@optica.csic.es) for access information.
 external_link: http://ftp.optica.csic.es/page58/page58.html

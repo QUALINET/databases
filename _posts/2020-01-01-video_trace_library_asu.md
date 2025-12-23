@@ -4,7 +4,7 @@ author: Arizona State University
 categories:
 - video
 database: Video Trace Library (ASU)
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://trace.eas.asu.edu/index.html
 partner: false

@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   '15, Portland, Oregon, March 18-20, 2015).
 contact_name: Vincent Angladon (vincent.angladon@irit.fr)
 database: The Toulouse Vanishing Points Dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://ubee.enseeiht.fr/tvpd/
 other: Vanishing points

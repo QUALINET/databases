@@ -12,7 +12,7 @@ citation: In publications using the database, the following paper should be cite
 contact_name: Jenny Benois-Pineau (jenny.benois@labri.fr) - research related information
   Karel Fliegel (fliegek@fel.cvut.cz) - download information
 database: LaBRI H.264 with Network Impariment
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.labri.fr/
 hrc: 8

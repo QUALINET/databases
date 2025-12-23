@@ -6,7 +6,7 @@ categories:
 - video
 contact_name: Anthony Vetro (avetro@merl.com)
 database: Mitsubishi Electric Research Laboratories (MERL) MVC Test Sequences
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: ftp://ftp.merl.com/pub/avetro/
 partner: false

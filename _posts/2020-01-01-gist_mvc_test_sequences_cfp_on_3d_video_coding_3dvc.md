@@ -5,7 +5,7 @@ author: Gwangju Institute
 categories:
 - video
 database: GIST MVC Test Sequences (CfP on 3D Video Coding (3DVC))
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/
 license: 'Individuals and organizations extracting sequences from this archive agree

@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your publications if you use this 
   in your work [ELW13].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Eyetracker Image LIVE
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article841
 hrc: 1

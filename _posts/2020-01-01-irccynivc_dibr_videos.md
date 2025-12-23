@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your publications if you use this 
   in your work [BLM12].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC DIBR Videos
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1156
 hrc: 34

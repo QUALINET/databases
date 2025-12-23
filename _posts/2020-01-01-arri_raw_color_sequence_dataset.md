@@ -6,7 +6,7 @@ categories:
 contact_name: 'For further information or request please contact: Dr. Stefano Andriani
   Sr. Image Science Engineer @ ARRI email: sandriani@arri.de'
 database: ARRI Raw Color Sequence Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: ftp://ftp.arri.de/
 license: This work is licensed under the Creative Commons Attribution 3.0 Unported

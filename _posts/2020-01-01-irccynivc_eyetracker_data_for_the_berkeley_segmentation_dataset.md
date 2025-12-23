@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [WCC10]. Please, cite also the paper from Berkeley for the database
   [MFM01].
 database: IRCCyN/IVC Eyetracker data for the Berkeley segmentation dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article554
 other: Eyetracking

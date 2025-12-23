@@ -4,7 +4,7 @@ author: 'UA de Barcelona '
 categories:
 - image
 database: The Barcelona Calibrated Images Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.cvc.uab.es/color_calibration/Database.html
 partner: false

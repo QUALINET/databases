@@ -9,7 +9,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
 contact_name: Christian Kreuzberger (christian.kreuzberger@itec.aau.at)
 database: A Scalable Video Coding Dataset and Toolchain for Dynamic Adaptive Streaming
   over HTTP
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://concert.itec.aau.at/SVCDataset/
 other: Toolchain

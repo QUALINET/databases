@@ -5,7 +5,7 @@ categories:
 - image
 contact_name: Damon M. Chandler (damon.chandler@okstate.edu), S. S. Hemami (hemami@ece.cornell.edu)
 database: A57 Image Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://foulard.ece.cornell.edu/dmc27/vsnr/vsnr.html
 hrc: 6

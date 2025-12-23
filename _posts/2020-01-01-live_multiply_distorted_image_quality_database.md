@@ -13,7 +13,7 @@ contact_name: Dinesh Jayaraman (dinesh.jayaraman123@gmail.com) - Graduate studen
   Austin Dr. Anush K. Moorthy (anushmoorthy@gmail.com) - Graduated from UT Austin
   in 2012 Dr. Alan C. Bovik (bovik@ece.utexas.edu) - Professor, Dept. of ECE, UT Austin
 database: LIVE Multiply Distorted Image Quality Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://live.ece.utexas.edu/research/quality/live_multidistortedimage.html
 license: 'Link: http://live.ece.utexas.edu/research/quality/copyright.htm Permission

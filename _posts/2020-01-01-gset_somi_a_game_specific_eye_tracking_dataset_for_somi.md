@@ -10,7 +10,7 @@ citation: If you use the Ultra-Eye dataset in your research, we kindly ask you t
 contact_name: In case of any problems or questions, please send an email to Shervin
   Shirmohammadi (shervin@ieee.org).
 database: 'GSET Somi: A Game-Specific Eye Tracking Dataset for Somi'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.site.uottawa.ca/~shervin/gaze/
 license: 'The testbed here is free to use as long as: 1- It is used for non-commercial

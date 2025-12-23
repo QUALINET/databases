@@ -12,7 +12,7 @@ citation: "Use of the datasets in published work should be acknowledged by a ful
 contact_name: Kashif Ahmad (kashif.ahmad@unitn.it) Nicola Conci (nicola.conci@unitn.it)
   Giulia Boato (giulia.boato@unitn.it) Francesco G. B. De Natale (francesco.denatale@unitn.it)
 database: 'USED: A Large Scale Social Event Detection Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://loki.disi.unitn.it/~used/
 other: Annotated

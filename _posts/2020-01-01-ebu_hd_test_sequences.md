@@ -4,7 +4,7 @@ author: EBU
 categories:
 - audiovisual
 database: EBU HD Test Sequences
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.ebu.ch/fr/technical/hdtv/test_sequences.php
 partner: false

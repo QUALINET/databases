@@ -7,7 +7,7 @@ citation: This data set is available to the research community with free of char
 contact_name: Prof. Yuukou Horita (horita@eng.u-toyama.ac.jp), Keiji Shibata (shibata@eng.u-toyama.ac.jp),
   Yoshikazu Kawayoke (kawayoke@nyoke.com)
 database: MICT Image Quality Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://mict.eng.u-toyama.ac.jp/mictdb.html
 hrc: 12

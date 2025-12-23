@@ -4,7 +4,7 @@ author: Xiph.org
 categories:
 - video
 database: Xiph.org Test Media
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://media.xiph.org/video/derf/
 partner: false

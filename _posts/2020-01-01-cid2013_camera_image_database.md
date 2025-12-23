@@ -9,7 +9,7 @@ citation: If you use these images in your research, we kindly ask that you follo
   the copyright notice and cite the following paper [VNV15].
 contact_name: Toni Virtanen (toni.virtanen@helsinki.fi)
 database: CID2013 Camera Image Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: https://zenodo.org/records/2647033
 hrc: 79

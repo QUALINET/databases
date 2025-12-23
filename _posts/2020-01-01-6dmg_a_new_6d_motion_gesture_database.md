@@ -10,7 +10,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
 contact_name: 'Any questions, requests, and feedbacks should be sent to: Mingyu Chen
   (mingyu@gatech.edu)'
 database: '6DMG: A New 6D Motion Gesture Database'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2012/6dmg/
 other: Motion gesture

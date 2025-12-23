@@ -6,7 +6,7 @@ categories:
 citation: If you are using this dataset, please cite [MSK13].
 contact_name: Keng-Teck Ma (ktma@comp.nus.edu.sg)
 database: Visual stimulus, Intent, Person (VIP) Dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://mmas.comp.nus.edu.sg/VIP.html
 license: 'VIP dataset is available for research purposes only. By downloading or using

@@ -10,7 +10,7 @@ categories:
 citation: Please, cite the following paper in your reference if you use this database
   for your work [LMN13].
 database: IVP Anaglyph Image Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.ee.cuhk.edu.hk/~snli/anaglyph_database.htm
 method: Custom

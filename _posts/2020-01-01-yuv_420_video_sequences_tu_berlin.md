@@ -5,7 +5,7 @@ author: TU Berlin
 categories:
 - video
 database: YUV 4:2:0 Video Sequences (TU Berlin)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.tkn.tu-berlin.de/research/evalvid/
 partner: true

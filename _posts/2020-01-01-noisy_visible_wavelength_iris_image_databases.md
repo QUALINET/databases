@@ -16,7 +16,7 @@ contact_name: "SOCIA Lab.: Soft Computing and Image Analysis Group  Department o
   \ Computer Science, University of Beira Interior, 6201-001 Covilha, Portugal Hugo\
   \ Proen\xE7a (hugomcp@di.ubi.pt)"
 database: Noisy Visible Wavelength Iris Image Databases
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://iris.di.ubi.pt/
 license: 'A copy of all reports and papers that use the UBIRIS.v2 database and are

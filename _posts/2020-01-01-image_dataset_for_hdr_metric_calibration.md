@@ -7,7 +7,7 @@ citation: If you find the HDR-VDP metric useful, please cite the paper below and
   the version number, for example HDR-VDP-2.1.3 [MKR11].
 contact_name: "Rafa\u0142 Mantiuk (mantiuk@gmail.com)"
 database: Image dataset for HDR metric calibration
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://sourceforge.net/apps/mediawiki/hdrvdp/index.php
 partner: false

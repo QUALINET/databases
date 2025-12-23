@@ -7,7 +7,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [YW13].
 contact_name: Hojatollah Yeganeh (hyeganeh@uwaterloo.ca)  Zhou Wang (z.wang@eceweb.uwaterloo.ca)
 database: Subject-rated image database for tone-mapped images
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://ece.uwaterloo.ca/~z70wang/research/tmqi/
 partner: false

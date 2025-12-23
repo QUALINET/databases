@@ -7,7 +7,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [KNF14].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Pair Comparison between TMO images
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/PairCompTMO/
 hrc: 10

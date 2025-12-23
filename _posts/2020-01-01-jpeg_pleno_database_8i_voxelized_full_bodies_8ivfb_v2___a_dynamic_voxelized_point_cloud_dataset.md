@@ -13,7 +13,7 @@ contact_name: 8i Labs (hi@8i.com) Eugene d'Eon, Bob Harrison, Taos Myers and Phi
   A. Chou
 database: 'JPEG Pleno Database: 8i Voxelized Full Bodies (8iVFB v2) - A Dynamic Voxelized
   Point Cloud Dataset'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://jpeg.org/plenodb/pc/8ilabs/
 license: 8i Labs, Inc. hereby makes available dynamic voxelized point cloud data sequences

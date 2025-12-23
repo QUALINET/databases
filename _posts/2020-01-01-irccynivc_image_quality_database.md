@@ -6,7 +6,7 @@ author: IRCCyN/IVC
 categories:
 - image
 database: IRCCyN/IVC Image Quality Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www2.irccyn.ec-nantes.fr/ivcdb/
 hrc: 25

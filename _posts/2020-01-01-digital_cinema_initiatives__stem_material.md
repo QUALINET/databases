@@ -4,7 +4,7 @@ author: DCI - Digital Cinema Initiatives
 categories:
 - audiovisual
 database: "Digital Cinema Initiatives \u2013 StEM Material"
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.dcimovies.com/StEM/
 partner: false

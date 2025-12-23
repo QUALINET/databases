@@ -5,7 +5,7 @@ categories: []
 citation: If you use this Database, please cite this reference [BAS15].
 contact_name: Peter Schelkens (pschelke@etro.vub.ac.be)
 database: INTERFERE I
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.erc-interfere.eu/downloads.html#INTERFERE-I
 partner: true

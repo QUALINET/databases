@@ -10,7 +10,7 @@ citation: The eye-tracking data is freely available for non-commercial scientifi
   purposes. If you publish work based on this data, please refer to the paper where
   the data is first described [KNB08].
 database: RUG Eye-Tracking Data
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.ai.rug.nl/~gert/index.php?item=215&menu=200
 other: Eyetracking

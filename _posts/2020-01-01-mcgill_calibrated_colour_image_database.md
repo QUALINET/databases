@@ -6,7 +6,7 @@ categories:
 citation: The images are free for research, but not commercial, purposes. If you use
   our images, please cite us! [OK04]
 database: McGill Calibrated Colour Image Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://tabby.vision.mcgill.ca/html/welcome.html
 partner: false

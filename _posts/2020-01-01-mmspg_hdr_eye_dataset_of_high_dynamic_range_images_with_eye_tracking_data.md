@@ -7,7 +7,7 @@ citation: If you use the HDR-Eye dataset in your research, we kindly ask you to 
   our paper [NKH15] and the URL (http://mmspg.epfl.ch/hdr-eye)
 contact_name: Philippe Hanhart (philippe.hanhart@epfl.ch)
 database: 'MMSPG HDR-Eye: dataset of high dynamic range images with eye tracking data'
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspg.epfl.ch/hdr-eye
 hrc: 2

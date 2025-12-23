@@ -7,7 +7,7 @@ categories:
 citation: 'Please, cite the following paper, if you use this database: [MKD13]'
 contact_name: "Toni Maki (toni.maki@vtt.fi) Mart\xEDn Varela (martin.varela@vtt.fi)"
 database: VTT Audiovisual Dataset
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: https://gitlab.willab.fi/qualinet/audiovisualdataset
 method: DCR

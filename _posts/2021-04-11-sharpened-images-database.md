@@ -6,7 +6,7 @@ categories:
 citation: Please, cite the following paper in your reference if you use this database
   for your work [KLF17].
 database: Sharpened Image Database (SID)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://drive.google.com/file/d/1btjT0QFPfNKTcZyxM8Neqz01eTt_6cX3/view?usp=sharing
 hrc: 36

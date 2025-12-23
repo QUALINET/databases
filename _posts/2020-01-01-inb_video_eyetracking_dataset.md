@@ -14,7 +14,7 @@ citation: Please cite the paper [DMG10] if you use our data set in your own publ
   dorr@inb.uni-luebeck.de.
 contact_name: Michael Dorr (dorr@inb.uni-luebeck.de)
 database: INB Video Eyetracking Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.inb.uni-luebeck.de/tools-demos/gaze
 other: Eyetracking

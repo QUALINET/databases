@@ -19,7 +19,7 @@ contact_name: "Moran Cerf (moran@klab.caltech.edu) Paxon Frady (efrady@ucsd.edu)
   \ MacKay (mhsm3@cam.ac.uk) Jonathan Harel (harel@klab.caltech.edu) Wolfgang Einh\xE4\
   user (wet@physik.uni-marburg.de)"
 database: Fixations In Faces (FiFa) DataBase
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.fifadb.com/
 other: Eyetracking

@@ -7,7 +7,7 @@ categories:
 - image
 contact_name: Judd Tilke (tjudd@mit.edu)
 database: MIT CSAIL Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://people.csail.mit.edu/tjudd/WherePeopleLook/index.html
 other: Eyetracking

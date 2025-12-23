@@ -7,7 +7,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [LWR11].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Eye-tracking saliency maps and importance maps for blurred images
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/Intentionally_Blurred_Background_Images/
 hrc: 6

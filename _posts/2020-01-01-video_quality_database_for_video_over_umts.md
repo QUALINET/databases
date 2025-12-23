@@ -5,7 +5,7 @@ categories:
 contact_name: Information for the database may be obtained by contacting Lingfen Sun
   (L.Sun@plymouth.ac.uk).
 database: Video Quality Database for Video over UMTS
-deprecated: true
+broken_link: true
 excerpt: ''
 access: Contact Lingfen Sun (L.Sun@plymouth.ac.uk) for access information.
 external_link: http://www.tech.plym.ac.uk/spmc/people/lfsun/

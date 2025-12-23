@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   '15, Portland, Oregon, March 18-20, 2015).
 contact_name: "Andr\xE9 Filgueiras de Araujo (afaraujo@stanford.edu)"
 database: 'Stanford I2V: A News Video Dataset for Query-by-Image Experiments'
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://blackhole1.stanford.edu/vidsearch/dataset/stanfordi2v.html
 other: Annotation for visual search

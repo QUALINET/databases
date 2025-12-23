@@ -8,7 +8,7 @@ citation: Use of the datasets in published work should be acknowledged by a full
   to the paper [PSM13] at the MMSys conference (Proceedings of ACM MMSys 13, February
   27 - March 1, 2013, Oslo, Norway).
 database: 2012 Social Event Detection Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 hrc: 149

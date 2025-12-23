@@ -9,7 +9,7 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [PEL11].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC SVC4QoE Temporal Switch Video Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article770
 hrc: 37

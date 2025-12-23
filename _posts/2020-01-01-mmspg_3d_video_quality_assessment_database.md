@@ -13,7 +13,7 @@ citation: If you use this database in your research we kindly ask you to referen
   this website and the paper below [GDE10].
 contact_name: Lutz Goldmann (lutz.goldmann@epfl.ch)
 database: MMSPG 3D Video Quality Assessment Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://mmspl.epfl.ch/page38842.html
 hrc: 5

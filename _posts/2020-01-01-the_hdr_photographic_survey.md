@@ -9,7 +9,7 @@ contact_name: Prof. Mark Fairchild, College of Science Professor & Director, Pro
   of Color Science/Munsell Color Science Laboratory Rochester Institute of Technology,
   (http://www.cis.rit.edu/fairchild/index.html).
 database: The HDR Photographic Survey
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.cis.rit.edu/fairchild/HDR.html
 license: All images have been placed in the public domain for non-commercial research

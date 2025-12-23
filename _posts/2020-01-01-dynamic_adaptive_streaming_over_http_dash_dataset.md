@@ -8,7 +8,7 @@ citation: If you use our data for your own publications please do not forget to 
   the website (http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/) and
   our paper [LTP14].
 database: Dynamic Adaptive Streaming over HTTP (DASH) Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www-itec.aau.at/dash/
 hrc: 56

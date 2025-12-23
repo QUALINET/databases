@@ -6,7 +6,7 @@ categories:
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BCP09].
 database: IRCCyN/IVC SD RoI Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article551
 hrc: 14

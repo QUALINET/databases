@@ -5,7 +5,7 @@ categories:
 - image
 contact_name: 'Damon M. Chandler (damon.chandler@okstate.edu), S. S. Hemami (hemami@ece.cornell.edu) '
 database: ADIAC Diatom Image Database
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://rbg-web2.rbge.org.uk/ADIAC/db/adiacdb.htm
 partner: false

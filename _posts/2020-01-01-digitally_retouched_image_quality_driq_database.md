@@ -5,7 +5,7 @@ author: Oklahoma State University
 categories:
 - image
 database: Digitally Retouched Image Quality (DRIQ) Database
-deprecated: true
+broken_link: true
 excerpt: ''
 external_link: http://vision.okstate.edu/index.php?loc=driq
 method: PC

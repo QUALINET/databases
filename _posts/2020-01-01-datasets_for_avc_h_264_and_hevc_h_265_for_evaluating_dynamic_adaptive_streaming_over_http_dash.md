@@ -10,7 +10,7 @@ contact_name: Jason J. Quinlan (j.quinlan@cs.ucc.ie) Ahmed H. Zahran (a.zahran@c
   Cormac J. Sreenan (cjs@cs.ucc.ie)
 database: Datasets for AVC (H.264) and HEVC (H.265) for Evaluating Dynamic Adaptive
   Streaming over HTTP (DASH)
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: https://www.ucc.ie/en/misl//research/current/ivid_dataset/
 hrc: 5

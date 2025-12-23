@@ -5,7 +5,7 @@ categories:
 - image
 contact_name: Dimitris Samaras (samaras@cs.sunysb.edu)
 database: SBU Gaze-Detection-Description Dataset
-deprecated: false
+broken_link: false
 excerpt: ''
 external_link: http://www.cs.stonybrook.edu/~kyun/research/gaze/index.html
 other: Eyetracking
