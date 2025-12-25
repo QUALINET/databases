@@ -33,4 +33,3 @@ Using Principal Component Analysis (PCA) across data from six previous studies, 
 
 The GitHub repository provides tools for evaluating both the SSQ and head rotation data, enabling researchers to apply the simplified questionnaire methodology to their own 360° video studies. The dataset is also available on Zenodo (DOI: 10.5281/zenodo.4472672) with open access under Creative Commons Attribution 4.0 International License.
 
-This research has been influential with 15 citations and over 1,099 downloads, contributing to standardized and efficient assessment of simulator sickness in immersive 360° video experiences. The simplified questionnaire reduces participant burden while maintaining measurement validity, making it particularly valuable for large-scale quality of experience studies involving omnidirectional video content viewed through HMDs.
