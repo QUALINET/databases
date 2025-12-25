@@ -32,4 +32,4 @@ This comprehensive dataset comprises both AVC (H.264) and HEVC (H.265) video con
 
 The 168.0 GB dataset supports both real-time testbed evaluation and trace-based simulation using ns-2 and ns-3 frameworks. It includes original MP4 files and DASH generation scripts, providing researchers with complete resources for reproducing and extending the work. The dataset contains multiple encoding profiles to enable comprehensive evaluation of Dynamic Adaptive Streaming over HTTP (DASH) performance across various network conditions and device capabilities.
 
-This work was conducted as part of the iVID project (Science Foundation Ireland Grant 13/IA/1892) at the Mobile and Internet Systems Laboratory (MISL) at University College Cork. The dataset was presented at ACM MMSys 2018 in Amsterdam and has been widely used in adaptive streaming research.
+This work was conducted as part of the iVID project (Science Foundation Ireland Grant 13/IA/1892) at the Mobile and Internet Systems Laboratory (MISL) at University College Cork. The dataset was presented at ACM MMSys 2018 in Amsterdam.

@@ -27,4 +27,4 @@ This crowdsourced hybrid dataset combines Quality of Service (QoS) and Quality o
 
 The 527.3 kB CSV dataset includes both subjective quality metrics (QoE) reflecting user-perceived quality and objective network measurements (QoS) capturing technical performance indicators. The data was collected from users distributed across Cameroon, offering geographic diversity and real-world usage patterns across multiple mobile network operators.
 
-This research was conducted at the Faculty of Engineering and Technology, Department of Electrical and Electronic Engineering at the University of Buea, Cameroon. The work contributes to understanding QoE management in mobile networks, particularly in developing regions, and supports research on multi-Radio Access Technology (multi-RAT) networks including 4G LTE deployment in Africa. The findings inform value-added services design and network optimization strategies for emerging markets.
+This research was conducted at the Faculty of Engineering and Technology, Department of Electrical and Electronic Engineering at the University of Buea, Cameroon.

@@ -30,5 +30,3 @@ This open video quality database presents a comprehensive empirical investigatio
 The dataset contains 195 encoded videos derived from 5 source videos, all with 60 fps frame rate. The videos span four resolutions (720p to 2160p) and bitrates ranging from 0.5 to 40 Mbps, encoded using modern video codecs including H.265/HEVC, AV1, and VVC (Versatile Video Coding). Subjective testing was conducted using the ACR-HR (Absolute Category Rating - Hidden Reference) methodology.
 
 The repository includes source videos, test videos rescaled to native display resolution, generated bitstreams, and both subjective test scores from AVRateNG and objective quality predictions from P.1204.3, hyn0 hybrid model, and VMAF. The research evaluates different full reference, bitstream, and hybrid instrumental models for their HDR quality prediction capability.
-
-This dataset is part of the broader AVT-VQDB series from the Audiovisual Technology Group at TU Ilmenau, contributing to the advancement of HDR video quality assessment methods and codec evaluation. The work has been cited in subsequent research on video quality assessment and HDR content evaluation.

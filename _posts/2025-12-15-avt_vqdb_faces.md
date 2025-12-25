@@ -25,8 +25,4 @@ This 4K HDR face video quality database features face-focused video content deve
 
 The dataset contains 175 total source videos with 34 subjects per lighting scenario. The structure includes 4 distinct lighting scenarios plus one looped scenario combining all lighting conditions, enabling research on how lighting affects perceived quality of face videos in high dynamic range format.
 
-This database addresses the growing importance of face-focused content quality assessment in videoconferencing and telepresence applications. The AVT group at TU Ilmenau has conducted extensive research on quality of experience in telemeetings and videoconferencing, investigating factors such as video resolution, perceived conversational quality, and nonverbal behaviors including body motion, facial expressions, gaze directivity, and interpersonal synchronization during dyadic videoconferencing conversations.
-
-The research is related to studies on viewing distance effects in 4K and 8K HDR video quality perception. The group's findings show that quality advantages of higher resolutions at optimal viewing distances diminish significantly with increased distance, and subjects typically prefer viewing distances around 2.20H (where H represents screen height), which has implications for videoconferencing setup recommendations.
-
-This work was supported by the Deutsche Forschungsgemeinschaft (DFG), the ILMETA project, and the PoQuMo8K project. The dataset enables research on face video quality assessment, videoconferencing quality optimization, and the impact of lighting conditions and viewing distance on perceived quality of face-focused content.
+This work was supported by the Deutsche Forschungsgemeinschaft (DFG), the ILMETA project, and the PoQuMo8K project.

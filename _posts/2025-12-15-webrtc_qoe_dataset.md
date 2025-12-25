@@ -30,4 +30,4 @@ This comprehensive dataset examines user satisfaction in WebRTC video calls unde
 
 The 613.0 MB dataset combines objective metrics with subjective quality ratings using the Absolute Category Rating scale (1-5, Bad to Excellent), resulting in 300 ACR scores. The dataset includes four main components: subjective results (CSV, 4 KB), WebRTC internals session statistics (28.7 MB, 300 JSON files), facial expression features extracted using OpenFace (547 MB with gaze vectors, eye landmarks, and 35 action units), and speech features from the OpenSMILE toolkit (18.9 MB with 6,373 features per subject per condition).
 
-This multimodal dataset provides a comprehensive perspective on conversational quality in WebRTC-based audiovisual telemeeting services, enabling research on the relationships between network conditions, facial expressions, speech characteristics, and perceived quality of experience. The research was conducted at the University of Cagliari and published in Computer Networks (2024).
+The research was conducted at the University of Cagliari and published in Computer Networks (2024).

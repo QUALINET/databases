@@ -27,4 +27,4 @@ This dataset accompanies the best paper award-winning research presented at IEEE
 
 The dataset includes results from a large-scale measurement campaign conducted on two 5G networks in Sweden during 2023 (8.0 MB of measurement data), along with the accepted paper version and comprehensive documentation. The methodology leverages a lightweight, recently standardized ITU-T procedure that defines a QoE indicator called the Interactivity Score, based on QoS metrics quantifying service latency, stability, and continuity.
 
-This research is part of the INTERACT-B5G project and reflects multi-year collaboration between Karlstad University, Sapienza University of Rome, University of Oslo, and Rohde & Schwarz. The work advances understanding of the impact of system configurations and environmental conditions on QoS/QoE performance in 5G and Beyond-5G networks.
+This research is part of the INTERACT-B5G project and reflects multi-year collaboration between Karlstad University, Sapienza University of Rome, University of Oslo, and Rohde & Schwarz.

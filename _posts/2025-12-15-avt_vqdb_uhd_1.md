@@ -30,4 +30,4 @@ The dataset contains four subjective test datasets (test_1 through test_4) with 
 
 The database includes encoded video segments, source videos, subjective ratings presented as Mean Opinion Scores (MOS) with confidence intervals, objective quality scores, and additional metrics including BRISQUE, NIQE, and VMAF reports. This comprehensive collection enables research on codec performance comparison and quality model validation.
 
-This collaborative work between TU Ilmenau's Audiovisual Technology Group and Deutsche Telekom AG has been highly influential, cited in 38 subsequent publications and downloaded over 900 times. The database has been utilized in multiple QoMEX conference publications, particularly for ITU-T P.1204.3 video quality model evaluation and related video quality assessment research. Five peer-reviewed papers have specifically utilized this dataset between 2019 and 2022.
+The database has been utilized in multiple QoMEX conference publications, particularly for ITU-T P.1204.3 video quality model evaluation and related video quality assessment research.

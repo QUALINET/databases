@@ -26,4 +26,4 @@ This longitudinal dataset supports comprehensive research on web performance mea
 
 The research presents Webget, a measurement tool for evaluating web QoS metrics, and demonstrates through the longitudinal data that DNS lookup times for popular CDNs and Google's download times improved over the measurement period. The 778.3 MB dataset provides researchers with extensive temporal data to analyze trends in web performance and rendering behavior.
 
-This collaborative work between Aalto University, SamKnows Limited, and Technische Universität München was funded by the European Commission projects LEONE (317647) and METRICS (607728). The dataset and methodology enable reproducible research on web quality of experience measurements in various network conditions.
+This collaborative work between Aalto University, SamKnows Limited, and Technische Universität München was funded by the European Commission projects LEONE (317647) and METRICS (607728).

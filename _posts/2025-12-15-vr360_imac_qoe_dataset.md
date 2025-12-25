@@ -28,4 +28,4 @@ This dataset comprises traces from more than 800 video watching sessions collect
 
 The videos featured accessibility services including subtitles and sign language interpretation using the ImAc player platform. The dataset contains performance metrics data from omnidirectional video consumption sessions, stored in a compressed 7z archive (10.4 MB compressed, 362.4 MB uncompressed). The methodology and technical infrastructure used for data collection is documented in the MMEDIA 2019 conference paper by the creators.
 
-The ImAc project is an EU-funded initiative focused on developing and evaluating access services such as subtitles and sign language for immersive content (360-degree video and virtual reality), ensuring accessibility in immersive media environments.
+The ImAc project is an EU-funded initiative focused on developing and evaluating access services such as subtitles and sign language for immersive content (360-degree video and virtual reality).

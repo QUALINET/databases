@@ -36,4 +36,4 @@ Multiple quality metrics were evaluated including VMAF, PSNR, SSIM, ADM2, WS-PSN
 
 The research developed two lightweight quality prediction models: a bitstream metadata-based approach using only encoding parameters, and a hybrid no-reference model utilizing bitrate, resolution, and pixel data. Both models achieved performance levels similar to full-reference approaches while requiring substantially less computational resources, making them suitable for integration into adaptive streaming systems.
 
-This work, conducted in collaboration with Huawei Technologies, has been influential with 16 citations and 112 dataset downloads. The dataset is hosted on Zenodo (DOI: 10.5281/zenodo.4090961) under Creative Commons Attribution 4.0 International License, supporting reproducible research on 360-degree video quality assessment, adaptive streaming optimization, and the development of efficient quality metrics for immersive video content.
+The dataset is hosted on Zenodo (DOI: 10.5281/zenodo.4090961) under Creative Commons Attribution 4.0 International License.

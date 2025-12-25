@@ -30,4 +30,4 @@ Two distinct audiovisual scenarios are provided: 360° omnidirectional video and
 
 The companion repository AVT-ECoClass-VR-dataset (DOI: 10.5281/zenodo.14019040) provides subjective experiment data from three studies with 94 total participants (36, 24, and 34 respectively), including head/controller tracking with timestamps, speaker-story mappings, and questionnaire responses covering simulator sickness (SSQ), presence (IPQ), workload (NASA RTLX), listening effort, and noise sensitivity assessments. The subjective results were published in Frontiers in Psychology, Volume 16, 2025 (DOI: 10.3389/fpsyg.2025.1520630).
 
-This collaborative work between TU Ilmenau, RWTH Aachen University, and RPTU Kaiserslautern provides valuable resources for research on immersive audiovisual quality, cognitive performance assessment in virtual environments, classroom acoustics, multi-talker scenarios, and the effects of different rendering approaches on user experience and task performance.
+This was a collaborative work between TU Ilmenau, RWTH Aachen University, and RPTU Kaiserslautern.

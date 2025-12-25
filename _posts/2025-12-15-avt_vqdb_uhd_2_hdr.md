@@ -25,4 +25,4 @@ As more screens with ultra-high resolution and High Dynamic Range capabilities b
 
 The videos were created from scratch to accurately represent real-life footage while taking into account video coding and video quality testing challenges. The paper describes the methodological approach of planning, creating, and post-processing the video sources, evaluating their suitability for video coding research and quality testing applications. The repository includes SHA-512 and MD5 checksums for verification and hosts objective metrics for the source content.
 
-This work was funded by the Deutsche Forschungsgemeinschaft (DFG, No. 438822823) and the ZIM project (No. KK5112706ER1). The dataset contributes to the advancement of 8K video quality assessment methods and provides researchers with high-quality source material for codec evaluation and quality model development.
+This work was funded by the Deutsche Forschungsgemeinschaft (DFG, No. 438822823) and the ZIM project (No. KK5112706ER1).

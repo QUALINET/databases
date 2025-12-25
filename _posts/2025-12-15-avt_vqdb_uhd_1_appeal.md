@@ -31,4 +31,4 @@ The subjective methodology employed a unique three-part experimental protocol. F
 
 The database includes both subjective scores collected via the AVRateNG tool and objective quality predictions from multiple models including VMAF, SI/TI values, hybrid model (hyn0) scores, and no-reference (nofu) scores. The research examines how different encoding conditions impact perceived video quality and investigates whether source content appeal influences quality perception and vice versa.
 
-This dataset is part of the broader AVT-VQDB-UHD-1 series from TU Ilmenau's Audiovisual Technology Group, extending the original database with explicit appeal assessment alongside traditional quality evaluation. The work contributes to understanding the complex relationship between technical video quality and aesthetic appeal, informing content-adaptive encoding strategies and quality assessment methodologies that account for both factors.
+This dataset is part of the broader AVT-VQDB-UHD-1 series from TU Ilmenau's Audiovisual Technology Group, extending the original database with explicit appeal assessment alongside traditional quality evaluation.
