@@ -2,12 +2,9 @@
 access: 'The files are available for download via HTTP. Link: http://skuld.cs.umass.edu/traces/mmsys/2015/paper-15/'
 author: Coventry University
 categories: []
-citation: Use of the datasets in published work should be acknowledged by a full citation
-  to the authors' papers [OGB15] at the MMSys conference (Proceedings of ACM MMSys
-  '15, Portland, Oregon, March 18-20, 2015).
+citation: Use of the datasets in published work should be acknowledged by a full citation to the authors' papers [OGB15] at the MMSys conference (Proceedings of ACM MMSys '15, Portland, Oregon, March 18-20, 2015).
 contact_name: Olukunle Ojetola (olukunle.ojetola@coventry.ac.uk)
 database: Data Set of Fall Events and Daily Activities from Inertial Sensors
-broken_link: true
 excerpt: ''
 external_link: http://skuld.cs.umass.edu/traces/mmsys/2015/paper-15/
 partner: false

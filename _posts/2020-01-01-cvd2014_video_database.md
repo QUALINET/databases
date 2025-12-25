@@ -11,7 +11,6 @@ citation: If you use this database in your research, we kindly ask that you foll
   the copyright notice and cite the following paper [NVV16].
 contact_name: Mikko Nuutinen (mikko.nuutien@helsinki.fi)
 database: CVD2014 Video Database
-broken_link: true
 excerpt: ''
 external_link: https://zenodo.org/records/2646315
 hrc: 78

@@ -1,7 +1,7 @@
 ---
 access: 'All materials are available upon request Karel Fliegel (fliegek@fel.cvut.cz)
   through DEIMOS database. Selection from 79 HDR images can be downloaded in a set
-  of 16 LDR exposures of JPEG files: Link: http://deimos-project.cz/tag/hdr Raw image
+  of 16 LDR exposures of JPEG files. Raw image
   files in NEF format (Nikon D90) and OpenEXR HDR image files can be obtained upon
   request.'
 author: Czech technical University in Prague
@@ -14,7 +14,7 @@ contact_name: Information for the database may be obtained by contacting Karel F
 database: DEIMOS HDR Image Dataset
 broken_link: true
 excerpt: ''
-external_link: http://deimos-project.cz/tag/hdr
+external_link:
 partner: true
 publicly_available: true
 references:
