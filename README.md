@@ -26,9 +26,14 @@ This will install, among others, security updates. After updating,  Then, commit
 
 ## Authors and Contact
 
+Current maintainer:
+
+- Werner Robitza
+
+Contributors and past maintainers from QUALINET:
+
 - Karel Fliegel
 - Lukáš Krasula
-- Werner Robitza
 
 ## License
 
