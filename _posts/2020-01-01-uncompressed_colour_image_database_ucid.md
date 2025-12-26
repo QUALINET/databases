@@ -1,5 +1,5 @@
 ---
-access: 'TAR-GZIP archive (~650MB), no password Link: http://vision.cs.aston.ac.uk/datasets/UCID/data/ucid.v2.tar.gz'
+access: 'The dataset is available from TIB Leibniz: Link: https://service.tib.eu/ldmservice/dataset/ucid'
 author: Loughborough University
 categories:
 - image
@@ -7,9 +7,9 @@ citation: If you are using this dataset we will be grateful if you could let us 
   by dropping us an e-mail. Also please cite the following publication in any papers
   that mention the database [SS04].
 database: Uncompressed Colour Image Database (UCID)
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www-staff.lboro.ac.uk/~cogs/datasets/UCID/ucid.html
+external_link: https://service.tib.eu/ldmservice/dataset/ucid
 partner: false
 publicly_available: true
 references:

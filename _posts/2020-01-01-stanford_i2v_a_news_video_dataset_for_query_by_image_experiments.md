@@ -1,5 +1,5 @@
 ---
-access: 'The files are available for download via HTTP. Link: https://purl.stanford.edu/zx935qw7203'
+access: 'The files are available for download from Stanford Digital Repository: Link: https://purl.stanford.edu/zx935qw7203'
 author: Stanford University
 categories:
 - video
@@ -8,9 +8,9 @@ citation: Use of the datasets in published work should be acknowledged by a full
   '15, Portland, Oregon, March 18-20, 2015).
 contact_name: "Andr\xE9 Filgueiras de Araujo (afaraujo@stanford.edu)"
 database: 'Stanford I2V: A News Video Dataset for Query-by-Image Experiments'
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://blackhole1.stanford.edu/vidsearch/dataset/stanfordi2v.html
+external_link: https://purl.stanford.edu/zx935qw7203
 other: Annotation for visual search
 partner: false
 publicly_available: true

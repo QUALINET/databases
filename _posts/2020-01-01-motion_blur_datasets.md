@@ -1,12 +1,12 @@
 ---
-access: 'The list of images is available at the link: Link: http://www.umiacs.umd.edu/~aagrawal/MotionBlur/index.html'
+access: 'The list of images is available at the link: Link: http://www.amitkagrawal.com/MotionBlur/'
 author: University of Maryland
 categories:
 - video
 database: Motion Blur Datasets
 broken_link: true
 excerpt: ''
-external_link: http://www.umiacs.umd.edu/~aagrawal/MotionBlur/index.html
+external_link: http://www.amitkagrawal.com/MotionBlur/
 license: 'Copyright 2006-2010 Mitsubishi Electric Research Laboratories All Rights
   Reserved. Permission to use, copy and modify softwares linked from this page and
   its documentation without fee for educational, research and non-profit purposes,

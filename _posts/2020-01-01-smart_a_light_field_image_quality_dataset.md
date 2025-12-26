@@ -1,6 +1,5 @@
 ---
-access: 'The files are available for download via HTTP. Link: http://www.comlab.uniroma3.it/SMART.html
-  Direct Link (7.2GB): http://www.comlab.uniroma3.it/SMART/SMART.zip'
+access: 'The files are available for download via HTTP. Link: https://muse.uniroma3.it/smart/'
 author: Roma TRE University
 categories: []
 citation: "Use of the datasets in published work should be acknowledged by a full\
@@ -10,9 +9,9 @@ contact_name: "Pradip Paudyal (pradip.paudyal@uniroma3.it) Roger Olsson (roger.o
   \ M\xE5rten Sj\xF6str\xF6m (marten.sjostrom@miun.se) Federica Battisti (federica.battisti@uniroma3.it)\
   \ Marco Carli (marco.carli@uniroma3.it)"
 database: 'SMART: a Light Field image quality dataset'
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.comlab.uniroma3.it/SMART.html
+external_link: https://muse.uniroma3.it/smart/
 partner: true
 publicly_available: true
 references:
