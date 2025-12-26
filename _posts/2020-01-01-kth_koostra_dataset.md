@@ -14,7 +14,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.csc.kth.se/~kootstra/index.php?item=215&menu=200
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 31
 references:

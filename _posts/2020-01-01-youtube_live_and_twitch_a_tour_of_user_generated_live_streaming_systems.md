@@ -10,7 +10,6 @@ database: 'YouTube Live and Twitch: A Tour of User-Generated Live Streaming Syst
 broken_link: false
 excerpt: ''
 external_link: http://dash.ipv6.enstb.fr/dataset/live-sessions/
-partner: false
 publicly_available: true
 references:
   PS15: 'K. Pires, G. Simon. YouTube Live and Twitch: A Tour of User-Generated Live

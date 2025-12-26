@@ -12,7 +12,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.iet-multimedialabs.org/3d_quality/
 method: SS
-partner: true
 publicly_available: true
 ratings: 30
 references:

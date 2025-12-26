@@ -22,7 +22,6 @@ license: Web QoE Reference Testing Content V 1.0 is licensed under a Creative Co
   IS LICENSED FOR USAGE WITHIN STUDIES AND TRIALS CONDUCTED WITH CLOSED USER GROUPS.
   IT IS NOT LICENSED FOR USAGE AS PART OF A PUBLICLY ACCESSIBLE ONLINE SERVICE OR
   WEB SITE.
-partner: true
 publicly_available: true
 references:
   EGS12: 'S. Egger, B. Gardlo, and R. Schatz. Interactive Content for Subjective Studies

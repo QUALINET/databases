@@ -10,7 +10,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.tcts.fpms.ac.be/attention/
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 40
 references:

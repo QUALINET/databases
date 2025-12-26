@@ -10,7 +10,6 @@ database: Subject-rated image database for tone-mapped images
 broken_link: false
 excerpt: ''
 external_link: https://ece.uwaterloo.ca/~z70wang/research/tmqi/
-partner: false
 publicly_available: true
 ratings: 20
 references:

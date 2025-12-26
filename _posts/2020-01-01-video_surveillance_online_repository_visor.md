@@ -14,7 +14,6 @@ broken_link: false
 excerpt: ''
 external_link: http://imagelab.ing.unimore.it/visor/
 other: Surveillance video with annotation
-partner: false
 publicly_available: true
 references:
   VC13: 'Roberto Vezzani, Rita Cucchiara, Video Surveillance Online Repository (ViSOR):

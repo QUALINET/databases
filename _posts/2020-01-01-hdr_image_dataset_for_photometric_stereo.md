@@ -15,7 +15,6 @@ database: HDR Image Dataset for Photometric Stereo
 broken_link: true
 excerpt: ''
 external_link: http://vision.ucsd.edu/~nalldrin/research/cvpr08/datasets/
-partner: false
 publicly_available: true
 references:
   AZK08: N. Alldrin, T. Zickler, and D. Kriegman, Photometric Stereo With Non-Parametric

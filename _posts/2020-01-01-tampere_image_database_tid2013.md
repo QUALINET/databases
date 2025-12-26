@@ -12,7 +12,6 @@ excerpt: ''
 external_link: http://www.ponomarenko.info/tid2013.htm
 hrc: 120
 method: Custom
-partner: false
 publicly_available: true
 ratings: 971
 references:

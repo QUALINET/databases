@@ -22,7 +22,6 @@ license: 'Link: http://live.ece.utexas.edu/research/doves/#Copyright Permission 
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database. The database is to be cited in the bibliography
   as [LRB09].'
-partner: false
 publicly_available: true
 ratings: 29
 references:

@@ -15,7 +15,6 @@ license: 'Link: http://mmas.comp.nus.edu.sg/NUSEF.html NUSEF is available for re
   IAPS images have their own copyright terms and images can be obtained from the NIMH
   CSEA by filling in their request form (http://csea.phhp.ufl.edu/media/iapsmessage.html).'
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 75
 references:

@@ -13,7 +13,6 @@ database: MPI HDR Image Gallery
 broken_link: false
 excerpt: ''
 external_link: http://www.mpi-inf.mpg.de/resources/hdr/gallery.html
-partner: false
 publicly_available: true
 src: 7
 subjective_scores: false

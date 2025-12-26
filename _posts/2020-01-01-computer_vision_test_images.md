@@ -8,7 +8,6 @@ database: Computer Vision Test Images
 broken_link: false
 excerpt: ''
 external_link: http://www-2.cs.cmu.edu/~cil/v-images.html
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

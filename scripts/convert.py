@@ -94,7 +94,6 @@ def create_post(args):
         "database": data.Database,
         "categories": categories,
         "author": data.Institution,
-        "partner": data["Qualinet Partner"] == "YES",
         "external_link": data.Link,
         "broken_link": broken_link,
         "access": access,

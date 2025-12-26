@@ -21,7 +21,6 @@ license: "Permission is hereby granted, without written agreement and without li
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
 other: EEG correlates
-partner: true
 publicly_available: true
 references:
   KSE14: E. Kroupi, D. Sopic and T. Ebrahimi. Non-Linear EEG Features for Odor Pleasantness

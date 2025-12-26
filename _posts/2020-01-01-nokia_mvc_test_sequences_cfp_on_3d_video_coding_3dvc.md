@@ -30,7 +30,6 @@ license: "Copyright: The supplied data and content (\u201CSupplied Data\u201D) i
   \ original material or to any reproduction of it in whole or in part and to any\
   \ modifications of the Supplied Data. The texture views of the Supplied Data are\
   \ copyright \xA9 UNDO. (See http://www.undo.fi)"
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

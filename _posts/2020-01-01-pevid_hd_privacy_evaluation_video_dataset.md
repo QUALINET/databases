@@ -25,7 +25,6 @@ license: "Permission is hereby granted, without written agreement and without li
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
 other: Privacy annotation
-partner: true
 publicly_available: true
 references:
   KE13: 'P. Korshunov and T. Ebrahimi, PEViD: privacy evaluation video dataset, In

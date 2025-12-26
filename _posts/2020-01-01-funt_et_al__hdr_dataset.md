@@ -23,7 +23,6 @@ database: Funt et al. HDR Dataset
 broken_link: false
 excerpt: ''
 external_link: http://www.cs.sfu.ca/~colour/data/funt_hdr/
-partner: false
 publicly_available: true
 references:
   FS10a: Funt, B. and Shi, L., The Rehabilitation of MaxRGB, Proc. IS&T Eighteenth

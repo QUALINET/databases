@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www-itec.uni-klu.ac.at/dash/?page_id=958
 hrc: 17
-partner: true
 publicly_available: true
 references:
   LMT13: "Lederer, S., Mueller, C., Timmerer, C., Concolato, C., Le Feuvre, J., and\

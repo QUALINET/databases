@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www-itec.aau.at/dash/
 hrc: 56
-partner: true
 publicly_available: true
 references:
   LMT12: "Lederer, S., M\xFCller, C., Timmerer, C. Dynamic Adaptive Streaming over\

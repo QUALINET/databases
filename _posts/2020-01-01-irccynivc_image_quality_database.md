@@ -11,7 +11,6 @@ excerpt: ''
 external_link: http://www2.irccyn.ec-nantes.fr/ivcdb/
 hrc: 25
 method: DSIS
-partner: true
 publicly_available: true
 ratings: 15
 references:

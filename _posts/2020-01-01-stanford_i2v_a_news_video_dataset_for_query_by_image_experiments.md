@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: https://purl.stanford.edu/zx935qw7203
 other: Annotation for visual search
-partner: false
 publicly_available: true
 references:
   ACC15: 'A. Araujo, J. Chaves, D. Chen, R. Angst and B. Girod. Stanford I2V: A News

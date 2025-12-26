@@ -20,7 +20,6 @@ excerpt: ''
 external_link: http://mmspg.epfl.ch/3diqa
 hrc: 6
 method: SS
-partner: true
 publicly_available: true
 ratings: 17
 references:

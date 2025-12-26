@@ -11,7 +11,6 @@ broken_link: false
 excerpt: ''
 external_link: http://pfstools.sourceforge.net/hdr_gallery.html
 license: The images are under a liberal Creative Commons license.
-partner: false
 publicly_available: true
 references:
   MKM07: "Rafa\u0142 Mantiuk, Grzegorz Krawczyk, Rados\u0142aw Mantiuk and Hans-Peter,\

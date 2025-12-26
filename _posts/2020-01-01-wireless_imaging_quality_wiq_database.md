@@ -25,7 +25,6 @@ license: Permission is hereby granted, without written agreement and without lic
   and the Blekinge Institute of Technology has no obligation to provide maintenance,
   support, updates, enhancements, or modifications.
 method: DSCQS
-partner: true
 publicly_available: true
 ratings: 30
 references:

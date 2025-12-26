@@ -34,7 +34,6 @@ license: "You can download the VCL@FER database here under the following terms: 
   \ responsible for or liable in respect of any such revisions, amendments, alterations\
   \ or deletions."
 method: SS
-partner: true
 publicly_available: true
 ratings: 118
 references:

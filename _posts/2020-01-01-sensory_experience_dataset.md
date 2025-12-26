@@ -12,7 +12,6 @@ excerpt: ''
 external_link: http://selab.itec.aau.at/software-and-services/dataset/
 license: Non-disclosure agreement (NDA) is available at (http://selab.itec.aau.at/nda/).
 other: Sensory
-partner: true
 publicly_available: true
 references:
   WTR12: 'Waltl, M.; Timmerer, C.; Rainer, B.; Hellwagner, H.; , "Sensory effect dataset

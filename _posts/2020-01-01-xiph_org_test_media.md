@@ -7,7 +7,6 @@ database: Xiph.org Test Media
 broken_link: false
 excerpt: ''
 external_link: http://media.xiph.org/video/derf/
-partner: false
 publicly_available: true
 resolution: SD, HD
 subjective_scores: false

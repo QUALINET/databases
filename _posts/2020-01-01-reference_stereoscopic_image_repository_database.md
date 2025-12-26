@@ -9,7 +9,6 @@ excerpt: ''
 external_link: http://20203dmedia.eu/repo.html
 license: Availability is public but non compressed sequences and without identifier
   are upon request (info@20203dmedia.eu).
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

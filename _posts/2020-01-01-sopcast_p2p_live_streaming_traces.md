@@ -11,7 +11,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: SopCast logs
-partner: false
 publicly_available: true
 references:
   VSH13: 'Alex Borges Vieira, Ana Paula Couto da Silva, Francisco Henrique, Glauber

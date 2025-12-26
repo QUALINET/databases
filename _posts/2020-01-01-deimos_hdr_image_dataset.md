@@ -15,7 +15,6 @@ database: DEIMOS HDR Image Dataset
 broken_link: true
 excerpt: ''
 external_link:
-partner: true
 publicly_available: true
 references:
   KFP11: "Kl\xEDma, M., Fliegel, K., P\xE1ta, P., V\xEDtek, S., Bla\u017Eek, M., Dost\xE1\

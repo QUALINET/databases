@@ -17,7 +17,6 @@ broken_link: false
 excerpt: ''
 external_link: http://medialab.sjtu.edu.cn/web4k/index.html
 hrc: 1
-partner: false
 publicly_available: true
 references:
   STZ13: L. Song, X. Tang, W. Zhang, X. Yang, P. Xia, The SJTU 4K Video Sequence Dataset,

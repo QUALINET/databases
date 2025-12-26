@@ -30,7 +30,6 @@ license: Permission is hereby granted, without written agreement and without lic
   is on an "as is" basis and the Ecole Polytechnique Federale de Lausanne has no obligation
   to provide maintanance, support, updates, enhancements, or modifications.
 method: DSCQS
-partner: true
 publicly_available: true
 references:
   DGB09: Francesca De Simone, Lutz Goldmann, Vittorio Baroncini and Touradj Ebrahimi,

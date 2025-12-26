@@ -9,7 +9,6 @@ database: McGill Calibrated Colour Image Database
 broken_link: false
 excerpt: ''
 external_link: http://tabby.vision.mcgill.ca/html/welcome.html
-partner: false
 publicly_available: true
 references:
   OK04: Olmos, A. and Kingdom, F. A. A. (2004) McGill Calibrated Colour Image Database,

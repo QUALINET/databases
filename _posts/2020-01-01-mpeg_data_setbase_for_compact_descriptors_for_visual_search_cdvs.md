@@ -11,7 +11,6 @@ database: MPEG data set/base for Compact Descriptors for Visual Search (CDVS)
 broken_link: true
 excerpt: ''
 external_link: https://www.vision.ee.ethz.ch/showroom/zubud/
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

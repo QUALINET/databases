@@ -15,7 +15,6 @@ excerpt: ''
 external_link: https://zenodo.org/records/14916311
 hrc: 10
 method: ACR-HR
-partner: true
 publicly_available: true
 ratings: 29
 references:

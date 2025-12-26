@@ -11,7 +11,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Data for network emulation
-partner: false
 publicly_available: true
 references:
   RVG13: "Haakon Riiser, Paul Vigmostad, Carsten Griwodz, P\xE5l Halvorsen, Commute\

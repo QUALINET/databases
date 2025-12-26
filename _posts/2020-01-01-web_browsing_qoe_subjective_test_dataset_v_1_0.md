@@ -11,7 +11,6 @@ excerpt: ''
 external_link: http://userver.ftw.at/qoe/web-dataset/
 license: Web Browsing QoE Test Dataset V 1.0 is licensed under Creative Commons (http://creativecommons.org/licenses/by-nc-sa/3.0/at/deed.en).
 method: ACR
-partner: true
 publicly_available: true
 ratings: 32
 references:

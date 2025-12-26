@@ -17,7 +17,6 @@ excerpt: ''
 external_link: http://vision.poly.edu/index.html/index.php?n=HomePage.ScalableVideoQualityWithFrameRateAndQuantizationArtifacts
 hrc: 50
 method: ACR
-partner: false
 publicly_available: true
 ratings: 20
 references:

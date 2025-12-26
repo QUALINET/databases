@@ -9,7 +9,6 @@ database: UFRJ Blurred Image Database
 broken_link: true
 excerpt: ''
 external_link: http://www02.smt.ufrj.br/~eduardo/eduardo_oficial/ImageDatabase.htm
-partner: false
 publicly_available: true
 ratings: 180
 references:

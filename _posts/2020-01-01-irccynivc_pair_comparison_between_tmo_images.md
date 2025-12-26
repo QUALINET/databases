@@ -12,7 +12,6 @@ excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/PairCompTMO/
 hrc: 10
 method: Pair comparison
-partner: true
 publicly_available: true
 ratings: 20
 references:

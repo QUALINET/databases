@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Sensor metadata
-partner: false
 publicly_available: true
 references:
   BPB15: W. Bailer, C. Pike, R. Bauwens, R. Grandl, M. Matton, M. Thaler. Multi-sensor

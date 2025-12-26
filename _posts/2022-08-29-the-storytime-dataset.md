@@ -11,7 +11,6 @@ broken_link: false
 excerpt: 'Clips for simulated videotelephony. Four stories with ten parts each, four different quality levels per clip. German language.'
 external_link: https://osf.io/cyb8w/
 method: Custom
-partner: true
 publicly_available: true
 ratings: 2-11 per clip
 references:

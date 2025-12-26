@@ -12,7 +12,6 @@ external_link: http://mmas.comp.nus.edu.sg/VIP.html
 license: 'VIP dataset is available for research purposes only. By downloading or using
   the dataset, you are deemed to agree to terms and conditions. Link: http://mmas.comp.nus.edu.sg/VIP_files/terms.html'
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 75
 references:

@@ -21,7 +21,6 @@ license: 'Copyright: Entertainment Computing Research Group, University of Vienn
   copies of this database, and the original source of this database, Entertainment
   Computing Research Group, University of Vienna  is acknowledged in any publication
   that reports research using this database.'
-partner: true
 publicly_available: true
 references:
   BWL12: 'S. Buchinger, J. Wippersberg, K. Lojka, K. Macher, W. Robitza, M. Nezveda,

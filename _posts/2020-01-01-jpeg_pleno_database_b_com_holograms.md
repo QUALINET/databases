@@ -13,7 +13,6 @@ license: This data may be used for research purposes only and may not be commerc
   distributed. If this data is used in an academic publication, please acknowledge
   the Advanced Media Coding Lab at IRT b-com and cite one of these papers [GGC16a],
   [GGC16b].
-partner: false
 publicly_available: true
 references:
   GGC16a: "A. Gilles, P. Gioia, R. Cozot, and L. Morin, \u201CHybrid approach for\

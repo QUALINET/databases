@@ -13,7 +13,6 @@ database: UWM High Dynamic Range Imaging Dataset
 broken_link: false
 excerpt: ''
 external_link: http://pages.cs.wisc.edu/~csverma/CS766_09/HDRI/hdr.html
-partner: false
 publicly_available: true
 src: 4
 subjective_scores: false

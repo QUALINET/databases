@@ -14,7 +14,6 @@ license: Microsoft hereby makes available dynamic voxelized point cloud data seq
   as potential test material for MPEG and/or JPEG standardization efforts, as well
   as non-commercial use subject to the accompanying license agreement (https://jpeg.org/plenodb/pc/microsoft/license.pdf)
   by the wider research community.
-partner: false
 publicly_available: true
 src: 10
 subjective_scores: false

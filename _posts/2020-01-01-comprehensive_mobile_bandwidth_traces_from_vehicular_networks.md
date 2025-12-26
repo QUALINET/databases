@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Bandwidth dataset
-partner: false
 publicly_available: true
 references:
   BHK16: Bokani, A., Hassan, M., Kanhere, S.S., Yao, J., Zhong, G. Comprehensive mobile

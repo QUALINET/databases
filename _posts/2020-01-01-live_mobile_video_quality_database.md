@@ -24,7 +24,6 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/live_mobile_video.ht
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database.'
 method: SSCQE
-partner: false
 publicly_available: true
 ratings: 50
 references:

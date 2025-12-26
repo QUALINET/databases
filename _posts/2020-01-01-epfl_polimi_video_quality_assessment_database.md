@@ -22,7 +22,6 @@ license: Permission is hereby granted, without written agreement and without lic
   di Milano have no obligation to provide maintanance, support, updates, enhancements,
   or modifications.
 method: ACR
-partner: true
 publicly_available: true
 ratings: 40
 references:

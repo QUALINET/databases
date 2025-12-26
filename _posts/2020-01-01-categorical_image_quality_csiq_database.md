@@ -10,7 +10,6 @@ excerpt: ''
 external_link: https://s2.smu.edu/~eclarson/csiq.html
 hrc: 29
 method: Custom
-partner: false
 publicly_available: true
 ratings: 35
 references:

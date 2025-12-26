@@ -8,7 +8,6 @@ broken_link: false
 excerpt: ''
 access: Contact Mårten Sjöström (marten.sjostrom@miun.se) for access information.
 external_link: http://www.miun.se/en/personnel/martensjostrom
-partner: true
 publicly_available: true
 subjective_scores: true
 tags:

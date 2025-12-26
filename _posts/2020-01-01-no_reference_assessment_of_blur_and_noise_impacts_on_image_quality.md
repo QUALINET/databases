@@ -7,7 +7,6 @@ database: No-reference assessment of blur and noise impacts on image quality
 broken_link: false
 excerpt: ''
 external_link: http://www.ee.bgu.ac.il/~itzik/nr_quality/
-partner: false
 publicly_available: true
 references:
   CY10: Cohen, E., Yitzhaky, Y., No-reference assessment of blur and noise impacts

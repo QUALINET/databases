@@ -11,7 +11,6 @@ excerpt: ''
 external_link: ''
 hrc: 18
 method: ACR
-partner: false
 publicly_available: false
 ratings: 22
 references:

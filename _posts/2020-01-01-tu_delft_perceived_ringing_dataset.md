@@ -12,7 +12,6 @@ database: TU Delft Perceived Ringing Dataset
 broken_link: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/ringing.html
-partner: true
 publicly_available: true
 ratings: 20
 references:

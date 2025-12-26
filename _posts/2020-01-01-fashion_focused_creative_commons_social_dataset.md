@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Annotation of fashion images
-partner: false
 publicly_available: true
 references:
   LMG13: Babak Loni, Maria Menendez, Mihai Georgescu, Luca Galli, Claudio Massari,

@@ -10,7 +10,6 @@ database: MDSP Super-Resolution And Demosaicing Datasets
 broken_link: false
 excerpt: ''
 external_link: http://users.soe.ucsc.edu/~milanfar/software/sr-datasets.html
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

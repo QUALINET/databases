@@ -25,7 +25,6 @@ license: "Permission is hereby granted, without written agreement and without li
   \ updates, enhancements, or modifications."
 method: Custom
 other: Privacy annotation
-partner: true
 publicly_available: true
 ratings: 20
 references:

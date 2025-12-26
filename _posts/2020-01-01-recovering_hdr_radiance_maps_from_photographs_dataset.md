@@ -12,7 +12,6 @@ database: Recovering HDR Radiance Maps from Photographs Dataset
 broken_link: false
 excerpt: ''
 external_link: http://www.pauldebevec.com/Research/HDR/
-partner: false
 publicly_available: true
 references:
   DM97: Paul E. Debevec and Jitendra Malik. Recovering High Dynamic Range Radiance

@@ -9,7 +9,6 @@ broken_link: true
 excerpt: ''
 external_link: http://vision.okstate.edu/index.php?loc=driq
 method: PC
-partner: false
 publicly_available: true
 ratings: 9
 references:

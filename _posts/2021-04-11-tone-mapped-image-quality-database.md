@@ -12,7 +12,6 @@ external_link: https://drive.google.com/file/d/0B7jKyX6oxhG3OUs4OHA5MFRMVWs/view
 hrc: 9
 license: Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute the data provided and its documentation for research purpose only. The data provided may not be commercially distributed. In no event shall the authors or their institutions be liable to any party for direct, indirect, special, incidental, or consequential damages arising out of the use of the data and its documentation. The authors specifically disclaim any warranties. The data provided hereunder is on an "as is" basis and the authors or their institutions have no obligation to provide maintanance, support, updates, enhancements, or modifications.
 method: PC
-partner: true
 publicly_available: true
 ratings: 20
 references:

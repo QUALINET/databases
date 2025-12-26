@@ -15,7 +15,6 @@ database: End-to-End and Network-Internal Measurements of Real-Time Traffic to R
 broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/isp/author.html
-partner: false
 publicly_available: true
 references:
   EPP11: Martin Ellis, Colin Perkins, and Dimitrios Pezaros, End-to-End and Network-Internal

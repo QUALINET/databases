@@ -15,7 +15,6 @@ excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/
 method: Custom
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 35
 references:

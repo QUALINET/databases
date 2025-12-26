@@ -8,7 +8,6 @@ database: IT-IST Lisbon H.264/MPEG-2 Video Quality Database
 broken_link: false
 excerpt: ''
 external_link: http://amalia.img.lx.it.pt/~tgsb/H264_test/
-partner: true
 publicly_available: true
 subjective_scores: true
 tags:

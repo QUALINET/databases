@@ -11,7 +11,6 @@ broken_link: true
 excerpt: ''
 external_link: https://gitlab.willab.fi/qualinet/audiovisualdataset
 method: DCR
-partner: true
 publicly_available: true
 ratings: 24
 references:

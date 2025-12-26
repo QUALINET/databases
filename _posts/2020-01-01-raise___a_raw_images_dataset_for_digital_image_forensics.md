@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: https://loki.disi.unitn.it/RAISE/
 other: RAW images
-partner: false
 publicly_available: true
 references:
   DPC15: D. Dang-Nguyen, C. Pasquini, V. Conotter, G. Boato. RAISE - A Raw Images

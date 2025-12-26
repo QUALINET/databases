@@ -15,7 +15,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/MeerwaldDB/
 hrc: 24
 method: DSIS
-partner: true
 publicly_available: true
 ratings: 14
 references:

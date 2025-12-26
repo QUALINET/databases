@@ -22,7 +22,6 @@ license: 8i Labs, Inc. hereby makes available dynamic voxelized point cloud data
   by the wider research community. The terms of use of the dataset are governed by
   the License Agreement, which is an integral part of the dataset and which must accompany
   any copy of the dataset.
-partner: false
 publicly_available: true
 references:
   DHM17: Eugene d'Eon, Bob Harrison, Taos Myers, and Philip A. Chou, "8i Voxelized

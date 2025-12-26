@@ -9,7 +9,6 @@ database: Databases or Datasets for Computer Vision Applications and Testing
 broken_link: false
 excerpt: ''
 external_link: http://datasets.visionbib.com/index.html
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

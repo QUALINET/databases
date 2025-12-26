@@ -12,7 +12,6 @@ database: 'SMART: a Light Field image quality dataset'
 broken_link: false
 excerpt: ''
 external_link: https://muse.uniroma3.it/smart/
-partner: true
 publicly_available: true
 references:
   POS16: "Paudyal, P., Olsson, R., Sj\xF6str\xF6m, M., Battisti, F., Carli, M. SMART:\

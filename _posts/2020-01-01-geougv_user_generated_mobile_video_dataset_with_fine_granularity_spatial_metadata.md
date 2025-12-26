@@ -15,7 +15,6 @@ broken_link: false
 excerpt: ''
 external_link: http://geovid.org/dataset/
 other: Geotags
-partner: false
 publicly_available: true
 ratings: 289
 references:

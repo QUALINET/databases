@@ -16,7 +16,6 @@ license: 'Individuals and organizations extracting sequences from this archive a
   warranties regarding their fitness for any purpose. Owners:  Gwangju Institute of
   Science and Technology (GIST), 1 Oryong-dong, Buk-gu, Gwangju, 500-712, Republic
   of Korea.'
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

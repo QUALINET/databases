@@ -9,7 +9,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.cim.mcgill.ca/~lijian/database.htm
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 21
 subjective_scores: false

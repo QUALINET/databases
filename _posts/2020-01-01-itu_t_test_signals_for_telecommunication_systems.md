@@ -13,7 +13,6 @@ excerpt: ''
 external_link: http://www.itu.int/net/itu-t/sigdb/menu.aspx
 license: 'The signals constitute part of the corresponding ITU-T Recommendations and
   are protected by copyrights laws. '
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

@@ -12,7 +12,6 @@ database: 'Blip10000: A social Video Dataset containing SPUG Content for Tagging
 broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-partner: false
 publicly_available: true
 references:
   SXF13: "S. Schmiedeke, P. Xu, I. Ferran\xE9, M. Eskevich, C. Kofler, M. Larson,\

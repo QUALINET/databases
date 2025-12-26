@@ -23,7 +23,6 @@ license: "The TUM Multi Format Test Set is licensed under a Creative Commons Att
   \ available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0\
   \ Germany License. Permissions beyond the scope of this license may be available\
   \ by contacting Benedikt Wiedenmann at b.wiedenmann@videatis.com."
-partner: true
 publicly_available: true
 resolution: SD, HD
 subjective_scores: false

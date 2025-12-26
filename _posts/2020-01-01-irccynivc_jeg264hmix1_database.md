@@ -13,7 +13,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1033
 method: ACR
-partner: true
 publicly_available: true
 references:
   BSJ12: "Marcus Barkowsky, Nicolas Staelens, Lucjan Janowski, Yao Koudota, Miko\u0142\

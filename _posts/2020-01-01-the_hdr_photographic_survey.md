@@ -15,7 +15,6 @@ external_link: http://www.cis.rit.edu/fairchild/HDR.html
 license: All images have been placed in the public domain for non-commercial research
   purposes.
 other: Colorimetric data
-partner: false
 publicly_available: true
 references:
   Fai07: Fairchild, M.D., The HDR photographic survey, Final Program and Proceedings

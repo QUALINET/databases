@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://cvcl.mit.edu/searchmodels/
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 14
 references:

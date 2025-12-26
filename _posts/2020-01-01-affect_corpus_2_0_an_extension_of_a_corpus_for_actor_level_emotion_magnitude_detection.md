@@ -15,7 +15,6 @@ broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/affect-corpus/
 other: Emotion magnitudes
-partner: false
 publicly_available: true
 references:
   CK11: 'R. Calix, G. Knapp, Affect Corpus 2.0: An Extension of a Corpus for Actor

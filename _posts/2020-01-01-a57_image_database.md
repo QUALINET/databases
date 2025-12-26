@@ -9,7 +9,6 @@ broken_link: true
 excerpt: ''
 external_link: http://foulard.ece.cornell.edu/dmc27/vsnr/vsnr.html
 hrc: 6
-partner: false
 publicly_available: true
 references:
   CH07: 'D. M. Chandler and S. S. Hemami, VSNR: A Wavelet-Based Visual Signal-to-Noise

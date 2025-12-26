@@ -12,7 +12,6 @@ database: QoE in different 3D HDTV technologies
 broken_link: true
 excerpt: ''
 external_link: http://deimos-project.cz/
-partner: true
 publicly_available: true
 ratings: 120
 references:

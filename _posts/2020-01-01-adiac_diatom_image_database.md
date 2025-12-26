@@ -8,7 +8,6 @@ database: ADIAC Diatom Image Database
 broken_link: false
 excerpt: ''
 external_link: http://rbg-web2.rbge.org.uk/ADIAC/db/adiacdb.htm
-partner: false
 publicly_available: true
 resolution: 1008x1008
 subjective_scores: false

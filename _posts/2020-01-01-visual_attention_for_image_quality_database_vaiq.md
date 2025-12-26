@@ -27,7 +27,6 @@ license: Permission is hereby granted, without written agreement and without lic
   Institute of Technology and the University of Western Sydney have no obligation
   to provide maintenance, support, updates, enhancements, or modifications.
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 15
 references:

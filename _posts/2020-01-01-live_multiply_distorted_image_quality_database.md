@@ -26,7 +26,6 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/copyright.htm Permis
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database.'
 method: SS
-partner: false
 publicly_available: true
 ratings: 37
 references:

@@ -25,7 +25,6 @@ license: Permission is hereby granted, without written agreement and without lic
   using this database. Individual videos and images may not be used outside the scope
   of this database (e.g. in marketing purposes) without prior permission.
 method: SS
-partner: false
 publicly_available: true
 references:
   NVV16: Nuutinen M, Virtanen T, Vaahteranoksa M, Vuori T, Oittinen P, Hakkinen J.

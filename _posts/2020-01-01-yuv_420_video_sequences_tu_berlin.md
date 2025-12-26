@@ -8,7 +8,6 @@ database: YUV 4:2:0 Video Sequences (TU Berlin)
 broken_link: false
 excerpt: ''
 external_link: http://www.tkn.tu-berlin.de/research/evalvid/
-partner: true
 publicly_available: true
 resolution: CIF, QCIF
 subjective_scores: false

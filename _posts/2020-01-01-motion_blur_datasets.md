@@ -14,7 +14,6 @@ license: 'Copyright 2006-2010 Mitsubishi Electric Research Laboratories All Righ
   paragraphs appear in all copies. To request permission to incorporate this software
   into commercial products contact: Vice President of Marketing and Business Development;
   Mitsubishi Electric Research Laboratories (MERL), 201 Broadway, Cambridge, MA 02139.'
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

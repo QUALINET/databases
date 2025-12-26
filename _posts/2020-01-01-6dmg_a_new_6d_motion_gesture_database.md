@@ -14,7 +14,6 @@ broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2012/6dmg/
 other: Motion gesture
-partner: false
 publicly_available: true
 ratings: 28
 references:

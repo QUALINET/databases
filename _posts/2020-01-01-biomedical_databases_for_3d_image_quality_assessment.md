@@ -9,7 +9,6 @@ broken_link: false
 excerpt: ''
 access: Contact Gabriel Cristobal (gabriel@optica.csic.es) for access information.
 external_link: http://ftp.optica.csic.es/page58/page58.html
-partner: true
 publicly_available: true
 subjective_scores: false
 tags:

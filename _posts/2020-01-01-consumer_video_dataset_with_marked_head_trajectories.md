@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Head trajectories
-partner: false
 publicly_available: true
 references:
   SRH13: Jouni Sarvanko, Mika Rautiainen, Arto Heikkinen, Mika Ylianttila, Consumer

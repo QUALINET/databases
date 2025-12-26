@@ -14,7 +14,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.ee.cuhk.edu.hk/~snli/anaglyph_database.htm
 method: Custom
-partner: false
 publicly_available: true
 ratings: 20
 references:

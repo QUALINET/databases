@@ -17,7 +17,6 @@ excerpt: ''
 external_link: http://www.mpi-inf.mpg.de/resources/hdr/iqm-evaluation/
 hrc: 15
 method: Custom
-partner: false
 publicly_available: true
 ratings: 35
 references:

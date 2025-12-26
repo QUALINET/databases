@@ -9,7 +9,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www.cs.stonybrook.edu/~kyun/research/gaze/index.html
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 11
 references:

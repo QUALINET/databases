@@ -12,7 +12,6 @@ excerpt: ''
 external_link: http://www.hdrv.org/Resources.php
 license: All data, code and other information in the HDRv repository may be used freely
   under the terms of the creative commons license CC BY-NC 3.0 (http://creativecommons.org/licenses/by-nc/3.0/).
-partner: false
 publicly_available: true
 references:
   EWM13: 'Gabriel Eilertsen, Robert Wanat, Rafal Mantiuk, Jonas Unger: Evaluation

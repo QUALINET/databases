@@ -17,7 +17,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article771
 hrc: 20
 method: ACR
-partner: true
 publicly_available: true
 references:
   PBP12: "Yohann Pitrey ; Marcus Barkowsky ; Romuald P\xE9pion ; Patrick Le Callet\

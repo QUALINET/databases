@@ -14,7 +14,6 @@ excerpt: ''
 external_link: http://avchd.intec.ugent.be/
 hrc: 57
 method: ACR
-partner: true
 publicly_available: true
 ratings: 40
 references:

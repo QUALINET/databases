@@ -11,7 +11,6 @@ database: Middlebury Stereo Datasets
 broken_link: false
 excerpt: ''
 external_link: http://vision.middlebury.edu/stereo/data/
-partner: false
 publicly_available: true
 references:
   HS07: "H. Hirschm\xFCller and D. Scharstein. Evaluation of cost functions for stereo\

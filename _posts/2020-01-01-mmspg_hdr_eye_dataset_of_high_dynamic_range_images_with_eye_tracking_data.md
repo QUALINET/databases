@@ -13,7 +13,6 @@ external_link: http://mmspg.epfl.ch/hdr-eye
 hrc: 2
 method: ACR
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 20
 references:

@@ -14,7 +14,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1156
 hrc: 34
 method: ACR-HR
-partner: true
 publicly_available: true
 ratings: 32
 references:

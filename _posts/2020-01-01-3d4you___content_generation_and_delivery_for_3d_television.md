@@ -24,7 +24,6 @@ license: 'The supplied data is provided free of charge and made available for us
   be sold, let for hire, or by way of trade, offered or exposed for sale or hire.
   This restriction shall apply to the original material or to any reproduction of
   it in whole or in part.'
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

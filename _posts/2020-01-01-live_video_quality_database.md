@@ -23,7 +23,6 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/live_video.html Perm
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database.'
 method: ACR
-partner: false
 publicly_available: true
 ratings: 29
 references:

@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://imag.pub.ro/~bionescu/index_files/Page13170.htm
 other: Metadata
-partner: false
 publicly_available: true
 references:
   IPL15: "B. Ionescu, A. Popescu, M. Lupu, A. G\xEEnsc\u0103, B. Boteanu, H. M\xFC\

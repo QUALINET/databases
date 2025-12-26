@@ -11,7 +11,6 @@ excerpt: ''
 external_link: http://www.aimbot-labs.com/datasets/nemezis.html
 license: The authors of the research paper are the copyright holders of all the traces
   included in the dataset.
-partner: false
 publicly_available: true
 references:
   GLC11: "Galli, L. and Loiacono, D. and Cardamone, L. and Lanzi, P.L. \u201CA cheating\

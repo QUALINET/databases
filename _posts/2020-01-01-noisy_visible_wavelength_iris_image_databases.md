@@ -22,7 +22,6 @@ external_link: http://iris.di.ubi.pt/
 license: 'A copy of all reports and papers that use the UBIRIS.v2 database and are
   for public or general release must be forwarded immediately upon release or publication
   to the SOCIA Lab. email address: socia@di.ubi.pt.'
-partner: true
 publicly_available: true
 references:
   PA05: "Proen\xE7a, H., Alexandre, L. A. UBIRIS: A noisy iris image database, 13th\

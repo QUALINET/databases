@@ -17,7 +17,6 @@ hrc: 1
 license: The dataset is released under a creative commons license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
 method: Custom
 other: Near-duplicate annotations
-partner: false
 publicly_available: true
 ratings: 10
 references:

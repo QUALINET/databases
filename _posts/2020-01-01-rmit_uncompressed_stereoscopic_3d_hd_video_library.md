@@ -16,7 +16,6 @@ license: The database is freely available online via the Creative Commons Attrib
   purposes, where the content and authors must be credited. Researchers are encouraged
   to contribute 3D content to grow the resource for the 3D video research community,
   however, all new content must also carry this same license. (http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB)
-partner: true
 publicly_available: true
 references:
   CBB12: 'E. Cheng, P. Burton, J. Burton, A. Joseski, I. Burnett, "RMIT3DV: Pre-Announcement

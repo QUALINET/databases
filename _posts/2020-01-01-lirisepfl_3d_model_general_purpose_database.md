@@ -10,7 +10,6 @@ broken_link: false
 excerpt: ''
 external_link: http://liris.cnrs.fr/guillaume.lavoue/data/datasets.html
 method: SSIS
-partner: true
 publicly_available: true
 ratings: 12
 references:

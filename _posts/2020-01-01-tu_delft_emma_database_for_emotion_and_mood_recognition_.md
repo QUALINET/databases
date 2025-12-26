@@ -14,7 +14,6 @@ broken_link: false
 excerpt: ''
 external_link: http://ii.tudelft.nl/iqlab/EMMA.html
 other: Mood annotations, Emotion annotations, Kinect skeleton joints
-partner: true
 publicly_available: true
 references:
   KR15: "Katsimerou C and Redi J, \u201CNeural prediction of the user\u2019s mood\

@@ -23,7 +23,6 @@ license: "Permission is hereby granted, without written agreement and without li
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
 other: Privacy annotation
-partner: true
 publicly_available: true
 references:
   BKR15: M. Bonetto, P. Korshunov, G. Ramponi, and T. Ebrahimi. Privacy in Mini-drone

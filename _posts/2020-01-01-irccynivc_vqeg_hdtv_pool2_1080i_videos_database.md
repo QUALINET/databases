@@ -19,7 +19,6 @@ excerpt: ''
 external_link: http://130.66.64.103/spip.php?article775
 hrc: 15
 method: ACR
-partner: true
 publicly_available: true
 ratings: 24
 references:

@@ -15,7 +15,6 @@ database: Mobile 3DTV content delivery optimization over DVB-H system
 broken_link: false
 excerpt: ''
 external_link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/
-partner: false
 publicly_available: true
 references:
   3DTV: http://sp.cs.tut.fi/mobile3dtv/results/

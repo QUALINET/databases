@@ -11,7 +11,6 @@ database: Multi-Lens Stereoscopic Synthetic Video Dataset
 broken_link: true
 excerpt: ''
 external_link: http://maserati.cs.pdx.edu/Dataset/
-partner: false
 publicly_available: true
 references:
   ZFF15: Fan Zhang, Wu-chi Feng, and Feng Liu. A Multi-Lens Stereoscopic Synthetic

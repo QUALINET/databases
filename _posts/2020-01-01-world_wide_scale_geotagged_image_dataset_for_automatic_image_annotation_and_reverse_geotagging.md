@@ -14,7 +14,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Geotags
-partner: false
 publicly_available: true
 references:
   MWH14: "H. Mousselly-Sergieh, D. Watzinger, B. Huber, M. D\xF6ller, E. Egyed-Zsigmond,\

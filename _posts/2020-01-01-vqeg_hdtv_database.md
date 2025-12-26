@@ -9,7 +9,6 @@ excerpt: ''
 external_link: https://www.cdvl.org
 hrc: 15
 method: ACR
-partner: false
 publicly_available: true
 ratings: 24
 resolution: 1080i/p

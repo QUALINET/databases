@@ -20,7 +20,6 @@ license: "Permission is hereby granted, without written agreement and without li
   \ provided hereunder is on an \"as is\" basis and the Ecole Polytechnique F\xE9\
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
-partner: true
 publicly_available: true
 references:
   RYA15: 'Martin Rerabek, Lin Yuan, Leonard Authier, Touradj Ebramini: [ISO/IEC JTC

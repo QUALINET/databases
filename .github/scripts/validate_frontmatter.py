@@ -25,7 +25,7 @@ REQUIRED_FIELDS = [
 VALID_CATEGORIES = {"image", "video", "audiovisual", "audio"}
 
 # Fields that should be boolean
-BOOLEAN_FIELDS = ["partner", "publicly_available", "subjective_scores", "broken_link"]
+BOOLEAN_FIELDS = ["publicly_available", "subjective_scores", "broken_link"]
 
 # Fields that should be strings (not lists/dicts unless specified)
 STRING_FIELDS = ["title", "database", "author", "external_link", "access", "citation", "license", "contact_name", "contact_email", "resolution", "method", "doi", "excerpt"]

@@ -13,7 +13,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article541
 hrc: 7
 method: ACR, SAMVIQ
-partner: true
 publicly_available: true
 ratings: 27
 references:

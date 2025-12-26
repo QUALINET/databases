@@ -11,7 +11,6 @@ database: Ultra high definition HEVC DASH data set
 broken_link: false
 excerpt: ''
 external_link: http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/
-partner: false
 publicly_available: true
 references:
   LTP14: ' J. Le Feuvre, J-M. Thiesse, M. Parmentier, M. Raulet, C. Daguet, Ultra

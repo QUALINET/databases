@@ -28,7 +28,6 @@ license: "Permission is hereby granted, without written agreement and without li
   d\xE9rale de Lausanne (EPFL) has no obligation to provide maintenance, support,\
   \ updates, enhancements, or modifications."
 method: ACR
-partner: true
 publicly_available: true
 ratings: 17
 references:

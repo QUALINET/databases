@@ -7,7 +7,6 @@ contact_name: Olukunle Ojetola (olukunle.ojetola@coventry.ac.uk)
 database: Data Set of Fall Events and Daily Activities from Inertial Sensors
 excerpt: ''
 external_link: http://skuld.cs.umass.edu/traces/mmsys/2015/paper-15/
-partner: false
 publicly_available: true
 ratings: 42
 references:

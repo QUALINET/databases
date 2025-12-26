@@ -17,7 +17,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/BrokenArrows/
 hrc: 12
 method: DSIS
-partner: true
 publicly_available: true
 ratings: 17
 references:

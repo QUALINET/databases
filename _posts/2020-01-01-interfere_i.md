@@ -8,7 +8,6 @@ database: INTERFERE I
 broken_link: false
 excerpt: ''
 external_link: http://www.erc-interfere.eu/downloads.html#INTERFERE-I
-partner: true
 publicly_available: true
 references:
   BAS15,: D.Blinder, A.Ahar, A.Symeonidou, Y.Xing, T.Bruylants, C.Schretter, B. Pesquet-Popescu,

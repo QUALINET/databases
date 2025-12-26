@@ -16,7 +16,6 @@ broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/wow/
 other: Avatar traces
-partner: false
 publicly_available: true
 references:
   LCC11: Y. Lee, K. Chen, Y. Cheng, C. Lei, World of Warcraft Avatar History Dataset,

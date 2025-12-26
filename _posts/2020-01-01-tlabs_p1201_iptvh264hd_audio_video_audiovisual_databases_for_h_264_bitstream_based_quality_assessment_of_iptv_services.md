@@ -15,7 +15,6 @@ external_link: ftp://ftp.ivc.polytech.univ-nantes.fr/VQEG/JEG/HYBRID/database_TL
 hrc: 30
 method: ACR
 other: bitstream- and packet loss-related information
-partner: true
 publicly_available: true
 ratings: 24
 references:

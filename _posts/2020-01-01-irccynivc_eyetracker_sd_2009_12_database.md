@@ -14,7 +14,6 @@ external_link: http://www.irccyn.ec-nantes.fr/spip.php?article550
 hrc: 4
 method: ACR
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 30
 references:

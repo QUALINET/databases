@@ -14,7 +14,6 @@ excerpt: ''
 external_link: http://grebjpeg.epfl.ch/jpeg_pc/index_Bi-plane.html
 license: The data is distributed under the CClicence - Creative Commons Attribution-Noncommercial-ShareAlike
   (CC BY-NC-SA 4.0). The full licence info can be viewed here (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-partner: false
 publicly_available: true
 src: 5
 subjective_scores: false

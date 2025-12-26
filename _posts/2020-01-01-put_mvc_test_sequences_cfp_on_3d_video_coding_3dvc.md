@@ -28,7 +28,6 @@ license: "Copyright: Individuals and organizations extracting sequences from thi
   \ materials and expressly disclaim any warranties regarding their fitness for any\
   \ purpose. Owners: Poznan University of Technology, Chair of Multimedia Telecommunications\
   \ and Microelectronics, Polanka 360-965, Pozna\xF1, Poland."
-partner: false
 publicly_available: true
 references:
   DGK09: "Marek Doma\xF1ski, Tomasz Grajek, Krzysztof Klimaszewski, Maciej Kurc, Olgierd\

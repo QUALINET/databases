@@ -13,7 +13,6 @@ excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 hrc: 149
 other: Manualy selected an annotated events
-partner: false
 publicly_available: true
 references:
   PSM13: "Symeon Papadopoulos, Emmanouil Schinas, Vasileios Mezaris, Rapha\xEBl Troncy,\

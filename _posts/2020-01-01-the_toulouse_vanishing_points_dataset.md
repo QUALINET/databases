@@ -12,7 +12,6 @@ broken_link: true
 excerpt: ''
 external_link: http://ubee.enseeiht.fr/tvpd/
 other: Vanishing points
-partner: false
 publicly_available: true
 references:
   AGC15: V. Angladon, S. Gasparini, V. Charvillat. The Toulouse Vanishing Points Datase,

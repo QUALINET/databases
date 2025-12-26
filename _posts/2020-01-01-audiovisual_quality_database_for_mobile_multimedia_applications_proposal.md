@@ -9,7 +9,6 @@ broken_link: true
 excerpt: ''
 access: Contact Lingfen Sun (L.Sun@plymouth.ac.uk) for access information.
 external_link: http://www.tech.plym.ac.uk/spmc/people/lfsun/
-partner: true
 publicly_available: true
 subjective_scores: true
 tags:

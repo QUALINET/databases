@@ -7,7 +7,6 @@ database: Image Databases at the Image Sciences Institute (UMC Utrecht)
 broken_link: false
 excerpt: ''
 external_link: http://www.isi.uu.nl/Research/Databases/
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

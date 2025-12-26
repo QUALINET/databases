@@ -12,7 +12,6 @@ excerpt: ''
 external_link: http://mict.eng.u-toyama.ac.jp/mictdb.html
 hrc: 12
 method: ACR
-partner: true
 publicly_available: true
 ratings: 16
 resolution: 768x512

@@ -7,7 +7,6 @@ database: "Digital Cinema Initiatives \u2013 StEM Material"
 broken_link: false
 excerpt: ''
 external_link: http://www.dcimovies.com/StEM/
-partner: false
 publicly_available: true
 resolution: 4k, 2k
 subjective_scores: false

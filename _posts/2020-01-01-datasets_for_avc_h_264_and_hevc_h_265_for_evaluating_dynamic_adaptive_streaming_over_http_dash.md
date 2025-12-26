@@ -14,7 +14,6 @@ broken_link: false
 excerpt: ''
 external_link: https://www.ucc.ie/en/misl//research/current/ivid_dataset/
 hrc: 5
-partner: false
 publicly_available: true
 references:
   QZS16: Quinlan, J.J., Zahran, A.H., Sreenan, C.J. Datasets for AVC (H.264) and HEVC

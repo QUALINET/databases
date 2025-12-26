@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://mclab.citi.sinica.edu.tw/dataset/lared/lared.html
 other: Depth image
-partner: false
 publicly_available: true
 references:
   HSL14: 'Yuan-Sheng Hsiao, Jordi Sanchez-Riera, Tekoing Lim, Kai-Lung Hua, Wen-Huang

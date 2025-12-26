@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Neubot network data
-partner: false
 publicly_available: true
 references:
   BSM14: S. Basso, A. Servetti, E. Masala, J. C. De Martin, Measuring DASH streaming

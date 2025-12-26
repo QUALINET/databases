@@ -12,7 +12,6 @@ external_link: https://qoe.agh.edu.pl/synat-database/
 hrc: 
 license: Unknown
 method: 
-partner: true
 publicly_available: true
 ratings: 
 references:

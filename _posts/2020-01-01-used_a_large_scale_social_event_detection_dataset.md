@@ -16,7 +16,6 @@ broken_link: false
 excerpt: ''
 external_link: http://loki.disi.unitn.it/~used/
 other: Annotated
-partner: false
 publicly_available: true
 references:
   ACB16: 'Ahmad, K., Conci, N., Boato, G., De Natale, F.G.B. USED: A large-scale social

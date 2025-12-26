@@ -12,7 +12,6 @@ database: Jiku Mobile Video Dataset
 broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-partner: false
 publicly_available: true
 references:
   SVO13: Mukesh Saini, Seshadri Padmanabha Venkatagiri, Wei Tsang Ooi, Mun Choon Chan,

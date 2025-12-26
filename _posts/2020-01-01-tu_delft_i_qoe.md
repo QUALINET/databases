@@ -15,7 +15,6 @@ external_link: http://ii.tudelft.nl/iqlab/iQOE.html
 hrc: 2
 method: Custom
 other: QoE factors
-partner: true
 publicly_available: true
 ratings: 60
 references:

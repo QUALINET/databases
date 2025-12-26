@@ -10,7 +10,6 @@ excerpt: ''
 external_link: http://vision.poly.edu/index.html/index.php?n=HomePage.PerceptualVideoQualityInPresenceOfPacketLoss
 hrc: 1
 method: ACR
-partner: false
 publicly_available: true
 ratings: 32
 references:

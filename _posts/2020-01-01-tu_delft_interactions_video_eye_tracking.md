@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/interactions.html
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 14
 references:

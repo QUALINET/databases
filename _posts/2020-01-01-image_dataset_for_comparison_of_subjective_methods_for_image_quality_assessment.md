@@ -15,7 +15,6 @@ excerpt: ''
 external_link: http://pages.bangor.ac.uk/~eesa0c/projects/subjective_metrics/
 hrc: 6
 method: SS ACR, DS ACR, PC
-partner: false
 publicly_available: true
 ratings: 17
 references:

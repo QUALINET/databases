@@ -9,7 +9,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www-sop.inria.fr/members/Neil.Bruce/#SOURCECODE
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 11
 subjective_scores: false

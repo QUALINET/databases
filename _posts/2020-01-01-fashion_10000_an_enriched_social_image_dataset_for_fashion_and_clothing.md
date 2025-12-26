@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Annotation of fashion images
-partner: false
 publicly_available: true
 references:
   LCR14: 'B. Loni, Lei Yen Cheung, M. Riegler, A. Bozzon, L. Gottlieb, M. Larson,

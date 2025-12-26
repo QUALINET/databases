@@ -18,7 +18,6 @@ license: The data is distributed under the CClicence - Creative Commons Attribut
   (CC BY-NC-SA 4.0). The full licence info can be viewed here (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 method: Custom
 other: XML annotations of privacy regions
-partner: true
 publicly_available: true
 references:
   KE2013: 'Pavel Korshunov and Touradj Ebrahimi, PEViD: Privacy Evaluation Video Dataset,

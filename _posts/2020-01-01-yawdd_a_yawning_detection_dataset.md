@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Yawning detection
-partner: false
 publicly_available: true
 references:
   AOS14: 'S. Abtahi, M. Omidyeganeh, S. Shirmohammadi, B. Hariri, YawDD: a yawning

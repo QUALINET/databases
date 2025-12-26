@@ -10,7 +10,6 @@ database: Monitoring Mobile Video Delivery to Android Devices
 broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
-partner: false
 publicly_available: true
 references:
   EHG13: "Philipp M. Eittenberger, Michael Hamatschek, Marcel Gro\xDFmann, Udo R.\

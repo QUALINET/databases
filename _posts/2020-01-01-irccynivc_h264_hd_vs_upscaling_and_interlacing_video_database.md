@@ -14,7 +14,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article777
 hrc: 29
 method: ACR
-partner: true
 publicly_available: true
 ratings: 26
 references:

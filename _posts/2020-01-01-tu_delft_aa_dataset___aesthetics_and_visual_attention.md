@@ -13,7 +13,6 @@ excerpt: ''
 external_link: http://ii.tudelft.nl/iqlab/A&A.html
 method: ACR
 other: Eyetracking
-partner: true
 publicly_available: false
 ratings: 19
 references:

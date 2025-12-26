@@ -14,7 +14,6 @@ broken_link: false
 excerpt: ''
 external_link: http://ilab.usc.edu/vagba/dataset/
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 14
 references:

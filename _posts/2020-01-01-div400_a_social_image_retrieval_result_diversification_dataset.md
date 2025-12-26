@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Human annotation
-partner: false
 publicly_available: true
 references:
   IRM14: "B. Ionescu, A.-L. Radu, M. Men\xE9ndez, H. M\xFCller, A. Popescu, B. Loni,\

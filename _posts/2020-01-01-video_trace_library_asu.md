@@ -7,7 +7,6 @@ database: Video Trace Library (ASU)
 broken_link: true
 excerpt: ''
 external_link: http://trace.eas.asu.edu/index.html
-partner: false
 publicly_available: true
 resolution: CIF, QCIF
 subjective_scores: false

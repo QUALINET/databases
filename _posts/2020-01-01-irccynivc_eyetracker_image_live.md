@@ -14,7 +14,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article841
 hrc: 1
 other: Eyetracking
-partner: true
 publicly_available: true
 references:
   ELW13: Engelke, U. ; Liu, H. ; Wang, J. ; LE CALLET, P. ; Heynderickx, I. ; Zepernick,

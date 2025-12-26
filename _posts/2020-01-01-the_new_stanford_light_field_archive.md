@@ -7,7 +7,6 @@ database: The (New) Stanford Light Field Archive
 broken_link: false
 excerpt: ''
 external_link: http://lightfield.stanford.edu/lfs.html
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

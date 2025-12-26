@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://concert.itec.aau.at/SVCDataset/
 other: Toolchain
-partner: true
 publicly_available: true
 references:
   KPH15: C. Kreuzberger, D. Posch, H. Hellwagner. A Scalable Video Coding Dataset

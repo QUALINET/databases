@@ -12,7 +12,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.tech.plym.ac.uk/spmc/staff/mgoudarzi/subjective/
 method: ACR
-partner: true
 publicly_available: true
 references:
   GLI10: Goudarzi, M.; Lingfen Sun; Ifeachor, E., Audiovisual Quality Estimation for

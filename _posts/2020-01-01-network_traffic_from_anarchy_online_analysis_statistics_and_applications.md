@@ -16,7 +16,6 @@ license: '[PHH12] A. Petlund, P. Halvorsen, P. Hansen, T. Lindgren, R. Casais, C
   Griwodz, Network Traffic from Anarchy Online: Analysis, Statistics and Applications,
   Proceedings of the Second ACM Multimedia Systems Conference (MMSys), Chapel Hill,
   NC, USA, February 22-24, 2012.'
-partner: false
 publicly_available: true
 references:
   PHH12: 'A. Petlund, P. Halvorsen, P. Hansen, T. Lindgren, R. Casais, C. Griwodz,

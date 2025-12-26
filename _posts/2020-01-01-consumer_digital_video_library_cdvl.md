@@ -17,7 +17,6 @@ license: "NTIA/ITS hereby grants permission for you (or your organization) to us
   \ any Website Content to any third party. You agree to destroy any and all copies\
   \ of Website Content, if any are made, upon conclusion of the relevant audio or\
   \ video processing and/or testing."
-partner: false
 publicly_available: true
 subjective_scores: true
 tags:

@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://home.ifi.uio.no/paalh/dataset/alfheim/
 other: ZXY sensor data
-partner: false
 publicly_available: true
 references:
   PJJ14: S. A. Pettersen, D. Johansen, H. Johansen, V. Berg-Johansen, V. R. Gaddam,

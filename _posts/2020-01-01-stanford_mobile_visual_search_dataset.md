@@ -11,7 +11,6 @@ database: Stanford Mobile Visual Search Dataset
 broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/stanford/
-partner: false
 publicly_available: true
 references:
   CCT11: V. Chandrasekhar, D. Chen, S. Tsai, N. Cheung, H. Chen, G. Takacs, Y. Reznik,

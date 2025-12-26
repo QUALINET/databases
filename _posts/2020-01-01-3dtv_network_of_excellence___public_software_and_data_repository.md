@@ -12,7 +12,6 @@ database: 3DTV Network of Excellence - Public Software and Data Repository
 broken_link: true
 excerpt: ''
 external_link: http://sp.cs.tut.fi/mobile3dtv/stereo-video/
-partner: false
 publicly_available: true
 resolution: 1920x1080
 subjective_scores: false

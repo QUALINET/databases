@@ -10,7 +10,6 @@ database: Uncompressed Colour Image Database (UCID)
 broken_link: false
 excerpt: ''
 external_link: https://service.tib.eu/ldmservice/dataset/ucid
-partner: false
 publicly_available: true
 references:
   SS04: G. Schaefer and M. Stich (2004) "UCID - An Uncompressed Colour Image Database",

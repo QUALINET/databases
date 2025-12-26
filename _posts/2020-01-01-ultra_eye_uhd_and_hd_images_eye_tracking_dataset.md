@@ -29,7 +29,6 @@ license: "Permission is hereby granted, without written agreement and without li
   \ you must include the following copyright below each image: \"\xA9 nvp3d, Lausanne,\
   \ 2012\""
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 20
 references:

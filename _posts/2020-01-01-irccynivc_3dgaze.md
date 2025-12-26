@@ -14,7 +14,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1102
 hrc: 1
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 35
 references:

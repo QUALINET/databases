@@ -13,7 +13,6 @@ excerpt: ''
 external_link: http://mmspg.epfl.ch/jpegxt-hdr
 hrc: 12
 method: DSIS
-partner: true
 publicly_available: true
 ratings: 24
 references:

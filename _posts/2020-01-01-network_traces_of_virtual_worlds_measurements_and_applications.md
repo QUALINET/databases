@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://web.cs.wpi.edu/~claypool/mmsys-dataset/2011/second-life/author.html
 other: 'Virtual world traffic '
-partner: false
 publicly_available: true
 references:
   WHS11: 'Y. Wang, C. Hsu, J. Singh, X Liu, Network Traces of Virtual Worlds: Measurements

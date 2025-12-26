@@ -16,7 +16,6 @@ broken_link: false
 excerpt: ''
 external_link: http://mmi.tudelft.nl/iqlab/video_task_eye_tracking_1
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 14
 references:

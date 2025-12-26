@@ -13,7 +13,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article552
 hrc: 13
 method: ACR
-partner: true
 publicly_available: true
 ratings: 27
 references:

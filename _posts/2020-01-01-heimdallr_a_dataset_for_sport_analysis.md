@@ -15,7 +15,6 @@ excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 method: Custom crowdsourcing
 other: Human annotation
-partner: false
 publicly_available: true
 ratings: 592
 references:

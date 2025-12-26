@@ -12,7 +12,6 @@ excerpt: ''
 external_link: http://ivc.univ-nantes.fr/en/databases/Intentionally_Blurred_Background_Images/
 hrc: 6
 other: Eyetracking
-partner: true
 publicly_available: true
 ratings: 18
 references:

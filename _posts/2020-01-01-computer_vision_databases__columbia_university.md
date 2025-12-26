@@ -8,7 +8,6 @@ database: "Computer Vision Databases \u2013 Columbia University"
 broken_link: false
 excerpt: ''
 external_link: http://www.cs.columbia.edu/CAVE/databases/
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

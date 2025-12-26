@@ -9,7 +9,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www.sfu.ca/~ibajic/datasets.html
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 15
 references:

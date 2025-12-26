@@ -12,7 +12,6 @@ database: High Dynamic Range Imaging Dataset of Natural Scenes
 broken_link: false
 excerpt: ''
 external_link: http://white.stanford.edu/~brian/hdr/hdr.html
-partner: false
 publicly_available: true
 references:
   XDC02: 'F. Xiao, J. DiCarlo, P. Catrysse and B. Wandell, High Dynamic Range Imaging

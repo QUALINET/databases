@@ -10,7 +10,6 @@ excerpt: ''
 external_link: http://www.imagefusion.org/images/petrovic/petrovic.html
 license: These images are the property of Manchester University and other organizations
   and may be used and published with acknowledgment.
-partner: false
 publicly_available: true
 references:
   Pet04: V. Petrovic, Subjective tests for image fusion evaluation and objective performance

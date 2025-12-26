@@ -16,7 +16,6 @@ license: 'Individuals and organizations extracting sequences from this archive a
   purpose of developing, testing and promulgating technology standards. The respective
   owners make no warranties with respect to the materials and expressly disclaim any
   warranties regarding their fitness for any purpose. Owners: Nagoya University, Japan.'
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

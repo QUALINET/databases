@@ -4,7 +4,6 @@ database: The title of the database
 categories: Any of `image`, `video`, `audiovisual`, `audio`
 excerpt: A short description (optional)
 author: The institution/author
-partner: false # if you are a QUALINET partner (optional)
 external_link: A link to the database
 doi: A Digital Object Identifier (DOI) (optional)
 access: A description of how to access the database

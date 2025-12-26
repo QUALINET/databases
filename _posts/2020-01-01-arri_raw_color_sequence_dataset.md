@@ -11,7 +11,6 @@ excerpt: ''
 external_link: ftp://ftp.arri.de/
 license: This work is licensed under the Creative Commons Attribution 3.0 Unported
   License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/deed.en_US.
-partner: false
 publicly_available: true
 references:
   ABS13: 'Andriani, S.; Brendel, H.; Seybold, T.; Goldstone, J., Beyond the Kodak

@@ -17,7 +17,6 @@ database: High Dynamic Range Specific Image Dataset (HDRSID)
 broken_link: true
 excerpt: ''
 external_link: http://faculties.sbu.ac.ir/~moghaddam/index.php/main/page/10
-partner: false
 publicly_available: true
 resolution: 5118x3288
 src: 230

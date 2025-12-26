@@ -23,7 +23,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www.fifadb.com/
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 8
 references:

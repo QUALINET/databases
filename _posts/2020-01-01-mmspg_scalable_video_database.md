@@ -28,7 +28,6 @@ license: "Copyright (c) 2010 The Ecole Polytechnique F\xE9d\xE9rale de Lausanne 
   \ basis and the Ecole Polytechnique F\xE9d\xE9rale de Lausanne (EPFL) has no obligation\
   \ to provide maintenance, support, updates, enhancements, or modifications."
 method: Custom
-partner: true
 publicly_available: true
 ratings: 16
 references:

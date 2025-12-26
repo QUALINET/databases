@@ -10,7 +10,6 @@ broken_link: false
 excerpt: ''
 external_link: http://thediemproject.wordpress.com/
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 250
 references:

@@ -14,7 +14,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article876
 hrc: 16
 method: SAMVIQ
-partner: true
 publicly_available: true
 ratings: 19
 references:

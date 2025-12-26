@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Metadata
-partner: false
 publicly_available: true
 references:
   RPM14: 'T. Reuter, S. Papadopoulos, V. Mezaris, P. Cimiano, ReSEED: social event

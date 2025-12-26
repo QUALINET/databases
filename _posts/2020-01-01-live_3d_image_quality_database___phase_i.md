@@ -24,7 +24,6 @@ license: 'Link: http://live.ece.utexas.edu/research/quality/live_3dimage_phase1.
   and Center for Perceptual Systems (CPS, http://www.cps.utexas.edu) at the University
   of Texas at Austin (UT Austin, http://www.utexas.edu), is acknowledged in any publication
   that reports research using this database.'
-partner: false
 publicly_available: true
 references:
   MSM12: "A.K. Moorthy, C.-C. Su, A. Mittal and A.C. Bovik, \u201CSubjective evaluation\

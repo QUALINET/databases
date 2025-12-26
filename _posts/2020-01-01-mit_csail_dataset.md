@@ -11,7 +11,6 @@ broken_link: false
 excerpt: ''
 external_link: http://people.csail.mit.edu/tjudd/WherePeopleLook/index.html
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 15
 references:

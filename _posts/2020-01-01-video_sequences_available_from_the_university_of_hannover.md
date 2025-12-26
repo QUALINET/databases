@@ -7,7 +7,6 @@ database: Video Sequences Available from the University of Hannover
 broken_link: false
 excerpt: ''
 external_link: http://www.tnt.uni-hannover.de/
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

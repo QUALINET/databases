@@ -12,7 +12,6 @@ license: FTV test sequences can be downloaded and used for academic purposes fol
   the conditions below. In your publication using the FTV test sequences, please mention
   that these sequences are downloaded from [1] under the permission of Tanimoto Lab
   at Nagoya University and list the download link in the reference ([1] http://www.tanimoto.nuee.nagoya-u.ac.jp/).
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

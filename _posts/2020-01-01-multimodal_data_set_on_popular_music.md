@@ -13,7 +13,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Professionally annotated music
-partner: false
 publicly_available: true
 references:
   SOL13: Markus Schedl, Nicola Orio, Cynthia C. S. Liem, Geoffroy Peeters, A Professionally

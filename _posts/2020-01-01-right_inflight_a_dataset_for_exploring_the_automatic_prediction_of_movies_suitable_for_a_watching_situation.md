@@ -14,7 +14,6 @@ broken_link: false
 excerpt: ''
 external_link: http://traces.cs.umass.edu/index.php/Mmsys/Mmsys
 other: Human annotation
-partner: false
 publicly_available: true
 ratings: 584
 references:

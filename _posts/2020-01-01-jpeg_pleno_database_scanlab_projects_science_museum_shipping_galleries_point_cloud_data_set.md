@@ -12,7 +12,6 @@ excerpt: ''
 external_link: https://www.epfl.ch/labs/mmspg/jpeg/
 license: The data is distributed under the CClicence - Creative Commons Attribution-Noncommercial-ShareAlike
   (CC BY-NC-SA 4.0). The full licence info can be viewed here (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-partner: false
 publicly_available: true
 src: 15
 subjective_scores: false

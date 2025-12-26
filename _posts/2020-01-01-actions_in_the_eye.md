@@ -13,7 +13,6 @@ external_link: http://vision.imar.ro/eyetracking/description.php
 license: 'Grant of license free of charge for academic use only. Details about the
   license can be found at: Link: http://vision.imar.ro/eyetracking/license.php'
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 16
 references:

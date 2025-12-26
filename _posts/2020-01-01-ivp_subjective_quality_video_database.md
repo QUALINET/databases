@@ -33,7 +33,6 @@ license: 2011 The Chinese University of Hong Kong All rights reserved.  Permissi
   OF HONG KONG HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS,
   OR MODIFICATIONS.
 method: ACR
-partner: false
 publicly_available: true
 ratings: 42
 resolution: HD (1920x1080)

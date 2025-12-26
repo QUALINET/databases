@@ -7,7 +7,6 @@ database: The Barcelona Calibrated Images Database
 broken_link: false
 excerpt: ''
 external_link: http://www.cvc.uab.es/color_calibration/Database.html
-partner: false
 publicly_available: true
 references:
   PBV10: 'Parraga, C. A., Baldrich, R. & Vanrell, M. Accurate Mapping of Natural Scenes

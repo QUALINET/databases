@@ -6,7 +6,6 @@
 - categories: Any of `Image`, `Video`, `Audiovisual`, `Audio`
 - excerpt: A short description (optional)
 - author: The institution/author
-- partner: 'true' if you are a QUALINET partner (optional), otherwise false
 - external_link: A link to the database
 - doi: A Digital Object Identifier (DOI) (optional)
 - access: A description of how to access the database (e.g. tell people to follow the link, fill out a form, etc.)

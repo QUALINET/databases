@@ -15,7 +15,6 @@ excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/SelectiveEncryption/
 hrc: 25
 method: Custom
-partner: true
 publicly_available: true
 ratings: 21
 references:

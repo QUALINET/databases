@@ -12,7 +12,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www-itec.uni-klu.ac.at/dash/?page_id=207
 other: SSIM values are provided for each layer
-partner: true
 publicly_available: true
 references:
   SHZ13: "Christian Sieber, Tobias Ho\xDFfeld, Thomas Zinner, Phuoc Tran-Gia, Christian\

@@ -9,7 +9,6 @@ database: Mitsubishi Electric Research Laboratories (MERL) MVC Test Sequences
 broken_link: false
 excerpt: ''
 external_link: ftp://ftp.merl.com/pub/avetro/
-partner: false
 publicly_available: true
 subjective_scores: false
 tags:

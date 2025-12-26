@@ -13,7 +13,6 @@ broken_link: true
 excerpt: ''
 external_link: http://ebu-scaie.lab.vrt.be/mammie
 other: Metadata
-partner: false
 publicly_available: true
 references:
   MMB14: "M. Matton, A. Messina, W. Bailer, J.-P. \xC9vain, The EBU MIM-SCAIE content\

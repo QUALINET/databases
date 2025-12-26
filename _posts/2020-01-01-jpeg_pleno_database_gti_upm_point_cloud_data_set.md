@@ -19,7 +19,6 @@ license: "Permission is hereby granted, without written agreement and without li
   \ data provided hereunder is on an \"as is\" basis and the Grupo de Tratamiento\
   \ de Im\xE1genes (GTI-UPM) has no obligation to provide maintenance, support, updates,\
   \ enhancements, or modifications."
-partner: false
 publicly_available: true
 src: 3
 subjective_scores: false

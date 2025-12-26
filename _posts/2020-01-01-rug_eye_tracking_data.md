@@ -14,7 +14,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.ai.rug.nl/~gert/index.php?item=215&menu=200
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 31
 references:

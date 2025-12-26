@@ -10,7 +10,6 @@ database: Image dataset for HDR metric calibration
 broken_link: false
 excerpt: ''
 external_link: http://sourceforge.net/apps/mediawiki/hdrvdp/index.php
-partner: false
 publicly_available: true
 references:
   MKR11: "Rafa\u0142 Mantiuk, Kil Joong Kim, Allan G. Rempel and Wolfgang Heidrich,\

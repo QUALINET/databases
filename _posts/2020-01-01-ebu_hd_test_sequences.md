@@ -7,7 +7,6 @@ database: EBU HD Test Sequences
 broken_link: true
 excerpt: ''
 external_link: http://www.ebu.ch/fr/technical/hdtv/test_sequences.php
-partner: false
 publicly_available: true
 resolution: SD, HD
 subjective_scores: false

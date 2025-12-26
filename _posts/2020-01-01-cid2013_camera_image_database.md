@@ -23,7 +23,6 @@ license: Permission is hereby granted, without written agreement and without lic
   using this database. Individual videos and images may not be used outside the scope
   of this database (e.g. in marketing purposes) without prior permission.
 method: DR-ACR
-partner: false
 publicly_available: true
 ratings: 188
 references:

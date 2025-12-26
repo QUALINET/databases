@@ -18,7 +18,6 @@ broken_link: false
 excerpt: ''
 external_link: http://www.inb.uni-luebeck.de/tools-demos/gaze
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 54
 references:

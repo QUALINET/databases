@@ -11,7 +11,6 @@ broken_link: true
 excerpt: ''
 external_link: http://www.irccyn.ec-nantes.fr/spip.php?article553
 other: Eyetracking
-partner: true
 publicly_available: true
 references:
   LLB06: "O. Le Meur, P. Le Callet, D. Barba and D. Thoreau, A coherent computational\

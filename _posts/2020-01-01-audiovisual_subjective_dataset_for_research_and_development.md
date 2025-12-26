@@ -13,7 +13,6 @@ excerpt: ''
 external_link: https://www.cdvl.org/
 hrc: 9
 method: ACR
-partner: false
 publicly_available: true
 ratings: 189
 references:

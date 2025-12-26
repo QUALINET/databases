@@ -18,7 +18,6 @@ external_link: http://www.labri.fr/
 hrc: 8
 license: To make it available to Qualinet an agreement has been signed with LaBRI.
   Other users will have to sign similar agreement to use the data.
-partner: true
 publicly_available: true
 references:
   BBH11: Boujut, H.; Benois-Pineau, J.; Hadar, O.; Ahmed, T.; Bonnet, P. Weighted-MSE

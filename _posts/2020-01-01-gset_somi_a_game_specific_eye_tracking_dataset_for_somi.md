@@ -18,7 +18,6 @@ license: 'The testbed here is free to use as long as: 1- It is used for non-comm
   dataset by citing the following paper [ATM16]'
 method: Custom
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 84
 references:

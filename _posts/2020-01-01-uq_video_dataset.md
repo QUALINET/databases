@@ -11,7 +11,6 @@ database: UQ_VIDEO dataset
 broken_link: true
 excerpt: ''
 external_link: http://itee.uq.edu.au/~shenht/UQ_VIDEO/
-partner: false
 publicly_available: true
 references:
   SYH11: 'Jingkuan Song, Yi Yang, Zi Huang, Heng Tao Shen, Richang Hong: Multiple

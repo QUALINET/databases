@@ -13,7 +13,6 @@ external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1447
 hrc: 15
 method: ACR-HR
 other: JPEG compression
-partner: true
 publicly_available: true
 ratings: 26
 references:

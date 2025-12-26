@@ -9,7 +9,6 @@ excerpt: ''
 external_link: https://www.cdvl.org/members-section/view-file/?id=3015
 hrc: 16
 method: DSCQS
-partner: false
 publicly_available: true
 ratings: 81
 references:

@@ -10,7 +10,6 @@ broken_link: false
 excerpt: ''
 external_link: https://labs.psych.ucsb.edu/eckstein/miguel/research_pages/saliencydata.html
 other: Eyetracking
-partner: false
 publicly_available: true
 ratings: 100
 references:
