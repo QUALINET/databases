@@ -5,7 +5,7 @@ categories:
 database: LIVE Wireless Video Quality Assessment Database
 excerpt: ''
 external_link: https://live.ece.utexas.edu/research/quality/live_video.html
-access: Please contact the authors to request the database. Link: https://live.ece.utexas.edu/research/quality/live_video.html
+access: 'Please contact the authors to request the database. Link: https://live.ece.utexas.edu/research/quality/live_video.html'
 hrc: 16
 method: SSCQE
 partner: false
