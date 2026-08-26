@@ -1,5 +1,5 @@
 ---
-access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes.fr/Intentionally_Blurred_Background_Images/'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -9,7 +9,8 @@ contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Eye-tracking saliency maps and importance maps for blurred images
 broken_link: false
 excerpt: ''
-external_link: http://ivc.univ-nantes.fr/en/databases/Intentionally_Blurred_Background_Images/
+external_link: https://zenodo.org/records/21295122
+doi: 10.5281/zenodo.21295121
 hrc: 6
 other: Eyetracking
 publicly_available: true

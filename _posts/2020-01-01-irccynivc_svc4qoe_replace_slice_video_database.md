@@ -1,7 +1,5 @@
 ---
-access: 'Video sequences at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_SVC4QoE_ReplaceSlice/  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_SVC4QoE_ReplaceSlice
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
@@ -9,9 +7,10 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [PBL10].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC SVC4QoE Replace Slice Video Database
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article768
+external_link: https://zenodo.org/records/21469038
+doi: 10.5281/zenodo.21469037
 hrc: 15
 method: ACR
 publicly_available: true

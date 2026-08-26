@@ -1,7 +1,5 @@
 ---
-access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes.fr/EyMIR3D/  Qualinet
-  Databases Mirror:  Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_EyMIR3D  Username:
-  dbq-mirrors  Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -9,9 +7,10 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [WPL13].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC 3DGaze
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1102
+external_link: https://zenodo.org/records/21292918
+doi: 10.5281/zenodo.21292917
 hrc: 1
 other: Eyetracking
 publicly_available: true

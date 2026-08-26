@@ -1,10 +1,5 @@
 ---
-access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective quality
-  scores is included in one archive at HTTP (27MB): Link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/BrokenArrows/BA_SubjExp.zip  Still
-  images and a Microsoft Excel spreadsheet, giving all subjective quality scores is
-  included in one archive at HTTP: Link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/BrokenArrows/BA_SubjExp.zip  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_BrokenArrows
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -14,7 +9,8 @@ contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC "Broken Arrows" database
 broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/BrokenArrows/
+external_link: https://zenodo.org/records/22111540
+doi: 10.5281/zenodo.22111539
 hrc: 12
 method: DSIS
 publicly_available: true

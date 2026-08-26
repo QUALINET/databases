@@ -1,15 +1,14 @@
 ---
-access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_Eyetracker_2006_05/  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_Eyetracker_Images_LIVE_Database
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
 citation: Please cite the following paper in any published work if you use it [LLB06].
 database: IRCCyN/IVC Eyetracker 2006 05
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article553
+external_link: https://zenodo.org/records/18163128
+doi: 10.5281/zenodo.18163127
 other: Eyetracking
 publicly_available: true
 references:

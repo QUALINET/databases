@@ -1,16 +1,15 @@
 ---
-access: 'Video sequences at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_1080i_Database/  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_1080i_Database
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [PPL08].
 database: IRCCyN/IVC 1080i Database
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article541
+external_link: https://zenodo.org/records/18186051
+doi: 10.5281/zenodo.18186051
 hrc: 7
 method: ACR, SAMVIQ
 publicly_available: true

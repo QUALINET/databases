@@ -1,14 +1,15 @@
 ---
-access: 'Video sequences at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_SD_RoI_Database/'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
 citation: Please, cite the following paper in your reference if you use this database
   for your work [BCP09].
 database: IRCCyN/IVC SD RoI Database
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article551
+external_link: https://zenodo.org/records/21413192
+doi: 10.5281/zenodo.21413191
 hrc: 14
 method: ACR
 publicly_available: true

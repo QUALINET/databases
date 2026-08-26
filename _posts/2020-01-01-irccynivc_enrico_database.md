@@ -1,8 +1,5 @@
 ---
-access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective quality
-  scores is included in one archive at HTTP (20MB): Link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/Enrico/Enrico.zip  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_Enrico Username:
-  dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -12,7 +9,8 @@ contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC Enrico database
 broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/Enrico/
+external_link: https://zenodo.org/records/22111002
+doi: 10.5281/zenodo.22111001
 hrc: 20
 method: DSIS
 publicly_available: true

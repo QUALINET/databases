@@ -1,5 +1,5 @@
 ---
-access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_HDR_Images_JPEG_Compression/'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -7,9 +7,10 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [NPL13].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC HDR Images JPEG Compression
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1447
+external_link: https://zenodo.org/records/21408688
+doi: 10.5281/zenodo.21408687
 hrc: 15
 method: ACR-HR
 other: JPEG compression

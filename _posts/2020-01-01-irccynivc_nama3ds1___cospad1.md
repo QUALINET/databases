@@ -1,8 +1,5 @@
 ---
-access: 'The database is now available on Zenodo: https://zenodo.org/records/14916311
-  This includes the spreadsheet with individual scores and Mean Opinion Scores (MOS)
-  for each of the 110 Processed Video Sequences (PVS), the PVS (avi videos), and
-  preview images.'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
@@ -10,9 +7,10 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [UGB12].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC NAMA3DS1 - COSPAD1
-broken_link: true
+broken_link: false
 excerpt: ''
 external_link: https://zenodo.org/records/14916311
+doi: 10.5281/zenodo.14916310
 hrc: 10
 method: ACR-HR
 publicly_available: true

@@ -1,16 +1,15 @@
 ---
-access: 'RAR archive (~80MB), no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_Scores_On_Toyama_Images/  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_Scores_On_Toyama_Images
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
 citation: Please, cite one of the following papers [NLL08], [TAP08] in your reference
   if you use this database for your work.
 database: IRCCyN/IVC Scores on Toyama (MICT) Database
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article552
+external_link: https://zenodo.org/records/21411410
+doi: 10.5281/zenodo.21411409
 hrc: 13
 method: ACR
 publicly_available: true

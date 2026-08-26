@@ -1,8 +1,5 @@
 ---
-access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective quality
-  scores is included in one archive at HTTP (52MB): Link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/FourierSB/FourierSB.zip  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_FourierSB
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -12,7 +9,8 @@ contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC Fourier Subband database
 broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/FourierSB/
+external_link: https://zenodo.org/records/22111721
+doi: 10.5281/zenodo.22111720
 hrc: 42
 method: DSIS
 publicly_available: true

@@ -1,7 +1,5 @@
 ---
-access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_DIBR_Videos/  Qualinet
-  Databases Mirror:  Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_DIBR_Videos  Username:
-  dbq-mirrors  Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
@@ -9,9 +7,9 @@ citation: Please, cite the following paper in your publications if you use this 
   in your work [BLM12].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC DIBR Videos
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1156
+external_link: https://zenodo.org/records/10650355
 hrc: 34
 method: ACR-HR
 publicly_available: true

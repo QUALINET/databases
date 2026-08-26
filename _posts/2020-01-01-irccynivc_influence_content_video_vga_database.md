@@ -1,10 +1,5 @@
 ---
-access: 'Video sequences at FTP: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_Influence_Content/Videos/
-  Spreadsheet with the individual scores and the Mean Opinion Score (MOS) for each
-  of the 300 PVS: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_Influence_Content/IRCCyN_IVC_Influence_Content_Database_Score.xls
-  A text file describes the exact conditions in which the videos were evaluated: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCyN_IVC_Influence_Content/General_Condition_IRCCyN_IVC_Influence_Content_Database.txt  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_Influence_Content
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
@@ -12,9 +7,10 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [PBP12].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Influence Content Video VGA database
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article771
+external_link: https://zenodo.org/records/21411001
+doi: 10.5281/zenodo.21411000
 hrc: 20
 method: ACR
 publicly_available: true

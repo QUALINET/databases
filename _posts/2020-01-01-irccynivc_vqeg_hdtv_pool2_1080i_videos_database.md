@@ -1,12 +1,5 @@
 ---
-access: 'The PVS (avi videos) and the bitstreams (H.264 and MPEG2 files) are available
-  for download free of charge on the Consumer Digital Video Library (www.cdvl.org)
-  due to copyright restrictions of the source content. They can be identified as being
-  part of the VQEG HDTV dataset 2 (vqeghd2). In order to access them, use the CDVL
-  search function with : "Subjective Experiment vqeghd2" and select "Match all". Spreadsheet
-  with the individual scores and the Mean Opinion Score (MOS) for each of the 168
-  Processed Video Sequences (PVS): Link: ftp://ftp.ivc.polytech.univ-nantes.fr/VQEG_HDTV_Pool2/VQEG_HDTV_Pool2_Database_Score.xls
-  Bitstreams (hmix and pcap files) on  ftp server: Link: ftp://ftp.ivc.polytech.univ-nantes.fr/VQEG_HDTV_Pool2/'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
@@ -14,9 +7,10 @@ citation: Please, cite the following paper in your publications if you use this 
   in your work [BPP10].
 contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC VQEG HDTV Pool2 1080i Videos database
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://130.66.64.103/spip.php?article775
+external_link: https://zenodo.org/records/21486576
+doi: 10.5281/zenodo.21486575
 hrc: 15
 method: ACR
 publicly_available: true

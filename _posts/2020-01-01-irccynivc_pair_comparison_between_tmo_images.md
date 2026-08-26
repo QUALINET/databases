@@ -1,5 +1,5 @@
 ---
-access: 'Database at FTP, no password. Link: ftp://ftp.ivc.polytech.univ-nantes.fr/PairCompTMO/'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -9,7 +9,8 @@ contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC Pair Comparison between TMO images
 broken_link: false
 excerpt: ''
-external_link: http://ivc.univ-nantes.fr/en/databases/PairCompTMO/
+external_link: https://zenodo.org/records/21411296
+doi: 10.5281/zenodo.21411295
 hrc: 10
 method: Pair comparison
 publicly_available: true

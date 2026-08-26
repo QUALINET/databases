@@ -1,8 +1,5 @@
 ---
-access: 'Still images and a Microsoft Excel spreadsheet, giving all subjective quality
-  scores is included in one archive at HTTP (31MB): Link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/MeerwaldDB/MeerwaldDB.zip  Qualinet
-  Databases Mirror: Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_DWTvsDTCWT
-  Username: dbq-mirrors Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -12,7 +9,8 @@ contact_name: Florent Autrusseau (Florent.Autrusseau@univ-nantes.fr)
 database: IRCCyN/IVC DWTvsDTCWT DB
 broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/~autrusse/Databases/MeerwaldDB/
+external_link: https://zenodo.org/records/22111775
+doi: 10.5281/zenodo.22111774
 hrc: 24
 method: DSIS
 publicly_available: true

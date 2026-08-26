@@ -1,5 +1,5 @@
 ---
-access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes.fr/IRCCYN_IVC_HD_UHD_Eyetracking_Videos/'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - video
@@ -7,7 +7,8 @@ contact_name: ivcdb@univ-nantes.fr
 database: IRCCyN/IVC HD UHD Eyetracking Videos
 broken_link: false
 excerpt: ''
-external_link: http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/
+external_link: https://zenodo.org/records/22008461
+doi: 10.5281/zenodo.22008460
 other: Eyetracking
 publicly_available: true
 ratings: 42

@@ -1,7 +1,5 @@
 ---
-access: 'Database at FTP, no password.  Link: ftp://ftp.ivc.polytech.univ-nantes.fr/ETHyma/  Qualinet
-  Databases Mirror:  Link: ftpes://multimediatech.cz/IRCCyN_IVC/IRCCyN_IVC_ETHyma
-  Username: dbq-mirrors  Password: kucykepe'
+access: Openly available for download from Zenodo
 author: IRCCyN/IVC
 categories:
 - image
@@ -9,9 +7,10 @@ citation: Please, cite the following paper in your reference if you use this dat
   for your work [NPL12].
 contact_name: romuald.pepion@univ-nantes.fr
 database: IRCCyN/IVC ETHyma
-broken_link: true
+broken_link: false
 excerpt: ''
-external_link: http://www.irccyn.ec-nantes.fr/spip.php?article1192
+external_link: https://zenodo.org/records/21294057
+doi: 10.5281/zenodo.21294056
 hrc: 8
 other: Eyetracking
 publicly_available: true
